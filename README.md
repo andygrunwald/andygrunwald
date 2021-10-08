@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Andy Grunwald
 
+I am a Software Engineer with a focus on **Backend**, **Infrastructure**, and **Engineering Culture**.
+
 ### 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
