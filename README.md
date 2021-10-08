@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋 Hi, I'm Andy Grunwald
+
+### 📝 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+View the archives @ [andygrunwald.com](https://andygrunwald.com/).
+
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/andygrunwald?label=Follow&style=social)](https://twitter.com/andygrunwald)
 
 <!--
 **andygrunwald/andygrunwald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
