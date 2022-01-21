@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Andy Grunwald
 
-I am Andy, a Software Engineer and Engineering Manager with a focus on **Backend**, **Infrastructure**, and **Engineering Culture**.
+I am a Software Engineer and Engineering Manager from Germany with a focus on **Backend**, **Infrastructure**, and **Engineering Culture**.
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 
 
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 week ago)
@@ -11,16 +11,7 @@ I am Andy, a Software Engineer and Engineering Manager with a focus on **Backend
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 month ago)
 - [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (1 month ago)
 
-#### 🌱 My latest projects
-
-
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
-- [andygrunwald/andygrunwald.github.io](https://github.com/andygrunwald/andygrunwald.github.io) - andygrunwald.com
-- [andygrunwald/no-information](https://github.com/andygrunwald/no-information) - 
-- [andygrunwald/wiki-test](https://github.com/andygrunwald/wiki-test) - 
-- [andygrunwald/hassio-addon-fhem](https://github.com/andygrunwald/hassio-addon-fhem) - FHEM for http://hass.io/
-
-#### 🔭 Latest releases I've contributed to
+### 🔭 Latest releases I've contributed to
 
 
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 1 week ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
@@ -29,7 +20,7 @@ I am Andy, a Software Engineer and Engineering Manager with a focus on **Backend
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.11.0](https://github.com/palantir/go-githubapp/releases/tag/v0.11.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 5 months ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
 
-#### 🔨 Latest Pull Requests I published
+### 🔨 Latest Pull Requests I published
 
 
 - [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (today)
