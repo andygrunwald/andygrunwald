@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (today)
-- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (today)
-- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (today)
+- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 day ago)
+- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 day ago)
+- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 day ago)
 - [Client Example: Fix closing order](https://github.com/rabbitmq/amqp091-go/pull/35) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 week ago)
 - [Client example: Use instance logger instead of global logger](https://github.com/rabbitmq/amqp091-go/pull/34) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 week ago)
 
