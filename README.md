@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Andy Grunwald
 
-I am a Software Engineer and Engineering Manager from Germany with a focus on **Backend**, **Infrastructure**, and **Engineering Culture**.
+I am a Software Engineer and Engineering Manager from Germany with a focus on **Backend-Systems** and **Infrastructure**, **Engineering Culture** and **People**.
 
 ### 👷 Check out what I'm currently working on
 
@@ -40,8 +40,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 ### 📫 How to reach me
 
-- Twitter: https://twitter.com/andygrunwald
-- Website: https://andygrunwald.com
+- Twitter: [@andygrunwald](https://twitter.com/andygrunwald)
+- Website: [andygrunwald.com](https://andygrunwald.com)
 - Email: andygrunwald (at) gmail (dot) com
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andygrunwald?label=Follow&style=social)](https://twitter.com/andygrunwald)
