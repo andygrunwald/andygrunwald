@@ -7,7 +7,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 week ago)
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 week ago)
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (2 weeks ago)
 - [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2) (3 weeks ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (3 weeks ago)
 
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 week ago)
-- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 week ago)
-- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 week ago)
+- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (2 weeks ago)
+- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (2 weeks ago)
+- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (2 weeks ago)
 - [Client Example: Fix closing order](https://github.com/rabbitmq/amqp091-go/pull/35) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (3 weeks ago)
 - [Client example: Use instance logger instead of global logger](https://github.com/rabbitmq/amqp091-go/pull/34) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (3 weeks ago)
 
