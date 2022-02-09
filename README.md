@@ -8,16 +8,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 week ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 weeks ago)
 - [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (2 weeks ago)
-- [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2) (4 weeks ago)
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (4 weeks ago)
+- [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2) (1 month ago)
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 3 weeks ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 3 weeks ago) - Go library for accessing the GitHub API
-- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 3 weeks ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.11.0](https://github.com/palantir/go-githubapp/releases/tag/v0.11.0), 4 weeks ago) - A simple Go framework for building GitHub Apps
+- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 4 weeks ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.11.0](https://github.com/palantir/go-githubapp/releases/tag/v0.11.0), 1 month ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 5 months ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
 
 ### 🔨 Latest Pull Requests I published
