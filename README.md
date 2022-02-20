@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.0), 1 day ago) - Go client library for Atlassian Jira
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.0), 2 days ago) - Go client library for Atlassian Jira
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 1 month ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 1 month ago) - Go library for accessing the GitHub API
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (4 weeks ago)
-- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (4 weeks ago)
-- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (4 weeks ago)
+- [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
+- [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
+- [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 - [Client Example: Fix closing order](https://github.com/rabbitmq/amqp091-go/pull/35) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 - [Client example: Use instance logger instead of global logger](https://github.com/rabbitmq/amqp091-go/pull/34) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 
@@ -33,7 +33,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (5 months ago)
-- [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (6 months ago)
+- [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (7 months ago)
 - [Web Engineering DUS Meetup: Recap of 2019](https://andygrunwald.com/blog/web-engineering-dus-recap-of-2019/) (2 years ago)
 - [things with buzzers: a sports competition](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/) (2 years ago)
 - [things with buzzers: playing a Jeopardy! game](https://andygrunwald.com/blog/things-with-buzzers-playing-a-jeopardy-game/) (2 years ago)
