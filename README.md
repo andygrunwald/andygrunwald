@@ -14,9 +14,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), today) - Go library for accessing the GitHub API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 4 days ago) - Go client library for Atlassian Jira
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 1 month ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
-- [google/go-github](https://github.com/google/go-github) ([v42.0.0](https://github.com/google/go-github/releases/tag/v42.0.0), 1 month ago) - Go library for accessing the GitHub API
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.11.0](https://github.com/palantir/go-githubapp/releases/tag/v0.11.0), 1 month ago) - A simple Go framework for building GitHub Apps
 
