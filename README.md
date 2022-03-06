@@ -7,8 +7,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (today)
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 month ago)
-- [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 month ago)
+- [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
