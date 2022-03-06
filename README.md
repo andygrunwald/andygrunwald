@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (today)
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 month ago)
-- [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 month ago)
-- [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2) (1 month ago)
+- [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Added background for MySQL and MariaDB](https://github.com/EngineeringKiosk/OSS-Names/pull/1) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (today)
 - [Testing: Added first fuzzing tests and fixed one bug (yeah!)](https://github.com/andygrunwald/vdf/pull/14) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 week ago)
 - [Example client: Rename Stream() to Consume()  to avoid confusion with RabbitMQ streams](https://github.com/rabbitmq/amqp091-go/pull/39) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 - [Example client: Rename `name` to `queueName` to make the usage clear and explicit](https://github.com/rabbitmq/amqp091-go/pull/38) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 - [Client example: Renamed concept &#34;Session&#34; to &#34;Client&#34;](https://github.com/rabbitmq/amqp091-go/pull/37) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
-- [Client Example: Fix closing order](https://github.com/rabbitmq/amqp091-go/pull/35) on [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) (1 month ago)
 
 ### 📝 My recent blog posts
 
