@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Added Laravel](https://github.com/EngineeringKiosk/OSS-Names/pull/9) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (today)
 - [Added Kafka](https://github.com/EngineeringKiosk/OSS-Names/pull/6) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
 - [Added cURL](https://github.com/EngineeringKiosk/OSS-Names/pull/5) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
 - [Add Kubernetes](https://github.com/EngineeringKiosk/OSS-Names/pull/4) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
 - [Added background for MySQL and MariaDB](https://github.com/EngineeringKiosk/OSS-Names/pull/1) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
-- [Testing: Added first fuzzing tests and fixed one bug (yeah!)](https://github.com/andygrunwald/vdf/pull/14) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 week ago)
 
 ### 📝 My recent blog posts
 
