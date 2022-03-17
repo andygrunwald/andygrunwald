@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
-- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (4 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (5 days ago)
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 month ago)
 - [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 month ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), today) - A simple Go framework for building GitHub Apps
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 1 day ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 2 weeks ago) - Go library for accessing the GitHub API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 2 weeks ago) - Go client library for Atlassian Jira
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 2 months ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add Markdown Table of Content Generator](https://github.com/EngineeringKiosk/OSS-Names/pull/10) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
-- [Added Laravel](https://github.com/EngineeringKiosk/OSS-Names/pull/9) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (5 days ago)
+- [Add Markdown Table of Content Generator](https://github.com/EngineeringKiosk/OSS-Names/pull/10) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (6 days ago)
+- [Added Laravel](https://github.com/EngineeringKiosk/OSS-Names/pull/9) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (6 days ago)
 - [Added Kafka](https://github.com/EngineeringKiosk/OSS-Names/pull/6) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (1 week ago)
 - [Added cURL](https://github.com/EngineeringKiosk/OSS-Names/pull/5) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (1 week ago)
 - [Add Kubernetes](https://github.com/EngineeringKiosk/OSS-Names/pull/4) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (1 week ago)
@@ -32,7 +32,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (5 months ago)
+- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (6 months ago)
 - [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (7 months ago)
 - [Web Engineering DUS Meetup: Recap of 2019](https://andygrunwald.com/blog/web-engineering-dus-recap-of-2019/) (2 years ago)
 - [things with buzzers: a sports competition](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/) (2 years ago)
