@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
-- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (6 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 days ago)
+- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (1 week ago)
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp` (1 month ago)
 - [andygrunwald/dotfiles](https://github.com/andygrunwald/dotfiles) - My .files (1 month ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 month ago)
@@ -14,9 +14,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 2 days ago) - A simple Go framework for building GitHub Apps
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 3 days ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 2 weeks ago) - Go library for accessing the GitHub API
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 2 weeks ago) - Go client library for Atlassian Jira
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 3 weeks ago) - Go client library for Atlassian Jira
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.0), 2 months ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 2 months ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 
