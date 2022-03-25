@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #42: Introduce newline due to Jinja2 template parsing](https://github.com/mhutter/ansible-docker-systemd-service/pull/44) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
+- [Make `docker_image.force_source` configurable](https://github.com/mhutter/ansible-docker-systemd-service/pull/43) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
 - [Use {{ docker_path }} in systemd unit file and not the hardcoded docker path](https://github.com/mhutter/ansible-docker-systemd-service/pull/40) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (6 days ago)
 - [container_cmd: Switch from string to list to support long cmds in a more readable way](https://github.com/mhutter/ansible-docker-systemd-service/pull/39) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (6 days ago)
 - [Add support for docker&#39;s &#39;--network&#39; flag](https://github.com/mhutter/ansible-docker-systemd-service/pull/38) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (6 days ago)
-- [Add Markdown Table of Content Generator](https://github.com/EngineeringKiosk/OSS-Names/pull/10) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (2 weeks ago)
-- [Added Laravel](https://github.com/EngineeringKiosk/OSS-Names/pull/9) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
