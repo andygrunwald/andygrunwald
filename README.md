@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.2](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.2), 4 days ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.3](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.3), today) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 1 month ago) - Go library for accessing the GitHub API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 1 month ago) - Go client library for Atlassian Jira
