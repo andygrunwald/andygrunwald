@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
-- [andygrunwald/andygrunwald.github.io](https://github.com/andygrunwald/andygrunwald.github.io) - andygrunwald.com (3 days ago)
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (1 week ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Added proper Dependabot configuration and add testing workflow](https://github.com/andygrunwald/go-trending/pull/15) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
+- [GitHub Actions Update: Run tests on macOS, deprecate Go v1.15 and Go v1.16, introduce Go v1.18, run CI every night](https://github.com/andygrunwald/go-jira/pull/449) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Escape % character in fm.Fprint](https://github.com/andygrunwald/go-gerrit/pull/106) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Fix #42: Introduce newline due to Jinja2 template parsing](https://github.com/mhutter/ansible-docker-systemd-service/pull/44) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 - [Make `docker_image.force_source` configurable](https://github.com/mhutter/ansible-docker-systemd-service/pull/43) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
-- [Use {{ docker_path }} in systemd unit file and not the hardcoded docker path](https://github.com/mhutter/ansible-docker-systemd-service/pull/40) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
-- [container_cmd: Switch from string to list to support long cmds in a more readable way](https://github.com/mhutter/ansible-docker-systemd-service/pull/39) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 
 ### 📝 My recent blog posts
 
