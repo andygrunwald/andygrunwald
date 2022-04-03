@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 day ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 days ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (2 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 1 day ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 2 days ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 1 month ago) - Go library for accessing the GitHub API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 1 month ago) - Go client library for Atlassian Jira
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Added proper Dependabot configuration and add testing workflow](https://github.com/andygrunwald/go-trending/pull/15) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 day ago)
-- [GitHub Actions Update: Run tests on macOS, deprecate Go v1.15 and Go v1.16, introduce Go v1.18, run CI every night](https://github.com/andygrunwald/go-jira/pull/449) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [Escape % character in fm.Fprint](https://github.com/andygrunwald/go-gerrit/pull/106) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 day ago)
+- [Added proper Dependabot configuration and add testing workflow](https://github.com/andygrunwald/go-trending/pull/15) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 days ago)
+- [GitHub Actions Update: Run tests on macOS, deprecate Go v1.15 and Go v1.16, introduce Go v1.18, run CI every night](https://github.com/andygrunwald/go-jira/pull/449) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 days ago)
+- [Escape % character in fm.Fprint](https://github.com/andygrunwald/go-gerrit/pull/106) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 days ago)
 - [Fix #42: Introduce newline due to Jinja2 template parsing](https://github.com/mhutter/ansible-docker-systemd-service/pull/44) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 - [Make `docker_image.force_source` configurable](https://github.com/mhutter/ansible-docker-systemd-service/pull/43) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 
