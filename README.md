@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
 - [andygrunwald/andygrunwald.github.io](https://github.com/andygrunwald/andygrunwald.github.io) - andygrunwald.com (2 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix staticcheck warnings](https://github.com/andygrunwald/go-trending/pull/19) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
 - [Added proper Dependabot configuration and add testing workflow](https://github.com/andygrunwald/go-trending/pull/15) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (4 days ago)
 - [GitHub Actions Update: Run tests on macOS, deprecate Go v1.15 and Go v1.16, introduce Go v1.18, run CI every night](https://github.com/andygrunwald/go-jira/pull/449) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [Escape % character in fm.Fprint](https://github.com/andygrunwald/go-gerrit/pull/106) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 days ago)
 - [Fix #42: Introduce newline due to Jinja2 template parsing](https://github.com/mhutter/ansible-docker-systemd-service/pull/44) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
-- [Make `docker_image.force_source` configurable](https://github.com/mhutter/ansible-docker-systemd-service/pull/43) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 
 ### 📝 My recent blog posts
 
