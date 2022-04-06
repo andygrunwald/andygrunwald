@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Building the main Engineering Kiosk Website](https://github.com/EngineeringKiosk/webpage/pull/1) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix staticcheck warnings](https://github.com/andygrunwald/go-trending/pull/19) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 day ago)
 - [Added proper Dependabot configuration and add testing workflow](https://github.com/andygrunwald/go-trending/pull/15) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (5 days ago)
 - [GitHub Actions Update: Run tests on macOS, deprecate Go v1.15 and Go v1.16, introduce Go v1.18, run CI every night](https://github.com/andygrunwald/go-jira/pull/449) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
 - [Escape % character in fm.Fprint](https://github.com/andygrunwald/go-gerrit/pull/106) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (5 days ago)
-- [Fix #42: Introduce newline due to Jinja2 template parsing](https://github.com/mhutter/ansible-docker-systemd-service/pull/44) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 
 ### 📝 My recent blog posts
 
