@@ -6,9 +6,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (today)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
 - [Fix GitHub Actions CI](https://github.com/andygrunwald/TrendingGithub/pull/35) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (today)
 - [GitHub Actions: Upgrade staticcheck action version to v1.2.0](https://github.com/andygrunwald/go-jira/pull/451) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [GitHub Actions: Remove greetings workflow](https://github.com/andygrunwald/go-jira/pull/450) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Building the main Engineering Kiosk Website](https://github.com/EngineeringKiosk/webpage/pull/1) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [Fix staticcheck warnings](https://github.com/andygrunwald/go-trending/pull/19) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (4 days ago)
 
 ### 📝 My recent blog posts
 
