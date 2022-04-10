@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (today)
 - [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (today)
 - [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 day ago)
 - [Fix GitHub Actions CI](https://github.com/andygrunwald/TrendingGithub/pull/35) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (1 day ago)
 - [GitHub Actions: Upgrade staticcheck action version to v1.2.0](https://github.com/andygrunwald/go-jira/pull/451) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [GitHub Actions: Remove greetings workflow](https://github.com/andygrunwald/go-jira/pull/450) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
 
 ### 📝 My recent blog posts
 
