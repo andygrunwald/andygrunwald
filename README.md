@@ -33,7 +33,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (7 months ago)
-- [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (8 months ago)
+- [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (9 months ago)
 - [Web Engineering DUS Meetup: Recap of 2019](https://andygrunwald.com/blog/web-engineering-dus-recap-of-2019/) (2 years ago)
 - [things with buzzers: a sports competition](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/) (2 years ago)
 - [things with buzzers: playing a Jeopardy! game](https://andygrunwald.com/blog/things-with-buzzers-playing-a-jeopardy-game/) (2 years ago)
