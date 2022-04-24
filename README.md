@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (3 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 week ago)
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 days ago)
-- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 week ago)
-- [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 week ago)
+- [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (3 days ago)
+- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
+- [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
 - [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 weeks ago)
 - [Fix GitHub Actions CI](https://github.com/andygrunwald/TrendingGithub/pull/35) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (2 weeks ago)
 
