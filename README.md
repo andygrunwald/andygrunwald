@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (6 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 weeks ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 weeks ago)
@@ -17,13 +17,13 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 3 weeks ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 1 month ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v43.0.0](https://github.com/google/go-github/releases/tag/v43.0.0), 1 month ago) - Go library for accessing the GitHub API
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 1 month ago) - Go client library for Atlassian Jira
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 2 months ago) - Go client library for Atlassian Jira
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.0.4](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.0.4), 3 months ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (5 days ago)
+- [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (6 days ago)
 - [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
 - [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
 - [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 weeks ago)
