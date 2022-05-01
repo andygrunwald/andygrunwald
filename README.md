@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [google/go-github](https://github.com/google/go-github) ([v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0), today) - Go library for accessing the GitHub v3 API
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 4 weeks ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [google/go-github](https://github.com/google/go-github) ([v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 1 month ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 1 month ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 2 months ago) - Go client library for Atlassian Jira
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 8 months ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
@@ -24,8 +24,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 week ago)
-- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
-- [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (2 weeks ago)
+- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (3 weeks ago)
+- [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (3 weeks ago)
 - [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (3 weeks ago)
 - [Fix GitHub Actions CI](https://github.com/andygrunwald/TrendingGithub/pull/35) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (3 weeks ago)
 
