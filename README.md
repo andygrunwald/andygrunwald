@@ -7,14 +7,14 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 week ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 weeks ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 weeks ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (3 weeks ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [google/go-github](https://github.com/google/go-github) ([v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
+- [google/go-github](https://github.com/google/go-github) ([v44.0.0](https://github.com/google/go-github/releases/tag/v44.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 1 month ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.12.1](https://github.com/palantir/go-githubapp/releases/tag/v0.12.1), 1 month ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 2 months ago) - Go client library for Atlassian Jira
