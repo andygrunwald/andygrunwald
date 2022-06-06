@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #27: Remove HTML parsing from Python script and outsource CSS class assignment](https://github.com/EngineeringKiosk/webpage/pull/38) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #15: First version of the blog](https://github.com/EngineeringKiosk/webpage/pull/23) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
 - [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
 - [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
-- [Fix library and unit tests](https://github.com/andygrunwald/go-trending/pull/21) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 month ago)
 
 ### 📝 My recent blog posts
 
