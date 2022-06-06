@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #24: Add GitHub action to sync podcast episodes automatically](https://github.com/EngineeringKiosk/webpage/pull/41) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Add logging to Python script &#34;sync&#34; command](https://github.com/EngineeringKiosk/webpage/pull/40) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Fix 25: Automate creation of redirects for netlify.toml](https://github.com/EngineeringKiosk/webpage/pull/39) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #27: Remove HTML parsing from Python script and outsource CSS class assignment](https://github.com/EngineeringKiosk/webpage/pull/38) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #15: First version of the blog](https://github.com/EngineeringKiosk/webpage/pull/23) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Renamed &#34;Reporter&#34; to &#34;Creator&#34;](https://github.com/andygrunwald/go-incident/pull/10) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
-- [Fix #5: Added 6 code examples](https://github.com/andygrunwald/go-incident/pull/9) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
-- [Fix #7: Incidents: Add function to create an incident](https://github.com/andygrunwald/go-incident/pull/8) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (1 month ago)
 
 ### 📝 My recent blog posts
 
