@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Podcast Episode Sync: Retrieve Apple Podcast Episode Single view](https://github.com/EngineeringKiosk/webpage/pull/53) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Episode Sync: Retrieve Apple Podcast Episode Single view](https://github.com/EngineeringKiosk/webpage/pull/53) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Add basic Astro build testing as GitHub Actions workflow](https://github.com/EngineeringKiosk/webpage/pull/42) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Fix #24: Add GitHub action to sync podcast episodes automatically](https://github.com/EngineeringKiosk/webpage/pull/41) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Add logging to Python script &#34;sync&#34; command](https://github.com/EngineeringKiosk/webpage/pull/40) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
