@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 weeks ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (3 weeks ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.0](https://github.com/palantir/go-githubapp/releases/tag/v0.13.0), 2 days ago) - A simple Go framework for building GitHub Apps
-- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.0](https://github.com/palantir/go-githubapp/releases/tag/v0.13.0), 3 days ago) - A simple Go framework for building GitHub Apps
+- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 6 days ago) - Go library for accessing the GitHub v3 API
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 2 months ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 4 months ago) - Go client library for Atlassian Jira
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 10 months ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add testimonials of listeners](https://github.com/EngineeringKiosk/webpage/pull/66) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Add testimonials of listeners](https://github.com/EngineeringKiosk/webpage/pull/66) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Podcast Episode Sync: Retrieve Apple Podcast Episode Single view](https://github.com/EngineeringKiosk/webpage/pull/53) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add basic Astro build testing as GitHub Actions workflow](https://github.com/EngineeringKiosk/webpage/pull/42) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Fix #24: Add GitHub action to sync podcast episodes automatically](https://github.com/EngineeringKiosk/webpage/pull/41) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Add logging to Python script &#34;sync&#34; command](https://github.com/EngineeringKiosk/webpage/pull/40) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
+- [Add basic Astro build testing as GitHub Actions workflow](https://github.com/EngineeringKiosk/webpage/pull/42) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
+- [Fix #24: Add GitHub action to sync podcast episodes automatically](https://github.com/EngineeringKiosk/webpage/pull/41) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
+- [Add logging to Python script &#34;sync&#34; command](https://github.com/EngineeringKiosk/webpage/pull/40) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
