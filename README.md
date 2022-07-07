@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.8.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.8.0), today) - Ansible role for creating Systemd services for docker containers
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.0](https://github.com/palantir/go-githubapp/releases/tag/v0.13.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 3 months ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 4 months ago) - Go client library for Atlassian Jira
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 10 months ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
 
 ### 🔨 Latest Pull Requests I published
 
