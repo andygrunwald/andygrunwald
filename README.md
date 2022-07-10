@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Initial notes on the blog post for Infrastructure as Code](https://github.com/EngineeringKiosk/webpage/pull/89) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Initial notes on the blog post for static site generators](https://github.com/EngineeringKiosk/webpage/pull/88) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Initial notes for the blog post about Home Automation](https://github.com/EngineeringKiosk/webpage/pull/87) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add self compiled version of the podcast player](https://github.com/EngineeringKiosk/webpage/pull/81) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Adding Dependabot and a basic github actions build step](https://github.com/podigee/podigee-podcast-player/pull/104) on [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) (1 day ago)
-- [Basic version of SEO tag pages](https://github.com/EngineeringKiosk/webpage/pull/77) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add testimonials of listeners](https://github.com/EngineeringKiosk/webpage/pull/66) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Podcast Episode Sync: Retrieve Apple Podcast Episode Single view](https://github.com/EngineeringKiosk/webpage/pull/53) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
