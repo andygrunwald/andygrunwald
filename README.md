@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #101: Implement a rss feed via @astrojs/rss](https://github.com/EngineeringKiosk/webpage/pull/104) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Deezer integration: Logo and podcast episode imports](https://github.com/EngineeringKiosk/webpage/pull/103) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #99: Make podcast episode abstract configurable](https://github.com/EngineeringKiosk/webpage/pull/102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add descriptions for tags](https://github.com/EngineeringKiosk/webpage/pull/92) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Initial notes on the blog post for Infrastructure as Code](https://github.com/EngineeringKiosk/webpage/pull/89) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Initial notes on the blog post for static site generators](https://github.com/EngineeringKiosk/webpage/pull/88) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Initial notes for the blog post about Home Automation](https://github.com/EngineeringKiosk/webpage/pull/87) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
