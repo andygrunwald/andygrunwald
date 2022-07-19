@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (5 days ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 month ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 month ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (2 months ago)
@@ -16,16 +16,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.8.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.8.0), 1 week ago) - Ansible role for creating Systemd services for docker containers
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.0](https://github.com/palantir/go-githubapp/releases/tag/v0.13.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
-- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
+- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 4 weeks ago) - Go library for accessing the GitHub v3 API
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.3.4](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.3.4), 3 months ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.15.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.15.1), 4 months ago) - Go client library for Atlassian Jira
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #101: Implement a rss feed via @astrojs/rss](https://github.com/EngineeringKiosk/webpage/pull/104) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Deezer integration: Logo and podcast episode imports](https://github.com/EngineeringKiosk/webpage/pull/103) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix #99: Make podcast episode abstract configurable](https://github.com/EngineeringKiosk/webpage/pull/102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Fix #101: Implement a rss feed via @astrojs/rss](https://github.com/EngineeringKiosk/webpage/pull/104) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Deezer integration: Logo and podcast episode imports](https://github.com/EngineeringKiosk/webpage/pull/103) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Fix #99: Make podcast episode abstract configurable](https://github.com/EngineeringKiosk/webpage/pull/102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Add descriptions for tags](https://github.com/EngineeringKiosk/webpage/pull/92) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Initial notes on the blog post for Infrastructure as Code](https://github.com/EngineeringKiosk/webpage/pull/89) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
