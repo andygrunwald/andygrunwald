@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of Tech Podcasts in German (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 month ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 month ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Tooling: Convert JSON to README.md](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/1) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #101: Implement a rss feed via @astrojs/rss](https://github.com/EngineeringKiosk/webpage/pull/104) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Deezer integration: Logo and podcast episode imports](https://github.com/EngineeringKiosk/webpage/pull/103) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Fix #99: Make podcast episode abstract configurable](https://github.com/EngineeringKiosk/webpage/pull/102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Add descriptions for tags](https://github.com/EngineeringKiosk/webpage/pull/92) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Initial notes on the blog post for Infrastructure as Code](https://github.com/EngineeringKiosk/webpage/pull/89) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
