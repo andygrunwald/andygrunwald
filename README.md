@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add yamllint configuration file](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/2) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Tooling: Convert JSON to README.md](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/1) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #101: Implement a rss feed via @astrojs/rss](https://github.com/EngineeringKiosk/webpage/pull/104) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Deezer integration: Logo and podcast episode imports](https://github.com/EngineeringKiosk/webpage/pull/103) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Fix #99: Make podcast episode abstract configurable](https://github.com/EngineeringKiosk/webpage/pull/102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Add descriptions for tags](https://github.com/EngineeringKiosk/webpage/pull/92) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
