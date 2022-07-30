@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #21: Added Podcast Wartungsfenster](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/25) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #22: Add new podcast todo:cast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/24) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #8: Add Open Source in der Industrie](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/16) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #7: Add Open Source Couch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/15) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Collect data from PodcastIndex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/5) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
-- [German Tech Podcasts: Add sync script](https://github.com/EngineeringKiosk/webpage/pull/107) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add yamllint configuration file](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/2) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
