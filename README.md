@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New podcast: Netzpolitik](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/31) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New Podcast: t3n](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/30) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #20: New podcast &#34;Macht der Craft&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/28) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: Focus on Linux](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/27) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: Add Focus On DevOps](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/26) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #21: Added Podcast Wartungsfenster](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/25) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Fix #22: Add new podcast todo:cast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/24) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 
 ### 📝 My recent blog posts
 
