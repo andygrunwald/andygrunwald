@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 months ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 months ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #9: Add new Podcast &#34;Logbuch: Netzpolitik&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/51) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #38: Add new podcast &#34;Speak 1337&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/50) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #34: Added new podcast &#34;Techtiefen&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/49) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: Netzpolitik](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/31) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: t3n](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/30) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #20: New podcast &#34;Macht der Craft&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/28) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: Focus on Linux](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/27) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: Add Focus On DevOps](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/26) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
