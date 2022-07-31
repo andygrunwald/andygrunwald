@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Use MDX to use Astro Components inside Markdown files](https://github.com/EngineeringKiosk/webpage/pull/127) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #9: Add new Podcast &#34;Logbuch: Netzpolitik&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/51) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #38: Add new podcast &#34;Speak 1337&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/50) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #34: Added new podcast &#34;Techtiefen&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/49) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: Netzpolitik](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/31) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: t3n](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/30) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
