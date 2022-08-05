@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New podcast: IT@DB](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/69) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New Podcast: Geekweek](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/68) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: IT ist alles](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/67) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: Codestammtisch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/66) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: IT-Berufe Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/65) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: DevCouch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/64) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: Mein Scrum ist kaputt!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/63) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
