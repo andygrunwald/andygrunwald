@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [New podcast: IT@DB](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/69) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: Geekweek](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/68) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: IT ist alles](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/67) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: Codestammtisch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/66) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: IT-Berufe Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/65) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: c&#39;t uplink](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/74) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Kurz informiert by heise online](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/73) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Mac &amp; I](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/72) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Bit-Rauschen](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/71) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: heise Developer: SoftwareArchitekTOUR](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/70) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
