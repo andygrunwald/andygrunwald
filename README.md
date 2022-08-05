@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 months ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 months ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Upgrade deezer-python lib and use link attribute of podcast episode](https://github.com/EngineeringKiosk/webpage/pull/138) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Deactivate Podcast Techtiefen (temp)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/56) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
-- [App: Enable logging on why/where we hit a bug (if we hit one)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/55) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
-- [Add eslint into pipeline](https://github.com/EngineeringKiosk/webpage/pull/131) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [Use MDX to use Astro Components inside Markdown files](https://github.com/EngineeringKiosk/webpage/pull/127) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
+- [New podcast: IT ist alles](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/67) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Codestammtisch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/66) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: IT-Berufe Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/65) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: DevCouch](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/64) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Mein Scrum ist kaputt!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/63) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
