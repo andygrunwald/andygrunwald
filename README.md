@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 months ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 months ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [New podcast: c&#39;t uplink](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/74) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New podcast: Kurz informiert by heise online](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/73) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New podcast: Mac &amp; I](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/72) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New podcast: Bit-Rauschen](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/71) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New podcast: heise Developer: SoftwareArchitekTOUR](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/70) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [New podcast: c&#39;t uplink](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/74) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [New podcast: Kurz informiert by heise online](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/73) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [New podcast: Mac &amp; I](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/72) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [New podcast: Bit-Rauschen](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/71) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [New podcast: heise Developer: SoftwareArchitekTOUR](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/70) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 
 ### 📝 My recent blog posts
 
