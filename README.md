@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New podcast: Chaosradio](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/89) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Bits und so](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/88) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New podcast: Apfelfunk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/87) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Support data ingestion.without podcastindex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/79) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Add number of podcasts into README and add render readme step into PR testing](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/78) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast Freakshow](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/77) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: Binärgewitter](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/76) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New podcast: Auslegungssache](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/75) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
