@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix &#34;Herzbergs Hörsaal&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/101) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New podcast: Autoweird](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/98) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [New podcast: Umbruch (BR24)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/97) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [New podcast: Computer und Kommunikation (Deutschlandfunk)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/96) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [New podcast: Herzbergs Hörsaal](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/95) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New podcast: knowIT](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/94) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 
 ### 📝 My recent blog posts
 
