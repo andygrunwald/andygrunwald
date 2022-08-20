@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 week ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [google/go-github](https://github.com/google/go-github) ([v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0), today) - Go library for accessing the GitHub v3 API
+- [google/go-github](https://github.com/google/go-github) ([v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
 - [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.4.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.4.0), 1 month ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.1](https://github.com/palantir/go-githubapp/releases/tag/v0.13.1), 1 month ago) - A simple Go framework for building GitHub Apps
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.8.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.8.0), 1 month ago) - Ansible role for creating Systemd services for docker containers
