@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 week ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 months ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [README: Add chapter &#34;Supported Jira versions&#34; and &#34;Official Jira API documentation&#34;](https://github.com/andygrunwald/go-jira/pull/492) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Go: Raise supported version to v1.18](https://github.com/andygrunwald/go-jira/pull/491) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [README: Add chapter &#34;State of this library&#34;](https://github.com/andygrunwald/go-jira/pull/490) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Added Frequently Asked Questions section to explain the repository language](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/112) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [New podcast: Logbuch Digitalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/111) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New podcast: WP Sofa](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/110) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Fix &#34;Herzbergs Hörsaal&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/101) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New podcast: Autoweird](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/98) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
