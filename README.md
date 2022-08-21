@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [#484: Make contribution easier to this project](https://github.com/andygrunwald/go-jira/pull/494) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Fixed unit test &#34;TestError_NoResponse&#34;](https://github.com/andygrunwald/go-jira/pull/493) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [README: Add chapter &#34;Supported Jira versions&#34; and &#34;Official Jira API documentation&#34;](https://github.com/andygrunwald/go-jira/pull/492) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Go: Raise supported version to v1.18](https://github.com/andygrunwald/go-jira/pull/491) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [README: Add chapter &#34;State of this library&#34;](https://github.com/andygrunwald/go-jira/pull/490) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Added Frequently Asked Questions section to explain the repository language](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/112) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New podcast: Logbuch Digitalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/111) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
