@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: New action to label PRs (via actions/labeler)](https://github.com/andygrunwald/go-jira/pull/497) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [GitHub Action: New workflow to label PRs when they have merge requests](https://github.com/andygrunwald/go-jira/pull/496) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [#484: Make contribution easier to this project](https://github.com/andygrunwald/go-jira/pull/494) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [Fixed unit test &#34;TestError_NoResponse&#34;](https://github.com/andygrunwald/go-jira/pull/493) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [README: Add chapter &#34;Supported Jira versions&#34; and &#34;Official Jira API documentation&#34;](https://github.com/andygrunwald/go-jira/pull/492) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
-- [Go: Raise supported version to v1.18](https://github.com/andygrunwald/go-jira/pull/491) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
-- [README: Add chapter &#34;State of this library&#34;](https://github.com/andygrunwald/go-jira/pull/490) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 
 ### 📝 My recent blog posts
 
