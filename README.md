@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (4 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Changes to both (OnPremise and Cloud) clients to make it more future proof and configurable](https://github.com/andygrunwald/go-jira/pull/504) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Split On-Premise and Cloud Clients #473](https://github.com/andygrunwald/go-jira/pull/503) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [GitHub Actions: New action to label PRs (via actions/labeler)](https://github.com/andygrunwald/go-jira/pull/497) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [GitHub Action: New workflow to label PRs when they have merge requests](https://github.com/andygrunwald/go-jira/pull/496) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [#484: Make contribution easier to this project](https://github.com/andygrunwald/go-jira/pull/494) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
-- [Fixed unit test &#34;TestError_NoResponse&#34;](https://github.com/andygrunwald/go-jira/pull/493) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
-- [README: Add chapter &#34;Supported Jira versions&#34; and &#34;Official Jira API documentation&#34;](https://github.com/andygrunwald/go-jira/pull/492) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
