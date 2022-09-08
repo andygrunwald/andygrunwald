@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (4 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.5.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.5.0), today) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.5.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.5.0), 1 day ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.2](https://github.com/palantir/go-githubapp/releases/tag/v0.13.2), 1 week ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 2 weeks ago) - Go client library for Atlassian Jira
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Changes to both (OnPremise and Cloud) clients to make it more future proof and configurable](https://github.com/andygrunwald/go-jira/pull/504) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Split On-Premise and Cloud Clients #473](https://github.com/andygrunwald/go-jira/pull/503) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [GitHub Actions: New action to label PRs (via actions/labeler)](https://github.com/andygrunwald/go-jira/pull/497) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [GitHub Action: New workflow to label PRs when they have merge requests](https://github.com/andygrunwald/go-jira/pull/496) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
+- [Changes to both (OnPremise and Cloud) clients to make it more future proof and configurable](https://github.com/andygrunwald/go-jira/pull/504) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
+- [Split On-Premise and Cloud Clients #473](https://github.com/andygrunwald/go-jira/pull/503) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
+- [GitHub Actions: New action to label PRs (via actions/labeler)](https://github.com/andygrunwald/go-jira/pull/497) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
+- [GitHub Action: New workflow to label PRs when they have merge requests](https://github.com/andygrunwald/go-jira/pull/496) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 - [#484: Make contribution easier to this project](https://github.com/andygrunwald/go-jira/pull/494) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 
 ### 📝 My recent blog posts
