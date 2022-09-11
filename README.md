@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Make context first class citizen: Remove &#34;WithContext&#34; API methods (Part 1)](https://github.com/andygrunwald/go-jira/pull/513) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Changes to both (OnPremise and Cloud) clients to make it more future proof and configurable](https://github.com/andygrunwald/go-jira/pull/509) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Changes to both (OnPremise and Cloud) clients to make it more future proof and configurable](https://github.com/andygrunwald/go-jira/pull/504) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [Split On-Premise and Cloud Clients #473](https://github.com/andygrunwald/go-jira/pull/503) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [GitHub Actions: New action to label PRs (via actions/labeler)](https://github.com/andygrunwald/go-jira/pull/497) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
-- [GitHub Action: New workflow to label PRs when they have merge requests](https://github.com/andygrunwald/go-jira/pull/496) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
