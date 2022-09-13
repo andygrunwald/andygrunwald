@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 month ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.5.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.5.0), 5 days ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
+- [rabbitmq/amqp091-go](https://github.com/rabbitmq/amqp091-go) ([v1.5.0](https://github.com/rabbitmq/amqp091-go/releases/tag/v1.5.0), 6 days ago) - An AMQP 0-9-1 Go client maintained by the RabbitMQ team. Originally by @streadway: `streadway/amqp`
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.13.2](https://github.com/palantir/go-githubapp/releases/tag/v0.13.2), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 3 weeks ago) - Go client library for Atlassian Jira
@@ -23,16 +23,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Basic setup of documentation with material for mkdocs](https://github.com/andygrunwald/go-jira/pull/564) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [Fix #512: Easier Pull Request template](https://github.com/andygrunwald/go-jira/pull/563) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [Fix #511: Easier and more lean issue templates](https://github.com/andygrunwald/go-jira/pull/562) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [Get v2 working with go modules](https://github.com/andygrunwald/go-jira/pull/517) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
+- [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
+- [Basic setup of documentation with material for mkdocs](https://github.com/andygrunwald/go-jira/pull/564) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 days ago)
+- [Fix #512: Easier Pull Request template](https://github.com/andygrunwald/go-jira/pull/563) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 days ago)
+- [Fix #511: Easier and more lean issue templates](https://github.com/andygrunwald/go-jira/pull/562) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 days ago)
+- [Get v2 working with go modules](https://github.com/andygrunwald/go-jira/pull/517) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 days ago)
 
 ### 📝 My recent blog posts
 
 
-- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (11 months ago)
+- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (1 year ago)
 - [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (1 year ago)
 - [Web Engineering DUS Meetup: Recap of 2019](https://andygrunwald.com/blog/web-engineering-dus-recap-of-2019/) (2 years ago)
 - [things with buzzers: a sports competition](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/) (2 years ago)
