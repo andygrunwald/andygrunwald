@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 month ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [Basic setup of documentation with material for mkdocs](https://github.com/andygrunwald/go-jira/pull/564) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
-- [Fix #512: Easier Pull Request template](https://github.com/andygrunwald/go-jira/pull/563) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
-- [Fix #511: Easier and more lean issue templates](https://github.com/andygrunwald/go-jira/pull/562) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
-- [Get v2 working with go modules](https://github.com/andygrunwald/go-jira/pull/517) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
+- [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
+- [Basic setup of documentation with material for mkdocs](https://github.com/andygrunwald/go-jira/pull/564) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
+- [Fix #512: Easier Pull Request template](https://github.com/andygrunwald/go-jira/pull/563) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
+- [Fix #511: Easier and more lean issue templates](https://github.com/andygrunwald/go-jira/pull/562) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
+- [Get v2 working with go modules](https://github.com/andygrunwald/go-jira/pull/517) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
 
 ### 📝 My recent blog posts
 
