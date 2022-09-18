@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #55: [DEPRECATION WARNING]: &#34;include&#34; is deprecated, use include_tasks/import_tasks instead](https://github.com/mhutter/ansible-docker-systemd-service/pull/56) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
+- [Add support for docker run `--user`](https://github.com/mhutter/ansible-docker-systemd-service/pull/54) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
 - [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (6 days ago)
 - [Basic setup of documentation with material for mkdocs](https://github.com/andygrunwald/go-jira/pull/564) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [Fix #512: Easier Pull Request template](https://github.com/andygrunwald/go-jira/pull/563) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [Fix #511: Easier and more lean issue templates](https://github.com/andygrunwald/go-jira/pull/562) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [Get v2 working with go modules](https://github.com/andygrunwald/go-jira/pull/517) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 
 ### 📝 My recent blog posts
 
