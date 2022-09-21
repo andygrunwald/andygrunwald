@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (3 days ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (4 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Upgrade Go from v1.18 to v1.19](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/121) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 - [Fix a failing pipeline, if the image can&#39;t be downloaded](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/120) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 - [Fix #55: [DEPRECATION WARNING]: &#34;include&#34; is deprecated, use include_tasks/import_tasks instead](https://github.com/mhutter/ansible-docker-systemd-service/pull/56) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (3 days ago)
 - [Add support for docker run `--user`](https://github.com/mhutter/ansible-docker-systemd-service/pull/54) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (3 days ago)
-- [Remove the WithOptions suffixes](https://github.com/andygrunwald/go-jira/pull/567) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 
 ### 📝 My recent blog posts
 
