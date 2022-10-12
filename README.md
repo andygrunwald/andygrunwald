@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (2 weeks ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 weeks ago)
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 weeks ago)
+- [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
 - [Upgrade Go from v1.18 to v1.19](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/121) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 weeks ago)
 - [Fix a failing pipeline, if the image can&#39;t be downloaded](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/120) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 weeks ago)
 - [Fix #55: [DEPRECATION WARNING]: &#34;include&#34; is deprecated, use include_tasks/import_tasks instead](https://github.com/mhutter/ansible-docker-systemd-service/pull/56) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (3 weeks ago)
