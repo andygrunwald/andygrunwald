@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add &#34;Alle Episoden anzeigen&#34; button after podcast listing on index page](https://github.com/EngineeringKiosk/webpage/pull/217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add new /epX short urls](https://github.com/EngineeringKiosk/webpage/pull/216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
-- [Upgrade Go from v1.18 to v1.19](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/121) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
