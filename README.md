@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 weeks ago)
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Add &#34;Alle Episoden anzeigen&#34; button after podcast listing on index page](https://github.com/EngineeringKiosk/webpage/pull/217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Add new /epX short urls](https://github.com/EngineeringKiosk/webpage/pull/216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Add &#34;Alle Episoden anzeigen&#34; button after podcast listing on index page](https://github.com/EngineeringKiosk/webpage/pull/217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Add new /epX short urls](https://github.com/EngineeringKiosk/webpage/pull/216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
 
 ### 📝 My recent blog posts
