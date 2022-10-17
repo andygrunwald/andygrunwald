@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 weeks ago)
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (4 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Optimize CI runs](https://github.com/andygrunwald/vdf/pull/35) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (today)
 - [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Add &#34;Alle Episoden anzeigen&#34; button after podcast listing on index page](https://github.com/EngineeringKiosk/webpage/pull/217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Add new /epX short urls](https://github.com/EngineeringKiosk/webpage/pull/216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [GitHub Actions: Raise Go versions to v1.18 and v1.19](https://github.com/andygrunwald/go-gerrit/pull/125) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
