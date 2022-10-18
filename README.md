@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/vdf-fuzzing-corpus](https://github.com/andygrunwald/vdf-fuzzing-corpus) - Fuzzing corpus for https://github.com/andygrunwald/vdf (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [German Tech Podcasts: Basic filter](https://github.com/EngineeringKiosk/webpage/pull/224) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix sorting parameter: Rename `date` to `pubDate`](https://github.com/EngineeringKiosk/webpage/pull/223) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Optimize CI runs](https://github.com/andygrunwald/vdf/pull/35) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 day ago)
 - [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Add &#34;Alle Episoden anzeigen&#34; button after podcast listing on index page](https://github.com/EngineeringKiosk/webpage/pull/217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 
 ### 📝 My recent blog posts
 
