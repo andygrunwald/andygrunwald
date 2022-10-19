@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Cloud/Board: Add Sprint goal](https://github.com/andygrunwald/go-jira/pull/588) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Cloud/Board: Add Location to Board struct](https://github.com/andygrunwald/go-jira/pull/587) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Onpremise/Auth: Update README and examples for Bearer Auth](https://github.com/andygrunwald/go-jira/pull/586) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Cloud/User: Update User struct](https://github.com/andygrunwald/go-jira/pull/585) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Cloud/Component: Review service &#34;Component&#34; in the Cloud Jira client for latest API changes](https://github.com/andygrunwald/go-jira/pull/584) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Cloud/Components: Add ComponentService.Get](https://github.com/andygrunwald/go-jira/pull/583) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Fix #578: Remove `CookieAuthTransport` and `AuthenticationService`](https://github.com/andygrunwald/go-jira/pull/581) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Cloud/Authentication: Removed `BearerAuthTransport`, Removed `PATAuthTransport`, Rename `BasicAuthTransport.Password` to `BasicAuthTransport.APIToken`](https://github.com/andygrunwald/go-jira/pull/580) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 
 ### 📝 My recent blog posts
 
