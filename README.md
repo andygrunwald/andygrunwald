@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Cloud/User: Update User struct](https://github.com/andygrunwald/go-jira/pull/585) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Cloud/Component: Review service &#34;Component&#34; in the Cloud Jira client for latest API changes](https://github.com/andygrunwald/go-jira/pull/584) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Cloud/Components: Add ComponentService.Get](https://github.com/andygrunwald/go-jira/pull/583) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Fix #578: Remove `CookieAuthTransport` and `AuthenticationService`](https://github.com/andygrunwald/go-jira/pull/581) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Cloud/Authentication: Removed `BearerAuthTransport`, Removed `PATAuthTransport`, Rename `BasicAuthTransport.Password` to `BasicAuthTransport.APIToken`](https://github.com/andygrunwald/go-jira/pull/580) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [German Tech Podcasts: Basic filter](https://github.com/EngineeringKiosk/webpage/pull/224) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix sorting parameter: Rename `date` to `pubDate`](https://github.com/EngineeringKiosk/webpage/pull/223) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
