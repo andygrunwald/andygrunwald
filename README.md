@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Cloud/Authentication: Removed `BearerAuthTransport`, Removed `PATAuthTransport`, Rename `BasicAuthTransport.Password` to `BasicAuthTransport.APIToken`](https://github.com/andygrunwald/go-jira/pull/580) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [German Tech Podcasts: Basic filter](https://github.com/EngineeringKiosk/webpage/pull/224) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Fix sorting parameter: Rename `date` to `pubDate`](https://github.com/EngineeringKiosk/webpage/pull/223) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Optimize CI runs](https://github.com/andygrunwald/vdf/pull/35) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (2 days ago)
 - [German Tech Podcast: Single tag pages](https://github.com/EngineeringKiosk/webpage/pull/219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Remove hydration directive log output](https://github.com/EngineeringKiosk/webpage/pull/218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
