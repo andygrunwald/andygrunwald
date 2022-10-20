@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Redesign of andygrunwald.com based on Astro](https://github.com/andygrunwald/andygrunwald.com/pull/7) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [Cloud/Group: Update Add/Remove and replace username parameter with accountId](https://github.com/andygrunwald/go-jira/pull/589) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
 - [Cloud/Board: Add Sprint goal](https://github.com/andygrunwald/go-jira/pull/588) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
 - [Cloud/Board: Add Location to Board struct](https://github.com/andygrunwald/go-jira/pull/587) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
 - [Onpremise/Auth: Update README and examples for Bearer Auth](https://github.com/andygrunwald/go-jira/pull/586) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
-- [Cloud/User: Update User struct](https://github.com/andygrunwald/go-jira/pull/585) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 day ago)
 
 ### 📝 My recent blog posts
 
