@@ -6,9 +6,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/sico](https://github.com/andygrunwald/sico) - A Sitemap Comparison that helps you to not fuck up your website migration  (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
-- [andygrunwald/vdf-fuzzing-corpus](https://github.com/andygrunwald/vdf-fuzzing-corpus) - Fuzzing corpus for https://github.com/andygrunwald/vdf (4 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
