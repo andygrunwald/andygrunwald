@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) - A Sitemap Comparison that helps you to not fuck up your website migration. (1 day ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (5 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: &#34;Web &amp; Design Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/133) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: &#34;Code and Ship&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/132) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: &#34;Index out of bounds&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/131) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: &#34;Der GameDev Podcast (Game Dev)&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/130) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
