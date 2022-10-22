@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New Podcast: &#34;Code and Ship&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/132) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New Podcast: &#34;Index out of bounds&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/131) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [New Podcast: &#34;Der GameDev Podcast (Game Dev)&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/130) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Extend description of &#34;--exclude&#34; to also exclude email addresses, not only URLs](https://github.com/lycheeverse/lychee/pull/801) on [lycheeverse/lychee](https://github.com/lycheeverse/lychee) (1 day ago)
 - [Redesign of andygrunwald.com based on Astro](https://github.com/andygrunwald/andygrunwald.com/pull/7) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
-- [Cloud/Group: Update Add/Remove and replace username parameter with accountId](https://github.com/andygrunwald/go-jira/pull/589) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [Cloud/Board: Add Sprint goal](https://github.com/andygrunwald/go-jira/pull/588) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [Cloud/Board: Add Location to Board struct](https://github.com/andygrunwald/go-jira/pull/587) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
 
 ### 📝 My recent blog posts
 
