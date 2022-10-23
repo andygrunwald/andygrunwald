@@ -22,7 +22,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 ### 📝 My recent blog posts
 
-{{range rss "https://andygrunwald.com/index.xml" 5}}
+{{range rss "https://andygrunwald.com/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
