@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (today)
 - [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 - [New Podcast: &#34;Web &amp; Design Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/133) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [New Podcast: &#34;Code and Ship&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/132) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 
 ### 📝 My recent blog posts
 
