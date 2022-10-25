@@ -8,8 +8,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Add baisc version of testing for examples](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/17) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (today)
 - [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [New Podcast: &#34;Web &amp; Design Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/133) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 
 ### 📝 My recent blog posts
 
