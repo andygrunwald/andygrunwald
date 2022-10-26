@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 day ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Go testing via Matrix](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/18) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [GitHub Actions: Add baisc version of testing for examples](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/17) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (1 day ago)
 - [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 day ago)
 - [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
 
 ### 📝 My recent blog posts
 
