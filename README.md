@@ -9,7 +9,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Basic setup for testing](https://github.com/lansuite/lansuite/pull/495) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [GitHub: Add dependabot configuration file](https://github.com/lansuite/lansuite/pull/494) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Nats: Update dependencies](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/20) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
+- [Update to Go v1.19 and run `go mod tidy` everywhere](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/19) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [GitHub Actions: Go testing via Matrix](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/18) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
-- [GitHub Actions: Add baisc version of testing for examples](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/17) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (1 day ago)
-- [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 day ago)
-- [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 
 ### 📝 My recent blog posts
 
