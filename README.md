@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 days ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
+- [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 5 days ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [google/go-github](https://github.com/google/go-github) ([v48.0.0](https://github.com/google/go-github/releases/tag/v48.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 1 week ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.14.0](https://github.com/palantir/go-githubapp/releases/tag/v0.14.0), 1 month ago) - A simple Go framework for building GitHub Apps
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [GitHub Actions: Add baisc version of testing for examples](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/17) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
-- [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (today)
-- [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
+- [GitHub Actions: Add baisc version of testing for examples](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/17) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (1 day ago)
+- [Fix bug: 404 with .net tag](https://github.com/EngineeringKiosk/webpage/pull/233) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [README: Add Press section &#43; Table of Contents](https://github.com/andygrunwald/vdf/pull/40) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 day ago)
+- [Blog posts about SQL Injection (WIP)](https://github.com/EngineeringKiosk/webpage/pull/231) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [GitHub Actions: Using of strict versioning for every GitHub Action](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/134) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
 
 ### 📝 My recent blog posts
 
