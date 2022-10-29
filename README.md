@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fixed &#34;H1 tag missing or empty&#34;](https://github.com/EngineeringKiosk/webpage/pull/244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Index: Hack h1 to include Engineering Kiosk title](https://github.com/EngineeringKiosk/webpage/pull/243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Add h1 tags on pages, where there is none (Tag pages &#43; podcast episode pages)](https://github.com/EngineeringKiosk/webpage/pull/242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast layout: Add Shownotes into headline](https://github.com/EngineeringKiosk/webpage/pull/241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Episodes: Remove nofollow rel for jump.engineeringkiosk.dev](https://github.com/EngineeringKiosk/webpage/pull/240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Podcast Episodes: Removing all `rel=&#34;nofollow&#34;` entries from https://engineeringkiosk.dev/* links in {html_content}](https://github.com/EngineeringKiosk/webpage/pull/239) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Heise/Kurz informiert: Fix RSS Feed URL and Podcast Index ID](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/141) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix image download failure](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/140) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [GitHub Actions: Basic setup for testing](https://github.com/lansuite/lansuite/pull/495) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
