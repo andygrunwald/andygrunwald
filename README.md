@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Heise/Kurz informiert: Fix RSS Feed URL and Podcast Index ID](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/141) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix image download failure](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/140) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [GitHub Actions: Basic setup for testing](https://github.com/lansuite/lansuite/pull/495) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [GitHub: Add dependabot configuration file](https://github.com/lansuite/lansuite/pull/494) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Nats: Update dependencies](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/20) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
-- [Update to Go v1.19 and run `go mod tidy` everywhere](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/19) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
 
 ### 📝 My recent blog posts
 
