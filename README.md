@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (2 days ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (3 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [GitHub Actions: Basic setup for testing](https://github.com/lansuite/lansuite/pull/495) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [GitHub: Add dependabot configuration file](https://github.com/lansuite/lansuite/pull/494) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Nats: Update dependencies](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/20) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
-- [Update to Go v1.19 and run `go mod tidy` everywhere](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/19) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
-- [GitHub Actions: Go testing via Matrix](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/18) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
+- [GitHub Actions: Basic setup for testing](https://github.com/lansuite/lansuite/pull/495) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [GitHub: Add dependabot configuration file](https://github.com/lansuite/lansuite/pull/494) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Nats: Update dependencies](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/20) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
+- [Update to Go v1.19 and run `go mod tidy` everywhere](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/19) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
+- [GitHub Actions: Go testing via Matrix](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/18) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
 
 ### 📝 My recent blog posts
 
