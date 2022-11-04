@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 1 week ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
+- [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 2 weeks ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 weeks ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.14.0](https://github.com/palantir/go-githubapp/releases/tag/v0.14.0), 1 month ago) - A simple Go framework for building GitHub Apps
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.9.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.9.0), 1 month ago) - Ansible role for creating Systemd services for docker containers
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fixed &#34;H1 tag missing or empty&#34;](https://github.com/EngineeringKiosk/webpage/pull/244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Index: Hack h1 to include Engineering Kiosk title](https://github.com/EngineeringKiosk/webpage/pull/243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Add h1 tags on pages, where there is none (Tag pages &#43; podcast episode pages)](https://github.com/EngineeringKiosk/webpage/pull/242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Podcast layout: Add Shownotes into headline](https://github.com/EngineeringKiosk/webpage/pull/241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Podcast Episodes: Remove nofollow rel for jump.engineeringkiosk.dev](https://github.com/EngineeringKiosk/webpage/pull/240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
+- [Fixed &#34;H1 tag missing or empty&#34;](https://github.com/EngineeringKiosk/webpage/pull/244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Index: Hack h1 to include Engineering Kiosk title](https://github.com/EngineeringKiosk/webpage/pull/243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Add h1 tags on pages, where there is none (Tag pages &#43; podcast episode pages)](https://github.com/EngineeringKiosk/webpage/pull/242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Podcast layout: Add Shownotes into headline](https://github.com/EngineeringKiosk/webpage/pull/241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Podcast Episodes: Remove nofollow rel for jump.engineeringkiosk.dev](https://github.com/EngineeringKiosk/webpage/pull/240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 
 ### 📝 My recent blog posts
 
