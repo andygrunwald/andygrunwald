@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.2](https://github.com/lycheeverse/lychee/releases/tag/v0.10.2), 1 day ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.3](https://github.com/lycheeverse/lychee/releases/tag/v0.10.3), today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 2 weeks ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 3 weeks ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.14.0](https://github.com/palantir/go-githubapp/releases/tag/v0.14.0), 1 month ago) - A simple Go framework for building GitHub Apps
