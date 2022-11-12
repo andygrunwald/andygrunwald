@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [docs: Add documentation about how to reconfigure &#34;$DATA_SHARE&#34;](https://github.com/home-assistant/supervised-installer/pull/251) on [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) (today)
 - [Fixed &#34;H1 tag missing or empty&#34;](https://github.com/EngineeringKiosk/webpage/pull/244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Index: Hack h1 to include Engineering Kiosk title](https://github.com/EngineeringKiosk/webpage/pull/243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Add h1 tags on pages, where there is none (Tag pages &#43; podcast episode pages)](https://github.com/EngineeringKiosk/webpage/pull/242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Podcast layout: Add Shownotes into headline](https://github.com/EngineeringKiosk/webpage/pull/241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Podcast Episodes: Remove nofollow rel for jump.engineeringkiosk.dev](https://github.com/EngineeringKiosk/webpage/pull/240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
