@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (2 weeks ago)
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [docs: Add documentation about how to reconfigure &#34;$DATA_SHARE&#34;](https://github.com/home-assistant/supervised-installer/pull/251) on [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) (2 weeks ago)
+- [docs: Add documentation about how to reconfigure &#34;$DATA_SHARE&#34;](https://github.com/home-assistant/supervised-installer/pull/251) on [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) (3 weeks ago)
 - [Fixed &#34;H1 tag missing or empty&#34;](https://github.com/EngineeringKiosk/webpage/pull/244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Index: Hack h1 to include Engineering Kiosk title](https://github.com/EngineeringKiosk/webpage/pull/243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Add h1 tags on pages, where there is none (Tag pages &#43; podcast episode pages)](https://github.com/EngineeringKiosk/webpage/pull/242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
