@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.1](https://github.com/dghubble/gologin/releases/tag/v2.3.1), today) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.3](https://github.com/lycheeverse/lychee/releases/tag/v0.10.3), 4 weeks ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 1 month ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 1 month ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.14.0](https://github.com/palantir/go-githubapp/releases/tag/v0.14.0), 2 months ago) - A simple Go framework for building GitHub Apps
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.9.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.9.0), 2 months ago) - Ansible role for creating Systemd services for docker containers
 
 ### 🔨 Latest Pull Requests I published
 
