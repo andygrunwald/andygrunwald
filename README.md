@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.0), today) - Installer for a generic Linux system
 - [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.1](https://github.com/dghubble/gologin/releases/tag/v2.3.1), 3 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.3](https://github.com/lycheeverse/lychee/releases/tag/v0.10.3), 1 month ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 1 month ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 1 month ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.3.1](https://github.com/home-assistant/supervised-installer/releases/tag/1.3.1), 2 months ago) - Installer for a generic Linux system
 
 ### 🔨 Latest Pull Requests I published
 
