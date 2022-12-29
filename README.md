@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #142: Add Unmute IT podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/171) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #155: Add &#34;She Likes Tech&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/170) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #156: Add Female TechTalk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/169) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #159: Add Percepticon](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/168) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #166: Add Super Duper Developers Club Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/167) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Scripts: Adding a basic summary script](https://github.com/EngineeringKiosk/webpage/pull/296) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Importing Podcast Content: Add length in second to markdown](https://github.com/EngineeringKiosk/webpage/pull/295) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Fix panic: runtime error: invalid memory address or nil pointer dereference](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/152) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 weeks ago)
-- [docs: Add documentation about how to reconfigure &#34;$DATA_SHARE&#34;](https://github.com/home-assistant/supervised-installer/pull/251) on [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) (1 month ago)
 
 ### 📝 My recent blog posts
 
