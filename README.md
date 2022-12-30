@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (2 weeks ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (3 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #145: Add podcast &#34;She for what? She for IT!&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/172) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #142: Add Unmute IT podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/171) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #155: Add &#34;She Likes Tech&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/170) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #156: Add Female TechTalk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/169) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #159: Add Percepticon](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/168) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #145: Add podcast &#34;She for what? She for IT!&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/172) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #142: Add Unmute IT podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/171) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #155: Add &#34;She Likes Tech&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/170) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #156: Add Female TechTalk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/169) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #159: Add Percepticon](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/168) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 
 ### 📝 My recent blog posts
 
