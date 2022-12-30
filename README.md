@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Split t3n to t3n interview, daily and catchup](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/175) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #173: Add Mind the Tech podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/174) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #145: Add podcast &#34;She for what? She for IT!&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/172) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Fix #142: Add Unmute IT podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/171) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Fix #155: Add &#34;She Likes Tech&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/170) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Fix #156: Add Female TechTalk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/169) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 
 ### 📝 My recent blog posts
 
