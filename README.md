@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (3 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (3 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [German Tech Podcasts: Building an OPML file](https://github.com/EngineeringKiosk/webpage/pull/314) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Fix #160: App: Add new attribute &#34;Archive&#34; and render them as inactive](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/176) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Split t3n to t3n interview, daily and catchup](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/175) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #173: Add Mind the Tech podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/174) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #145: Add podcast &#34;She for what? She for IT!&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/172) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [German Tech Podcasts: Building an OPML file](https://github.com/EngineeringKiosk/webpage/pull/314) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Fix #160: App: Add new attribute &#34;Archive&#34; and render them as inactive](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/176) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Split t3n to t3n interview, daily and catchup](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/175) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #173: Add Mind the Tech podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/174) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #145: Add podcast &#34;She for what? She for IT!&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/172) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 
 ### 📝 My recent blog posts
 
