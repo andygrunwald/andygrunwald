@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #187: Add new podcast Armchair Investigators](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/190) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Adding new plattform: RTL&#43; Musik](https://github.com/EngineeringKiosk/webpage/pull/323) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Update neuland.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/188) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Update percepticon.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/186) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Update game-dev-podcast.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/184) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix generation of redirects when the episode number is negative](https://github.com/EngineeringKiosk/webpage/pull/321) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Make tags not underlines](https://github.com/EngineeringKiosk/webpage/pull/317) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 
 ### 📝 My recent blog posts
 
