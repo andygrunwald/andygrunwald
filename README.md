@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (3 weeks ago)
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (4 weeks ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (4 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.1](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.1), 3 weeks ago) - Installer for a generic Linux system
-- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.1](https://github.com/dghubble/gologin/releases/tag/v2.3.1), 4 weeks ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
+- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.1](https://github.com/dghubble/gologin/releases/tag/v2.3.1), 1 month ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.3](https://github.com/lycheeverse/lychee/releases/tag/v0.10.3), 1 month ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 2 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #187: Add new podcast Armchair Investigators](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/190) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Adding new plattform: RTL&#43; Musik](https://github.com/EngineeringKiosk/webpage/pull/323) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Update neuland.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/188) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Update percepticon.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/186) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Update game-dev-podcast.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/184) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #187: Add new podcast Armchair Investigators](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/190) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Adding new plattform: RTL&#43; Musik](https://github.com/EngineeringKiosk/webpage/pull/323) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Update neuland.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/188) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Update percepticon.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/186) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Update game-dev-podcast.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/184) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 
 ### 📝 My recent blog posts
 
