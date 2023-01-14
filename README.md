@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (1 month ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #182: Add new podcast Hobby Spieleentwickler Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/212) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #183: Add new podcast Gamedev für die Platte - Der Unreal Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/211) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #199: Add new podcast The World of IT-Security](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/210) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #194: Add new Podcast Digitalisierungsfieber](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/209) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #196: Add Security Insider podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/208) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Issue #197: Add new podcast &#34;Unter 4 Ohren&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/207) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #195: Add new podcast &#34;Rheingehäckt&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/206) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #185: Add Innoq Security Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/205) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #198: Add new podcast Breach FM](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/204) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
