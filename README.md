@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add tag &#34;Security&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/192) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #187: Add new podcast Armchair Investigators](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/190) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Adding new plattform: RTL&#43; Musik](https://github.com/EngineeringKiosk/webpage/pull/323) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Update neuland.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/188) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Update percepticon.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/186) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
+- [Fix #196: Add Security Insider podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/208) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Issue #197: Add new podcast &#34;Unter 4 Ohren&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/207) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #195: Add new podcast &#34;Rheingehäckt&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/206) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #185: Add Innoq Security Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/205) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Fix #198: Add new podcast Breach FM](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/204) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
