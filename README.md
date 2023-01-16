@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (1 month ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Tagging: Cleaned up a few tags and grouped them better](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/213) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Fix #182: Add new podcast Hobby Spieleentwickler Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/212) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Fix #183: Add new podcast Gamedev für die Platte - Der Unreal Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/211) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Fix #199: Add new podcast The World of IT-Security](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/210) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Fix #194: Add new Podcast Digitalisierungsfieber](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/209) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Tagging: Cleaned up a few tags and grouped them better](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/213) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #182: Add new podcast Hobby Spieleentwickler Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/212) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [Fix #183: Add new podcast Gamedev für die Platte - Der Unreal Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/211) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [Fix #199: Add new podcast The World of IT-Security](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/210) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [Fix #194: Add new Podcast Digitalisierungsfieber](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/209) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 
 ### 📝 My recent blog posts
 
