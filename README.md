@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update security-insider.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/219) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [README: New section &#34;in the press&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/217) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Tagging: Cleaned up a few tags and grouped them better](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/213) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Fix #182: Add new podcast Hobby Spieleentwickler Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/212) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 - [Fix #183: Add new podcast Gamedev für die Platte - Der Unreal Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/211) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
-- [Fix #199: Add new podcast The World of IT-Security](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/210) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 
 ### 📝 My recent blog posts
 
