@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Astro update to v2.0.1](https://github.com/EngineeringKiosk/webpage/pull/339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [GitHub Actions: Upgrade node version from v16 to v19.5.0](https://github.com/EngineeringKiosk/webpage/pull/338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New podcast: SoftwerkerCast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/226) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Update unmute-it.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/225) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Update security-insider.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/219) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [README: New section &#34;in the press&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/217) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Tagging: Cleaned up a few tags and grouped them better](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/213) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
