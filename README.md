@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Make current podcast episode prominent on the startpage](https://github.com/EngineeringKiosk/webpage/pull/342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New podcast: Add &#34;Bits &amp; Böses - Der Tech Crime Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/227) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
 - [Astro update to v2.0.1](https://github.com/EngineeringKiosk/webpage/pull/339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [GitHub Actions: Upgrade node version from v16 to v19.5.0](https://github.com/EngineeringKiosk/webpage/pull/338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [New podcast: SoftwerkerCast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/226) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [Update unmute-it.yml](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/225) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 
 ### 📝 My recent blog posts
 
