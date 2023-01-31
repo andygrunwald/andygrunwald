@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (1 month ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Make current podcast episode prominent on the startpage](https://github.com/EngineeringKiosk/webpage/pull/342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [New podcast: Add &#34;Bits &amp; Böses - Der Tech Crime Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/227) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [Astro update to v2.0.1](https://github.com/EngineeringKiosk/webpage/pull/339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [GitHub Actions: Upgrade node version from v16 to v19.5.0](https://github.com/EngineeringKiosk/webpage/pull/338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [New podcast: SoftwerkerCast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/226) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
+- [Make current podcast episode prominent on the startpage](https://github.com/EngineeringKiosk/webpage/pull/342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [New podcast: Add &#34;Bits &amp; Böses - Der Tech Crime Podcast&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/227) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
+- [Astro update to v2.0.1](https://github.com/EngineeringKiosk/webpage/pull/339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
+- [GitHub Actions: Upgrade node version from v16 to v19.5.0](https://github.com/EngineeringKiosk/webpage/pull/338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
+- [New podcast: SoftwerkerCast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/226) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 
 ### 📝 My recent blog posts
 
