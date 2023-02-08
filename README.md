@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (2 months ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Wolfgang: Remove Amsterdam location](https://github.com/EngineeringKiosk/webpage/pull/356) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New podcast: ISMS X-Plain](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/233) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
 - [Astro update to v2.0.6](https://github.com/andygrunwald/andygrunwald.com/pull/85) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
 - [Add link to fyyd.de](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/232) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 - [New podcast: Mixedcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/231) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
-- [New Podcast: Python Podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/230) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 
 ### 📝 My recent blog posts
 
