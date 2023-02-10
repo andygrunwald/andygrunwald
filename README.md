@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (2 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) - Installer for a generic Linux system (2 months ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Remove caching for static check](https://github.com/andygrunwald/go-gerrit/pull/138) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
+- [go mod tidy](https://github.com/andygrunwald/go-gerrit/pull/137) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Wolfgang: Remove Amsterdam location](https://github.com/EngineeringKiosk/webpage/pull/356) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [New podcast: ISMS X-Plain](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/233) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [Astro update to v2.0.6](https://github.com/andygrunwald/andygrunwald.com/pull/85) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
-- [Add link to fyyd.de](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/232) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New podcast: Mixedcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/231) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
