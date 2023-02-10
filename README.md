@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Footer: Make twitter bird blue](https://github.com/EngineeringKiosk/webpage/pull/363) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Content Import: Modify OpenPodcast up and down voting HTML](https://github.com/EngineeringKiosk/webpage/pull/362) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Fix deprecation: DeprecationWarning: The &#39;text&#39; argument to find()-type methods is deprecated. Use &#39;string&#39; instead.](https://github.com/EngineeringKiosk/webpage/pull/361) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [GitHub Actions: Remove caching for static check](https://github.com/andygrunwald/go-gerrit/pull/138) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [go mod tidy](https://github.com/andygrunwald/go-gerrit/pull/137) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
-- [Wolfgang: Remove Amsterdam location](https://github.com/EngineeringKiosk/webpage/pull/356) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [New podcast: ISMS X-Plain](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/233) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Astro update to v2.0.6](https://github.com/andygrunwald/andygrunwald.com/pull/85) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
 ### 📝 My recent blog posts
 
