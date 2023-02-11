@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 day ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade static check to v2023.1](https://github.com/andygrunwald/go-gerrit/pull/139) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Add Mastodon profile](https://github.com/EngineeringKiosk/webpage/pull/364) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Footer: Make twitter bird blue](https://github.com/EngineeringKiosk/webpage/pull/363) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Content Import: Modify OpenPodcast up and down voting HTML](https://github.com/EngineeringKiosk/webpage/pull/362) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Fix deprecation: DeprecationWarning: The &#39;text&#39; argument to find()-type methods is deprecated. Use &#39;string&#39; instead.](https://github.com/EngineeringKiosk/webpage/pull/361) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [GitHub Actions: Remove caching for static check](https://github.com/andygrunwald/go-gerrit/pull/138) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 day ago)
 
 ### 📝 My recent blog posts
 
