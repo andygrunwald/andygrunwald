@@ -7,9 +7,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 day ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Testimonials: Remove review-box and horizontal scolling](https://github.com/EngineeringKiosk/webpage/pull/367) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Profile page: Moved image to the top and social links next to the tag](https://github.com/EngineeringKiosk/webpage/pull/366) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Upgrade static check to v2023.1](https://github.com/andygrunwald/go-gerrit/pull/139) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 day ago)
 - [Add Mastodon profile](https://github.com/EngineeringKiosk/webpage/pull/364) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Footer: Make twitter bird blue](https://github.com/EngineeringKiosk/webpage/pull/363) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Content Import: Modify OpenPodcast up and down voting HTML](https://github.com/EngineeringKiosk/webpage/pull/362) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Fix deprecation: DeprecationWarning: The &#39;text&#39; argument to find()-type methods is deprecated. Use &#39;string&#39; instead.](https://github.com/EngineeringKiosk/webpage/pull/361) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
