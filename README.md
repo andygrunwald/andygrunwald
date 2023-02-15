@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Adding shellcheck to verify shell scripts](https://github.com/EngineeringKiosk/PodcastPipelines/pull/1) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (today)
 - [Tags: Remove static site generator and website tag](https://github.com/EngineeringKiosk/webpage/pull/368) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Testimonials: Remove review-box and horizontal scolling](https://github.com/EngineeringKiosk/webpage/pull/367) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Profile page: Moved image to the top and social links next to the tag](https://github.com/EngineeringKiosk/webpage/pull/366) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Upgrade static check to v2023.1](https://github.com/andygrunwald/go-gerrit/pull/139) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 days ago)
-- [Add Mastodon profile](https://github.com/EngineeringKiosk/webpage/pull/364) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 
 ### 📝 My recent blog posts
 
