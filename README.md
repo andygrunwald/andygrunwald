@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Tags: Remove static site generator and website tag](https://github.com/EngineeringKiosk/webpage/pull/368) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Testimonials: Remove review-box and horizontal scolling](https://github.com/EngineeringKiosk/webpage/pull/367) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Profile page: Moved image to the top and social links next to the tag](https://github.com/EngineeringKiosk/webpage/pull/366) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Upgrade static check to v2023.1](https://github.com/andygrunwald/go-gerrit/pull/139) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 days ago)
-- [Add Mastodon profile](https://github.com/EngineeringKiosk/webpage/pull/364) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [Tags: Remove static site generator and website tag](https://github.com/EngineeringKiosk/webpage/pull/368) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Testimonials: Remove review-box and horizontal scolling](https://github.com/EngineeringKiosk/webpage/pull/367) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Profile page: Moved image to the top and social links next to the tag](https://github.com/EngineeringKiosk/webpage/pull/366) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Upgrade static check to v2023.1](https://github.com/andygrunwald/go-gerrit/pull/139) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 days ago)
+- [Add Mastodon profile](https://github.com/EngineeringKiosk/webpage/pull/364) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 
 ### 📝 My recent blog posts
 
