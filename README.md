@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [Header: Add Apple ID Metatag for Apple Podcast Banner on iOS devices](https://github.com/EngineeringKiosk/webpage/pull/373) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Python Podcast: Added weekly_downloads_avg](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/238) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 - [New Podcast: Ja sia!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/235) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
-- [GitHub Actions: Adding shellcheck to verify shell scripts](https://github.com/EngineeringKiosk/PodcastPipelines/pull/1) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (4 days ago)
 
 ### 📝 My recent blog posts
 
