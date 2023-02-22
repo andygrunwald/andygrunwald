@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.0](https://github.com/lycheeverse/lychee/releases/tag/v0.11.0), today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.1](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.1), 2 months ago) - Installer for a generic Linux system
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.10.3](https://github.com/lycheeverse/lychee/releases/tag/v0.10.3), 3 months ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.9.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.9.0), 5 months ago) - Ansible role for creating Systemd services for docker containers
