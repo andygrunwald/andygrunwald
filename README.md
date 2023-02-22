@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
-- [Header: Add Apple ID Metatag for Apple Podcast Banner on iOS devices](https://github.com/EngineeringKiosk/webpage/pull/373) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Python Podcast: Added weekly_downloads_avg](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/238) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
-- [New Podcast: Ja sia!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/235) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
+- [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
+- [Header: Add Apple ID Metatag for Apple Podcast Banner on iOS devices](https://github.com/EngineeringKiosk/webpage/pull/373) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Python Podcast: Added weekly_downloads_avg](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/238) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
+- [New Podcast: Ja sia!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/235) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
