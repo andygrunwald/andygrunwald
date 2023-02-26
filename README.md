@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
+- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
 - [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [Header: Add Apple ID Metatag for Apple Podcast Banner on iOS devices](https://github.com/EngineeringKiosk/webpage/pull/373) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Python Podcast: Added weekly_downloads_avg](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/238) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New Podcast: Ja sia!](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/235) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
