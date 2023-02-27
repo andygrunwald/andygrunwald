@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (5 days ago)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (6 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 4 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 5 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.1](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.1), 2 months ago) - Installer for a generic Linux system
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
-- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
+- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 day ago)
+- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 day ago)
 - [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [Header: Add Apple ID Metatag for Apple Podcast Banner on iOS devices](https://github.com/EngineeringKiosk/webpage/pull/373) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
