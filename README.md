@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Footer: Add Discord Community as Footer link](https://github.com/EngineeringKiosk/webpage/pull/393) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New podcast: dev.env](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/241) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
 - [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (6 days ago)
 - [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (6 days ago)
 - [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
 ### 📝 My recent blog posts
 
