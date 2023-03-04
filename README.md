@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 1 day ago) - Installer for a generic Linux system
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 2 days ago) - Installer for a generic Linux system
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 1 week ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [New podcast: dev.env](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/241) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (5 days ago)
-- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (5 days ago)
+- [New podcast: dev.env](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/241) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (6 days ago)
+- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (6 days ago)
 - [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [New page: Work with me](https://github.com/andygrunwald/andygrunwald.com/pull/96) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
