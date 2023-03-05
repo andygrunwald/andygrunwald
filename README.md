@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [docs: Remove references to to previous named ansible collection cloudalchemy](https://github.com/prometheus-community/ansible/pull/44) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (today)
+- [docs: Quote value latest to be explicit about the possible value for node_exporter_version](https://github.com/prometheus-community/ansible/pull/43) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (today)
 - [Footer: Add Discord Community as Footer link](https://github.com/EngineeringKiosk/webpage/pull/393) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [New podcast: dev.env](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/241) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 - [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 week ago)
-- [Update go-github from v48 to v50](https://github.com/dghubble/gologin/pull/136) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 week ago)
-- [Fix player.js](https://github.com/EngineeringKiosk/webpage/pull/382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
