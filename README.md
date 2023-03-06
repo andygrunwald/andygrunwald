@@ -5,20 +5,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.1.4](https://github.com/prometheus-community/ansible/releases/tag/0.1.4), 1 day ago) - Ansible Collection for Prometheus
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 4 days ago) - Installer for a generic Linux system
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 1 week ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.9.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.9.0), 5 months ago) - Ansible role for creating Systemd services for docker containers
 
 ### 🔨 Latest Pull Requests I published
 
