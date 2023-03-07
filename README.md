@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.1.4](https://github.com/prometheus-community/ansible/releases/tag/0.1.4), 2 days ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.1.5](https://github.com/prometheus-community/ansible/releases/tag/0.1.5), today) - Ansible Collection for Prometheus
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 5 days ago) - Installer for a generic Linux system
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 1 week ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [andygrunwald/sico](https://github.com/andygrunwald/sico) ([v0.1.0](https://github.com/andygrunwald/sico/releases/tag/v0.1.0), 4 months ago) - A Sitemap Comparison that helps you to not fuck up your website migration.
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
+- [gitignore: Add local compiled binary](https://github.com/msiebeneicher/snab/pull/4) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
+- [GitHub Actions: Add Go CI (linting, staticcheck, compiling)](https://github.com/msiebeneicher/snab/pull/3) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
+- [README: Fix typo &#34;taks&#34; -&gt; &#34;task&#34;](https://github.com/msiebeneicher/snab/pull/2) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
 - [docs: Remove references to to previous named ansible collection cloudalchemy](https://github.com/prometheus-community/ansible/pull/44) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (2 days ago)
-- [docs: Quote value latest to be explicit about the possible value for node_exporter_version](https://github.com/prometheus-community/ansible/pull/43) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (2 days ago)
-- [Footer: Add Discord Community as Footer link](https://github.com/EngineeringKiosk/webpage/pull/393) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [New podcast: dev.env](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/241) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
-- [Testing: Remove testing for Go v1.18, add testing for Go v1.20](https://github.com/dghubble/gologin/pull/137) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 week ago)
 
 ### 📝 My recent blog posts
 
