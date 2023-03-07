@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add support for `--add-host`](https://github.com/mhutter/ansible-docker-systemd-service/pull/58) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
 - [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
 - [gitignore: Add local compiled binary](https://github.com/msiebeneicher/snab/pull/4) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
 - [GitHub Actions: Add Go CI (linting, staticcheck, compiling)](https://github.com/msiebeneicher/snab/pull/3) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
 - [README: Fix typo &#34;taks&#34; -&gt; &#34;task&#34;](https://github.com/msiebeneicher/snab/pull/2) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (today)
-- [docs: Remove references to to previous named ansible collection cloudalchemy](https://github.com/prometheus-community/ansible/pull/44) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (2 days ago)
 
 ### 📝 My recent blog posts
 
