@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (4 days ago)
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application (4 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
