@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 3 days ago) - Ansible role for creating Systemd services for docker containers
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.2.0](https://github.com/prometheus-community/ansible/releases/tag/0.2.0), 3 days ago) - Ansible Collection for Prometheus
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.1.0](https://github.com/msiebeneicher/snab/releases/tag/v0.1.0), 6 days ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
+- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 4 days ago) - Ansible role for creating Systemd services for docker containers
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.2.0](https://github.com/prometheus-community/ansible/releases/tag/0.2.0), 4 days ago) - Ansible Collection for Prometheus
+- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.1.0](https://github.com/msiebeneicher/snab/releases/tag/v0.1.0), 1 week ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 1 week ago) - Installer for a generic Linux system
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.11.1](https://github.com/lycheeverse/lychee/releases/tag/v0.11.1), 2 weeks ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add support for `--hostname`](https://github.com/mhutter/ansible-docker-systemd-service/pull/59) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (5 days ago)
-- [Add support for `--add-host`](https://github.com/mhutter/ansible-docker-systemd-service/pull/58) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (6 days ago)
-- [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (6 days ago)
-- [gitignore: Add local compiled binary](https://github.com/msiebeneicher/snab/pull/4) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (6 days ago)
-- [GitHub Actions: Add Go CI (linting, staticcheck, compiling)](https://github.com/msiebeneicher/snab/pull/3) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (6 days ago)
+- [Add support for `--hostname`](https://github.com/mhutter/ansible-docker-systemd-service/pull/59) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (6 days ago)
+- [Add support for `--add-host`](https://github.com/mhutter/ansible-docker-systemd-service/pull/58) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
+- [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
+- [gitignore: Add local compiled binary](https://github.com/msiebeneicher/snab/pull/4) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
+- [GitHub Actions: Add Go CI (linting, staticcheck, compiling)](https://github.com/msiebeneicher/snab/pull/3) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
 
 ### 📝 My recent blog posts
 
