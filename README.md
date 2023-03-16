@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dependabot: Switch to monthly schedule](https://github.com/EngineeringKiosk/webpage/pull/409) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add support for `--hostname`](https://github.com/mhutter/ansible-docker-systemd-service/pull/59) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 - [Add support for `--add-host`](https://github.com/mhutter/ansible-docker-systemd-service/pull/58) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 week ago)
 - [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
 - [gitignore: Add local compiled binary](https://github.com/msiebeneicher/snab/pull/4) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
-- [GitHub Actions: Add Go CI (linting, staticcheck, compiling)](https://github.com/msiebeneicher/snab/pull/3) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (1 week ago)
 
 ### 📝 My recent blog posts
 
