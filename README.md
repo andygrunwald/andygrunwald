@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.2.0](https://github.com/msiebeneicher/snab/releases/tag/v0.2.0), 1 day ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
+- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.0](https://github.com/msiebeneicher/snab/releases/tag/v0.3.0), today) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.3.0](https://github.com/prometheus-community/ansible/releases/tag/0.3.0), 3 days ago) - Ansible Collection for Prometheus
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 1 week ago) - Ansible role for creating Systemd services for docker containers
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 2 weeks ago) - Installer for a generic Linux system
