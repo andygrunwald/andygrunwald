@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Fix CI runs](https://github.com/andygrunwald/go-incident/pull/19) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (today)
+- [GitHub Actions: Fix broken CI runs](https://github.com/andygrunwald/TrendingGithub/pull/59) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (today)
+- [GitHub Actions: Fix broken CI runs](https://github.com/andygrunwald/go-trending/pull/44) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
 - [Let pipeline not fail, when image url is empty and we have an image on disk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/246) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [Dependabot: Switch to monthly schedule](https://github.com/EngineeringKiosk/webpage/pull/409) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add support for `--hostname`](https://github.com/mhutter/ansible-docker-systemd-service/pull/59) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (2 weeks ago)
-- [Add support for `--add-host`](https://github.com/mhutter/ansible-docker-systemd-service/pull/58) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (2 weeks ago)
-- [Dependabot: Add configuration for gomod and GitHub Actions](https://github.com/msiebeneicher/snab/pull/5) on [msiebeneicher/snab](https://github.com/msiebeneicher/snab) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
