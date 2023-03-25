@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Podcast Image: Return file form fuzzy search, if upstream the image is broken](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/249) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [GitHub Actions: Fix CI runs](https://github.com/andygrunwald/go-incident/pull/19) on [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) (today)
 - [GitHub Actions: Fix broken CI runs](https://github.com/andygrunwald/TrendingGithub/pull/59) on [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) (today)
 - [GitHub Actions: Fix broken CI runs](https://github.com/andygrunwald/go-trending/pull/44) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
 - [Let pipeline not fail, when image url is empty and we have an image on disk](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/246) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Dependabot: Switch to monthly schedule](https://github.com/EngineeringKiosk/webpage/pull/409) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
