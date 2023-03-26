@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 day ago)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
