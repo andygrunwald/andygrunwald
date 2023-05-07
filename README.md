@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [`make prettier` for the .github folder](https://github.com/EngineeringKiosk/webpage/pull/443) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Dependencies: Prefix versions with ^](https://github.com/EngineeringKiosk/webpage/pull/438) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Repository formatting: Code style etc.](https://github.com/EngineeringKiosk/webpage/pull/427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Navigation: Add Community to top line navigation](https://github.com/EngineeringKiosk/webpage/pull/426) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
-- [Podcast Image: Return file form fuzzy search, if upstream the image is broken](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/249) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 
 ### 📝 My recent blog posts
 
