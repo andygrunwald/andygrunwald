@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (4 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add Social Media Link to Footer: LinkedIn and YouTube](https://github.com/EngineeringKiosk/webpage/pull/445) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [`make prettier` for the .github folder](https://github.com/EngineeringKiosk/webpage/pull/443) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Dependencies: Prefix versions with ^](https://github.com/EngineeringKiosk/webpage/pull/438) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Repository formatting: Code style etc.](https://github.com/EngineeringKiosk/webpage/pull/427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
-- [Navigation: Add Community to top line navigation](https://github.com/EngineeringKiosk/webpage/pull/426) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
