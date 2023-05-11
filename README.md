@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 weeks ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 month ago)
 - [andygrunwald/Gerrie](https://github.com/andygrunwald/Gerrie) - A crawler for Googles code review system &#34;Gerrit&#34; (1 month ago)
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add Social Media Link to Footer: LinkedIn and YouTube](https://github.com/EngineeringKiosk/webpage/pull/445) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [`make prettier` for the .github folder](https://github.com/EngineeringKiosk/webpage/pull/443) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Dependencies: Prefix versions with ^](https://github.com/EngineeringKiosk/webpage/pull/438) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Add Social Media Link to Footer: LinkedIn and YouTube](https://github.com/EngineeringKiosk/webpage/pull/445) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [`make prettier` for the .github folder](https://github.com/EngineeringKiosk/webpage/pull/443) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [Dependencies: Prefix versions with ^](https://github.com/EngineeringKiosk/webpage/pull/438) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Repository formatting: Code style etc.](https://github.com/EngineeringKiosk/webpage/pull/427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
