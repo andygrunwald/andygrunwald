@@ -9,7 +9,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 weeks ago)
-- [andygrunwald/Gerrie](https://github.com/andygrunwald/Gerrie) - A crawler for Googles code review system &#34;Gerrit&#34; (1 month ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
