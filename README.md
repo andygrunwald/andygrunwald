@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade of development environment to PHP 8.0.28 &#43; MySQL 5.7.42](https://github.com/lansuite/lansuite/pull/575) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Upgrade of development environment to PHP 8.1 &#43; MySQL 8](https://github.com/lansuite/lansuite/pull/570) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Remove support for `get_magic_quotes_gpc`](https://github.com/lansuite/lansuite/pull/569) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Add Social Media Link to Footer: LinkedIn and YouTube](https://github.com/EngineeringKiosk/webpage/pull/445) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [`make prettier` for the .github folder](https://github.com/EngineeringKiosk/webpage/pull/443) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
