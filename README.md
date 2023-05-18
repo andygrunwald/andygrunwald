@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.0](https://github.com/prometheus-community/ansible/releases/tag/0.5.0), 2 days ago) - Ansible Collection for Prometheus
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 3 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.0](https://github.com/prometheus-community/ansible/releases/tag/0.5.0), 3 days ago) - Ansible Collection for Prometheus
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 4 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 1 month ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 2 months ago) - Ansible role for creating Systemd services for docker containers
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.2](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.2), 2 months ago) - Installer for a generic Linux system
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Upgrade of development environment to PHP 8.0.28 &#43; MySQL 5.7.42](https://github.com/lansuite/lansuite/pull/575) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Upgrade of development environment to PHP 8.1 &#43; MySQL 8](https://github.com/lansuite/lansuite/pull/570) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Remove support for `get_magic_quotes_gpc`](https://github.com/lansuite/lansuite/pull/569) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Upgrade of development environment to PHP 8.0.28 &#43; MySQL 5.7.42](https://github.com/lansuite/lansuite/pull/575) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Upgrade of development environment to PHP 8.1 &#43; MySQL 8](https://github.com/lansuite/lansuite/pull/570) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [Remove support for `get_magic_quotes_gpc`](https://github.com/lansuite/lansuite/pull/569) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [Add Social Media Link to Footer: LinkedIn and YouTube](https://github.com/EngineeringKiosk/webpage/pull/445) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Add new pictures of Wolfgang and Andy after photoshooting](https://github.com/EngineeringKiosk/webpage/pull/444) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
