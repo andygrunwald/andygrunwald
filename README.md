@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Introducing Rector: Tooling for basic PHP refactoring to make PHP upgrades easier and apply best practices](https://github.com/lansuite/lansuite/pull/580) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Dockerfile: Enable `xdebug.mode=debug,develop`](https://github.com/lansuite/lansuite/pull/579) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [docs/docker: Add instruction to copy mysql.env file](https://github.com/lansuite/lansuite/pull/578) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Docker Compose: Remove `platform`, because it is not existing in Docker Compose File Format Version 3 anymore](https://github.com/lansuite/lansuite/pull/577) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix docs: Set correct go import path for `echoprometheus` package](https://github.com/labstack/echo-contrib/pull/96) on [labstack/echo-contrib](https://github.com/labstack/echo-contrib) (1 day ago)
-- [Installation: Make installation work on PHP 8.0 without any error](https://github.com/lansuite/lansuite/pull/576) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 
 ### 📝 My recent blog posts
 
