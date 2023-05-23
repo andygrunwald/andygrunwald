@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dockerfile: Enable `xdebug.mode=debug,develop`](https://github.com/lansuite/lansuite/pull/579) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [docs/docker: Add instruction to copy mysql.env file](https://github.com/lansuite/lansuite/pull/578) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Docker Compose: Remove `platform`, because it is not existing in Docker Compose File Format Version 3 anymore](https://github.com/lansuite/lansuite/pull/577) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix docs: Set correct go import path for `echoprometheus` package](https://github.com/labstack/echo-contrib/pull/96) on [labstack/echo-contrib](https://github.com/labstack/echo-contrib) (1 day ago)
 - [Installation: Make installation work on PHP 8.0 without any error](https://github.com/lansuite/lansuite/pull/576) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Upgrade of development environment to PHP 8.0.28 &#43; MySQL 5.7.42](https://github.com/lansuite/lansuite/pull/575) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [Upgrade of development environment to PHP 8.1 &#43; MySQL 8](https://github.com/lansuite/lansuite/pull/570) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Remove support for `get_magic_quotes_gpc`](https://github.com/lansuite/lansuite/pull/569) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
