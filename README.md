@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Rector: Raise Level set to UP_TO_PHP_70](https://github.com/lansuite/lansuite/pull/584) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Rector: Raise Level set to UP_TO_PHP_56 and ignore PowToExpRector](https://github.com/lansuite/lansuite/pull/583) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Rector: Raise Level set to UP_TO_PHP_55](https://github.com/lansuite/lansuite/pull/582) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Rector: Raise Level set to UP_TO_PHP_54 and ignore LongArrayToShortArrayRector](https://github.com/lansuite/lansuite/pull/581) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Introducing Rector: Tooling for basic PHP refactoring to make PHP upgrades easier and apply best practices](https://github.com/lansuite/lansuite/pull/580) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Dockerfile: Enable `xdebug.mode=debug,develop`](https://github.com/lansuite/lansuite/pull/579) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [docs/docker: Add instruction to copy mysql.env file](https://github.com/lansuite/lansuite/pull/578) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Docker Compose: Remove `platform`, because it is not existing in Docker Compose File Format Version 3 anymore](https://github.com/lansuite/lansuite/pull/577) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix docs: Set correct go import path for `echoprometheus` package](https://github.com/labstack/echo-contrib/pull/96) on [labstack/echo-contrib](https://github.com/labstack/echo-contrib) (1 day ago)
 
 ### 📝 My recent blog posts
 
