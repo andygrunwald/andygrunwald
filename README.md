@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Rector: Raise Level set to UP_TO_PHP_80 and ignore ClassPropertyAssignToConstructorPromotionRector](https://github.com/lansuite/lansuite/pull/589) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Rector: Raise Level set to UP_TO_PHP_74](https://github.com/lansuite/lansuite/pull/588) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Rector: Raise Level set to UP_TO_PHP_73](https://github.com/lansuite/lansuite/pull/587) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Rector: Raise Level set to UP_TO_PHP_72](https://github.com/lansuite/lansuite/pull/586) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Rector: Raise Level set to UP_TO_PHP_71](https://github.com/lansuite/lansuite/pull/585) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Rector: Raise Level set to UP_TO_PHP_70](https://github.com/lansuite/lansuite/pull/584) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
