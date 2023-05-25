@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (2 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (3 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 2 days ago) - Echo community contribution
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 3 days ago) - Echo community contribution
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.0](https://github.com/prometheus-community/ansible/releases/tag/0.5.0), 1 week ago) - Ansible Collection for Prometheus
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 1 week ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 2 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Rector: Raise Level set to UP_TO_PHP_80 and ignore ClassPropertyAssignToConstructorPromotionRector](https://github.com/lansuite/lansuite/pull/589) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Rector: Raise Level set to UP_TO_PHP_74](https://github.com/lansuite/lansuite/pull/588) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Rector: Raise Level set to UP_TO_PHP_80 and ignore ClassPropertyAssignToConstructorPromotionRector](https://github.com/lansuite/lansuite/pull/589) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Rector: Raise Level set to UP_TO_PHP_74](https://github.com/lansuite/lansuite/pull/588) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
