@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Authentication: Define authentication types](https://github.com/lansuite/lansuite/pull/602) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [GitHub Actions: Remove unused `.github/ci.yml`](https://github.com/lansuite/lansuite/pull/595) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Raise minimum from for LanSuite (PHP v7.0 -&gt; v8.0 / MySQL v5.6.3 -&gt; v5.7)](https://github.com/lansuite/lansuite/pull/594) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
