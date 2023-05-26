@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (3 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (4 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 3 days ago) - Echo community contribution
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 4 days ago) - Echo community contribution
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.0](https://github.com/prometheus-community/ansible/releases/tag/0.5.0), 1 week ago) - Ansible Collection for Prometheus
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 1 week ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 2 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [GitHub Actions: Remove unused `.github/ci.yml`](https://github.com/lansuite/lansuite/pull/595) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Raise minimum from for LanSuite (PHP v7.0 -&gt; v8.0 / MySQL v5.6.3 -&gt; v5.7)](https://github.com/lansuite/lansuite/pull/594) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [GitHub Actions: Remove unused `.github/ci.yml`](https://github.com/lansuite/lansuite/pull/595) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Raise minimum from for LanSuite (PHP v7.0 -&gt; v8.0 / MySQL v5.6.3 -&gt; v5.7)](https://github.com/lansuite/lansuite/pull/594) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Dependabot: Configure package.json for the documentation website](https://github.com/lansuite/lansuite/pull/591) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Adding basic Makefiles for LanSuite and the documentation](https://github.com/lansuite/lansuite/pull/590) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
