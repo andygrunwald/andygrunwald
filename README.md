@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Installation: Add database value User@Server into MySQL error message](https://github.com/lansuite/lansuite/pull/605) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix several PHP Warnings and PHP Fatal Errors](https://github.com/lansuite/lansuite/pull/604) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Authentication: Preset `$auth` with default values](https://github.com/lansuite/lansuite/pull/603) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Authentication: Define authentication types](https://github.com/lansuite/lansuite/pull/602) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [GitHub Actions: Remove unused `.github/ci.yml`](https://github.com/lansuite/lansuite/pull/595) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Raise minimum from for LanSuite (PHP v7.0 -&gt; v8.0 / MySQL v5.6.3 -&gt; v5.7)](https://github.com/lansuite/lansuite/pull/594) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Documentation: Add yarn.lock to version control](https://github.com/lansuite/lansuite/pull/592) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 
 ### 📝 My recent blog posts
 
