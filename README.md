@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [EnvCheck: Add check for MySQL Strict mode](https://github.com/lansuite/lansuite/pull/609) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Remove PHP Setting `safe_mode` and basic server statistics](https://github.com/lansuite/lansuite/pull/608) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Remove `ini_set(&#39;url_rewriter.tags&#39;, &#39;&#39;)`](https://github.com/lansuite/lansuite/pull/607) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Remove dependency to apcu extension](https://github.com/lansuite/lansuite/pull/606) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Installation: Add database value User@Server into MySQL error message](https://github.com/lansuite/lansuite/pull/605) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix several PHP Warnings and PHP Fatal Errors](https://github.com/lansuite/lansuite/pull/604) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Authentication: Preset `$auth` with default values](https://github.com/lansuite/lansuite/pull/603) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Authentication: Define authentication types](https://github.com/lansuite/lansuite/pull/602) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [GitHub Actions: Remove unused `.github/ci.yml`](https://github.com/lansuite/lansuite/pull/595) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
