@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (1 week ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Documentation: Upgrade to Docusaurus 2.4](https://github.com/lansuite/lansuite/pull/612) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Remove dependency to proxy `62.67.200.4`](https://github.com/lansuite/lansuite/pull/611) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Fix several PHP Warnings and PHP Fatal Errors (Iteration 2)](https://github.com/lansuite/lansuite/pull/610) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [EnvCheck: Add check for MySQL Strict mode](https://github.com/lansuite/lansuite/pull/609) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Remove PHP Setting `safe_mode` and basic server statistics](https://github.com/lansuite/lansuite/pull/608) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Documentation: Upgrade to Docusaurus 2.4](https://github.com/lansuite/lansuite/pull/612) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Remove dependency to proxy `62.67.200.4`](https://github.com/lansuite/lansuite/pull/611) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fix several PHP Warnings and PHP Fatal Errors (Iteration 2)](https://github.com/lansuite/lansuite/pull/610) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [EnvCheck: Add check for MySQL Strict mode](https://github.com/lansuite/lansuite/pull/609) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Remove PHP Setting `safe_mode` and basic server statistics](https://github.com/lansuite/lansuite/pull/608) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
