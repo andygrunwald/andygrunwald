@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Documentation: Make the deployment easier and update the documentation on hot to extend it](https://github.com/lansuite/lansuite/pull/613) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Documentation: Upgrade to Docusaurus 2.4](https://github.com/lansuite/lansuite/pull/612) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Remove dependency to proxy `62.67.200.4`](https://github.com/lansuite/lansuite/pull/611) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fix several PHP Warnings and PHP Fatal Errors (Iteration 2)](https://github.com/lansuite/lansuite/pull/610) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [EnvCheck: Add check for MySQL Strict mode](https://github.com/lansuite/lansuite/pull/609) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Remove PHP Setting `safe_mode` and basic server statistics](https://github.com/lansuite/lansuite/pull/608) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
