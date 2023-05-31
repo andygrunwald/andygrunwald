@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Documentation: Automate deployment via GitHub Actions](https://github.com/lansuite/lansuite/pull/616) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Documentation: Make the deployment easier and update the documentation on hot to extend it](https://github.com/lansuite/lansuite/pull/613) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Documentation: Upgrade to Docusaurus 2.4](https://github.com/lansuite/lansuite/pull/612) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Remove dependency to proxy `62.67.200.4`](https://github.com/lansuite/lansuite/pull/611) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Fix several PHP Warnings and PHP Fatal Errors (Iteration 2)](https://github.com/lansuite/lansuite/pull/610) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Modules/Discord: Fix PHP Syntax error in `fetchServerData()`](https://github.com/lansuite/lansuite/pull/622) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Module/Stats: Fix httpReferer -&gt; $httpReferer](https://github.com/lansuite/lansuite/pull/621) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [MasterForm: Fix &#34;Access to an undefined property&#34;](https://github.com/lansuite/lansuite/pull/620) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [MasterComment: Fix &#34;Class LanSuite\MasterForm referenced with incorrect case&#34;](https://github.com/lansuite/lansuite/pull/619) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Func: Fix &#34;Access to an undefined property&#34; and undefined class LanSuite\GesHi](https://github.com/lansuite/lansuite/pull/618) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
