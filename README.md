@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Modules/Discord: Fix PHP Syntax error in `fetchServerData()`](https://github.com/lansuite/lansuite/pull/622) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Module/Stats: Fix httpReferer -&gt; $httpReferer](https://github.com/lansuite/lansuite/pull/621) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [MasterForm: Fix &#34;Access to an undefined property&#34;](https://github.com/lansuite/lansuite/pull/620) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [MasterComment: Fix &#34;Class LanSuite\MasterForm referenced with incorrect case&#34;](https://github.com/lansuite/lansuite/pull/619) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Func: Fix &#34;Access to an undefined property&#34; and undefined class LanSuite\GesHi](https://github.com/lansuite/lansuite/pull/618) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Cashmanager: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/628) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Stats: Fix syntax error](https://github.com/lansuite/lansuite/pull/627) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Bugtracker: Wrong reference for Mail class](https://github.com/lansuite/lansuite/pull/626) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Discord: Fix &#34;Undefined variable: $disordServerId&#34;](https://github.com/lansuite/lansuite/pull/625) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Troubleticket: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/624) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
