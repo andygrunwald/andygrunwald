@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Modules/Cashmanager: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/628) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Modules/Stats: Fix syntax error](https://github.com/lansuite/lansuite/pull/627) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Modules/Bugtracker: Wrong reference for Mail class](https://github.com/lansuite/lansuite/pull/626) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Modules/Discord: Fix &#34;Undefined variable: $disordServerId&#34;](https://github.com/lansuite/lansuite/pull/625) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Modules/Troubleticket: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/624) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Guestlist: Fix &#34;Class LanSuite\Module\Mail\Mail referenced with incorrect case: Lansuite\Module\Mail\Mail&#34;](https://github.com/lansuite/lansuite/pull/631) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/Foodcenter: Fix &#34;Call to function unset() contains undefined variable&#34;](https://github.com/lansuite/lansuite/pull/630) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Modules/FAQ: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/629) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
