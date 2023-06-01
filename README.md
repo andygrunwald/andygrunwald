@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Modules/Guestlist: Fix &#34;Class LanSuite\Module\Mail\Mail referenced with incorrect case: Lansuite\Module\Mail\Mail&#34;](https://github.com/lansuite/lansuite/pull/631) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Modules/Foodcenter: Fix &#34;Call to function unset() contains undefined variable&#34;](https://github.com/lansuite/lansuite/pull/630) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
