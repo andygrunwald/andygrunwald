@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) - Echo community contribution (1 week ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Replace symfony/debug with symfony/error-handler, because the debug package is is abandoned](https://github.com/lansuite/lansuite/pull/636) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Replace symfony/debug with symfony/error-handler, because the debug package is is abandoned](https://github.com/lansuite/lansuite/pull/636) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
