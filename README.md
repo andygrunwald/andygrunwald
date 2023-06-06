@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.3](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.3), 2 days ago) - Installer for a generic Linux system
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.3](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.3), 3 days ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 2 weeks ago) - Echo community contribution
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.0](https://github.com/prometheus-community/ansible/releases/tag/0.5.0), 3 weeks ago) - Ansible Collection for Prometheus
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 3 weeks ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Replace symfony/debug with symfony/error-handler, because the debug package is is abandoned](https://github.com/lansuite/lansuite/pull/636) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Replace symfony/debug with symfony/error-handler, because the debug package is is abandoned](https://github.com/lansuite/lansuite/pull/636) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Modules/NOC: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/632) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
