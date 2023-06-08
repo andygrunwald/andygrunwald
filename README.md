@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Database/MySQL: Add new class with first class Prepared Statement support](https://github.com/lansuite/lansuite/pull/641) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [GitHub Actions: Label Pull Requests if they have a merge conflict](https://github.com/lansuite/lansuite/pull/639) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Replace symfony/debug with symfony/error-handler, because the debug package is is abandoned](https://github.com/lansuite/lansuite/pull/636) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [PHP8: Fix Warnings of undefined variables, early access, unknown array keys, etc. (Iteration 3)](https://github.com/lansuite/lansuite/pull/635) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Workaround for incompatibilities with SQL Mode `ONLY_FULL_GROUP_BY` and `STRICT_TRANS_TABLES`](https://github.com/lansuite/lansuite/pull/634) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Modules/PDF: Fix &#34;Cannot use [] for reading&#34;](https://github.com/lansuite/lansuite/pull/633) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
