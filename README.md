@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 - [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 - [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 - [Raffle: Update wording and script](https://github.com/WebEngDUS/WebEngDUS/pull/28) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 - [Checklist: Rework the checklist according to the current situation](https://github.com/WebEngDUS/WebEngDUS/pull/27) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
-- [Social Media: Added LinkedIn link](https://github.com/WebEngDUS/WebEngDUS/pull/26) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 
 ### 📝 My recent blog posts
 
