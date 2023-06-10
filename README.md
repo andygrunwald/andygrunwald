@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
+- [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
+- [Raffle: Update wording and script](https://github.com/WebEngDUS/WebEngDUS/pull/28) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
+- [Checklist: Rework the checklist according to the current situation](https://github.com/WebEngDUS/WebEngDUS/pull/27) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
 - [Social Media: Added LinkedIn link](https://github.com/WebEngDUS/WebEngDUS/pull/26) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
-- [Code of conduct: Streamline wording and fix smaller commata issues](https://github.com/WebEngDUS/WebEngDUS/pull/25) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
-- [Delete Meetup.com template and refer to latest event as the template](https://github.com/WebEngDUS/WebEngDUS/pull/24) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
-- [Speaker Information: Replace old guidelines with new Google document](https://github.com/WebEngDUS/WebEngDUS/pull/23) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (today)
-- [Database/MySQL: Add new class with first class Prepared Statement support](https://github.com/lansuite/lansuite/pull/641) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
