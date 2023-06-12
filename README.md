@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.1](https://github.com/prometheus-community/ansible/releases/tag/0.5.1), today) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.1](https://github.com/prometheus-community/ansible/releases/tag/0.5.1), 1 day ago) - Ansible Collection for Prometheus
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.3](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.3), 1 week ago) - Installer for a generic Linux system
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 2 weeks ago) - Echo community contribution
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 3 weeks ago) - Echo community contribution
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 4 weeks ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 2 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 day ago)
-- [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 day ago)
-- [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 day ago)
-- [Raffle: Update wording and script](https://github.com/WebEngDUS/WebEngDUS/pull/28) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 day ago)
-- [Checklist: Rework the checklist according to the current situation](https://github.com/WebEngDUS/WebEngDUS/pull/27) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 day ago)
+- [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (2 days ago)
+- [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (2 days ago)
+- [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (2 days ago)
+- [Raffle: Update wording and script](https://github.com/WebEngDUS/WebEngDUS/pull/28) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (2 days ago)
+- [Checklist: Rework the checklist according to the current situation](https://github.com/WebEngDUS/WebEngDUS/pull/27) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (2 days ago)
 
 ### 📝 My recent blog posts
 
