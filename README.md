@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (1 day ago)
+- [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
