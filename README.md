@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (6 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [Raffle: Update wording and script](https://github.com/WebEngDUS/WebEngDUS/pull/28) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
-- [Checklist: Rework the checklist according to the current situation](https://github.com/WebEngDUS/WebEngDUS/pull/27) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 
 ### 📝 My recent blog posts
 
