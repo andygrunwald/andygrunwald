@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (6 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 
@@ -16,14 +16,14 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.1](https://github.com/prometheus-community/ansible/releases/tag/0.5.1), 1 week ago) - Ansible Collection for Prometheus
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.3](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.3), 2 weeks ago) - Installer for a generic Linux system
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 4 weeks ago) - Echo community contribution
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 1 month ago) - Echo community contribution
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 1 month ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 3 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
+- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 - [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [README: Fix grammar](https://github.com/WebEngDUS/WebEngDUS/pull/29) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
