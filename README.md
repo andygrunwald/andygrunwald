@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
 - [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
-- [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 
 ### 📝 My recent blog posts
 
