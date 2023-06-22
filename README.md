@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
+- [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
 - [Add guideline on how to contribute to the meetup and extend the contact information](https://github.com/WebEngDUS/WebEngDUS/pull/31) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 - [README: New chapter about &#34;Location Sponsor / Location and Company Briefing&#34;](https://github.com/WebEngDUS/WebEngDUS/pull/30) on [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) (1 week ago)
 
