@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
 - [WebEngDUS/WebEngDUS](https://github.com/WebEngDUS/WebEngDUS) -  Everything you need to know about how we run the Web Engineering DUS Meetup. (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
+- [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
 
 ### 📝 My recent blog posts
 
