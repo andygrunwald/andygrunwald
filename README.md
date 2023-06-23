@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Translation: Rework Translation class with typing, documentation and a smaller Interface](https://github.com/lansuite/lansuite/pull/654) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Upgrade to astrojs/tailwind 4](https://github.com/andygrunwald/andygrunwald.com/pull/160) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
 
 ### 📝 My recent blog posts
 
