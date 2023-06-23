@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), today) - Installer for a generic Linux system
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.1](https://github.com/prometheus-community/ansible/releases/tag/0.5.1), 1 week ago) - Ansible Collection for Prometheus
-- [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.4.3](https://github.com/home-assistant/supervised-installer/releases/tag/1.4.3), 2 weeks ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 1 month ago) - Echo community contribution
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([v0.13.0](https://github.com/lycheeverse/lychee/releases/tag/v0.13.0), 1 month ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.3.1](https://github.com/msiebeneicher/snab/releases/tag/v0.3.1), 3 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
