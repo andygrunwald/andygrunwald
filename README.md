@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Module &#34;tournament2&#34;: Fix several PHP Warnings and one PHP Fatal error](https://github.com/lansuite/lansuite/pull/657) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Translation: Rework Translation class with typing, documentation and a smaller Interface](https://github.com/lansuite/lansuite/pull/654) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 - [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 - [Fix #344: Switching to English during Installation breaks the Installation page](https://github.com/lansuite/lansuite/pull/650) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Several PHP 8-Warning fixes (no logic changes)](https://github.com/lansuite/lansuite/pull/649) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
