@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New Podcast &#34;Tech me if you can&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/255) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Introduce PHPMailer library and Fix SMTP Mail send](https://github.com/lansuite/lansuite/pull/658) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Module &#34;tournament2&#34;: Fix several PHP Warnings and one PHP Fatal error](https://github.com/lansuite/lansuite/pull/657) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Translation: Rework Translation class with typing, documentation and a smaller Interface](https://github.com/lansuite/lansuite/pull/654) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Fix #297: Make Party Module and Price Editing/Deletion work again](https://github.com/lansuite/lansuite/pull/652) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
