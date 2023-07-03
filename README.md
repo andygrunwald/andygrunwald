@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade LanSuite to PHP v8.1](https://github.com/lansuite/lansuite/pull/662) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [New Podcast &#34;Tech me if you can&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/255) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
 - [Introduce PHPMailer library and Fix SMTP Mail send](https://github.com/lansuite/lansuite/pull/658) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [Module &#34;tournament2&#34;: Fix several PHP Warnings and one PHP Fatal error](https://github.com/lansuite/lansuite/pull/657) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [Translation: Rework Translation class with typing, documentation and a smaller Interface](https://github.com/lansuite/lansuite/pull/654) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Module &#34;Clan Manager&#34;: Make it work without Warnings](https://github.com/lansuite/lansuite/pull/653) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
