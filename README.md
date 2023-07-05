@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #103: Generate PHP API docs for production release](https://github.com/lansuite/lansuite/pull/672) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Upgrade phpunit/phpunit from 9.6.9 to 10.2.3 &#43; do the required migration to have 0 errors](https://github.com/lansuite/lansuite/pull/669) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Scripts to build a reliable production release](https://github.com/lansuite/lansuite/pull/663) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Upgrade LanSuite to PHP v8.1](https://github.com/lansuite/lansuite/pull/662) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [New Podcast &#34;Tech me if you can&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/255) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
+- [Fix #103: Generate PHP API docs for production release](https://github.com/lansuite/lansuite/pull/672) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Upgrade phpunit/phpunit from 9.6.9 to 10.2.3 &#43; do the required migration to have 0 errors](https://github.com/lansuite/lansuite/pull/669) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Scripts to build a reliable production release](https://github.com/lansuite/lansuite/pull/663) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Upgrade LanSuite to PHP v8.1](https://github.com/lansuite/lansuite/pull/662) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [New Podcast &#34;Tech me if you can&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/255) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
 
 ### 📝 My recent blog posts
 
