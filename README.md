@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Documentation Deploy: Enable workflow_dispatch](https://github.com/lansuite/lansuite/pull/684) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Add support for performance measurement via Flame graphs](https://github.com/lansuite/lansuite/pull/683) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix tag &#34;Produktivität&#34;](https://github.com/EngineeringKiosk/webpage/pull/491) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Fix #103: Generate PHP API docs for production release](https://github.com/lansuite/lansuite/pull/672) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Upgrade phpunit/phpunit from 9.6.9 to 10.2.3 &#43; do the required migration to have 0 errors](https://github.com/lansuite/lansuite/pull/669) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Scripts to build a reliable production release](https://github.com/lansuite/lansuite/pull/663) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Upgrade LanSuite to PHP v8.1](https://github.com/lansuite/lansuite/pull/662) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
