@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 weeks ago)
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Documentation Deploy: Enable workflow_dispatch](https://github.com/lansuite/lansuite/pull/684) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [Add support for performance measurement via Flame graphs](https://github.com/lansuite/lansuite/pull/683) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [Fix tag &#34;Produktivität&#34;](https://github.com/EngineeringKiosk/webpage/pull/491) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Documentation Deploy: Enable workflow_dispatch](https://github.com/lansuite/lansuite/pull/684) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Add support for performance measurement via Flame graphs](https://github.com/lansuite/lansuite/pull/683) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Fix tag &#34;Produktivität&#34;](https://github.com/EngineeringKiosk/webpage/pull/491) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Fix #103: Generate PHP API docs for production release](https://github.com/lansuite/lansuite/pull/672) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [Upgrade phpunit/phpunit from 9.6.9 to 10.2.3 &#43; do the required migration to have 0 errors](https://github.com/lansuite/lansuite/pull/669) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
