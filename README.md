@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Github Actions: Fix automatic generation and publishing of our documentation](https://github.com/lansuite/lansuite/pull/700) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [German Tech Podcasts: Tag listing on page](https://github.com/EngineeringKiosk/webpage/pull/522) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast player: Upgrade player to git/sha:5134f68aebf627855b6b15e34aa4804c3434cbca](https://github.com/EngineeringKiosk/webpage/pull/521) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Remove voting modification of RSS podcast content](https://github.com/EngineeringKiosk/webpage/pull/520) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [yarn cache clean &amp;&amp; yarn upgrade](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/67) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (today)
-- [yarn cache clean &amp;&amp; yarn upgrade](https://github.com/podigee/podigee-podcast-player/pull/110) on [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) (today)
-- [Fix Episode 82 after renaming](https://github.com/EngineeringKiosk/webpage/pull/512) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
