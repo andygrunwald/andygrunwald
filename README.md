@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (3 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Github Actions: Fix automatic generation and publishing of our documentation](https://github.com/lansuite/lansuite/pull/700) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [German Tech Podcasts: Tag listing on page](https://github.com/EngineeringKiosk/webpage/pull/522) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [Podcast player: Upgrade player to git/sha:5134f68aebf627855b6b15e34aa4804c3434cbca](https://github.com/EngineeringKiosk/webpage/pull/521) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [Remove voting modification of RSS podcast content](https://github.com/EngineeringKiosk/webpage/pull/520) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [yarn cache clean &amp;&amp; yarn upgrade](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/67) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (3 days ago)
+- [Github Actions: Fix automatic generation and publishing of our documentation](https://github.com/lansuite/lansuite/pull/700) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [German Tech Podcasts: Tag listing on page](https://github.com/EngineeringKiosk/webpage/pull/522) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [Podcast player: Upgrade player to git/sha:5134f68aebf627855b6b15e34aa4804c3434cbca](https://github.com/EngineeringKiosk/webpage/pull/521) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [Remove voting modification of RSS podcast content](https://github.com/EngineeringKiosk/webpage/pull/520) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [yarn cache clean &amp;&amp; yarn upgrade](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/67) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (4 days ago)
 
 ### 📝 My recent blog posts
 
