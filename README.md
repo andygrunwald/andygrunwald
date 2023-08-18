@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (5 days ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Dependabot: Switch interval to monthly](https://github.com/lansuite/lansuite/pull/706) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Github Actions: Fix automatic generation and publishing of our documentation](https://github.com/lansuite/lansuite/pull/700) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [German Tech Podcasts: Tag listing on page](https://github.com/EngineeringKiosk/webpage/pull/522) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Podcast player: Upgrade player to git/sha:5134f68aebf627855b6b15e34aa4804c3434cbca](https://github.com/EngineeringKiosk/webpage/pull/521) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Remove voting modification of RSS podcast content](https://github.com/EngineeringKiosk/webpage/pull/520) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [yarn cache clean &amp;&amp; yarn upgrade](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/67) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (5 days ago)
 
 ### 📝 My recent blog posts
 
