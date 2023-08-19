@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Docker setup to build a production ready Docker container](https://github.com/lansuite/lansuite/pull/707) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Update Go version for testing: Remove 1.19, add 1.21](https://github.com/andygrunwald/go-gerrit/pull/151) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 day ago)
 - [Dependabot: Switch interval to monthly](https://github.com/lansuite/lansuite/pull/706) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Github Actions: Fix automatic generation and publishing of our documentation](https://github.com/lansuite/lansuite/pull/700) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [German Tech Podcasts: Tag listing on page](https://github.com/EngineeringKiosk/webpage/pull/522) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 
 ### 📝 My recent blog posts
 
