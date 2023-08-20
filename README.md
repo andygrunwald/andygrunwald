@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Development: Add basic Pull Request template](https://github.com/lansuite/lansuite/pull/709) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Docker setup to build a production ready Docker container](https://github.com/lansuite/lansuite/pull/707) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Update Go version for testing: Remove 1.19, add 1.21](https://github.com/andygrunwald/go-gerrit/pull/151) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 days ago)
-- [Dependabot: Switch interval to monthly](https://github.com/lansuite/lansuite/pull/706) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
