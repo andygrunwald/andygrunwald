@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), 1 day ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), 1 month ago) - Installer for a generic Linux system
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.5.1](https://github.com/prometheus-community/ansible/releases/tag/0.5.1), 2 months ago) - Ansible Collection for Prometheus
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 3 months ago) - Echo community contribution
