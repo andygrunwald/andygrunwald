@@ -5,28 +5,28 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (6 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 week ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.6.0](https://github.com/prometheus-community/ansible/releases/tag/0.6.0), 1 day ago) - Ansible Collection for Prometheus
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), 2 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 5 days ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.6.0](https://github.com/prometheus-community/ansible/releases/tag/0.6.0), 2 days ago) - Ansible Collection for Prometheus
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), 3 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 6 days ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), 2 months ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 3 months ago) - Echo community contribution
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add new OpenGraph and Favicon image](https://github.com/andygrunwald/andygrunwald.com/pull/180) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
-- [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [Development: Add basic Pull Request template](https://github.com/lansuite/lansuite/pull/709) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Add new OpenGraph and Favicon image](https://github.com/andygrunwald/andygrunwald.com/pull/180) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
+- [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
+- [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
+- [Development: Add basic Pull Request template](https://github.com/lansuite/lansuite/pull/709) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
