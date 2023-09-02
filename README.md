@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 week ago)
@@ -27,7 +27,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Development: Add basic Pull Request template](https://github.com/lansuite/lansuite/pull/709) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
+- [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
