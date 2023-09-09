@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Implement Astro View Transitions](https://github.com/EngineeringKiosk/webpage/pull/542) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Upgrade Astro from v2 to v3](https://github.com/EngineeringKiosk/webpage/pull/541) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add new OpenGraph and Favicon image](https://github.com/andygrunwald/andygrunwald.com/pull/180) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
 - [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Development: Add basic Pull Request template](https://github.com/lansuite/lansuite/pull/709) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Adding a `CHANGELOG.md` to keep track of changes to the Software for our users](https://github.com/lansuite/lansuite/pull/708) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
