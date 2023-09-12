@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix Uncaught TypeError: check_birthday()](https://github.com/lansuite/lansuite/pull/725) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Implement Astro View Transitions](https://github.com/EngineeringKiosk/webpage/pull/542) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Upgrade Astro from v2 to v3](https://github.com/EngineeringKiosk/webpage/pull/541) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Add new OpenGraph and Favicon image](https://github.com/andygrunwald/andygrunwald.com/pull/180) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 weeks ago)
 - [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
-- [index_module: Protect module inclusion for path traversal](https://github.com/lansuite/lansuite/pull/710) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
