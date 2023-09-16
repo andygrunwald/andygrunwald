@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix PHP Warning: Undefined array key &#34;submod&#34; in `modules/info2/show.php` on line XYZ](https://github.com/lansuite/lansuite/pull/734) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[News] Fix PHP Warning: Undefined array key and Undefined variable](https://github.com/lansuite/lansuite/pull/733) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix PHP Warning: Undefined array key &#34;ms_page&#34; in `modules/mastersearch2/Classes/MasterSearch2.php` on line XYZ](https://github.com/lansuite/lansuite/pull/732) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Module inclusion: Fix PHP Warning if no auth is set in Database](https://github.com/lansuite/lansuite/pull/731) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[News] Fix PHP Warning if GET-Parameter `mcact` is not set](https://github.com/lansuite/lansuite/pull/730) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Party] Add information `Gesamt` in the Party box to show how many people can sign up for a party](https://github.com/lansuite/lansuite/pull/729) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Bugfix: Custom designs are getting overwritten by non existing design](https://github.com/lansuite/lansuite/pull/728) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Authentication/Logout: Reset `login` state to 0 after logout](https://github.com/lansuite/lansuite/pull/727) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
