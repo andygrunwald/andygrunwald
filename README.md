@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Cashmgr] Fix Warnings and Type errors](https://github.com/lansuite/lansuite/pull/745) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Server] Various PHP Warning fixes](https://github.com/lansuite/lansuite/pull/744) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/743) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Usermgr] Fix PHP Warnings when you want to signup for a party](https://github.com/lansuite/lansuite/pull/742) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Usrmgr] Fix PHP Warning: Undefined variable $signstat_info in modules/usrmgr/boxes/userdata.php on line XYZ](https://github.com/lansuite/lansuite/pull/741) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Mastersearch2] Fix PHP Warning: Undefined array key &#34;icons&#34; in result_case.htm](https://github.com/lansuite/lansuite/pull/740) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Boxes] Fix: Mark an menu item as blue if Admin access is required](https://github.com/lansuite/lansuite/pull/739) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
