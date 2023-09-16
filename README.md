@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix Uncaught TypeError: check_birthday()](https://github.com/lansuite/lansuite/pull/725) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [Implement Astro View Transitions](https://github.com/EngineeringKiosk/webpage/pull/542) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Upgrade Astro from v2 to v3](https://github.com/EngineeringKiosk/webpage/pull/541) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add new OpenGraph and Favicon image](https://github.com/andygrunwald/andygrunwald.com/pull/180) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 weeks ago)
-- [Remove `nofollow.php` from index root](https://github.com/lansuite/lansuite/pull/711) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
+- [Module inclusion: Fix PHP Warning if no auth is set in Database](https://github.com/lansuite/lansuite/pull/731) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[News] Fix PHP Warning if GET-Parameter `mcact` is not set](https://github.com/lansuite/lansuite/pull/730) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Party] Add information `Gesamt` in the Party box to show how many people can sign up for a party](https://github.com/lansuite/lansuite/pull/729) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Bugfix: Custom designs are getting overwritten by non existing design](https://github.com/lansuite/lansuite/pull/728) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Authentication/Logout: Reset `login` state to 0 after logout](https://github.com/lansuite/lansuite/pull/727) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
