@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Mastersearch2] Fix PHP Warning: Undefined array key &#34;icons&#34; in result_case.htm](https://github.com/lansuite/lansuite/pull/740) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Boxes] Fix: Mark an menu item as blue if Admin access is required](https://github.com/lansuite/lansuite/pull/739) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Boxes] Fix PHP Warning when a box gets collapsed](https://github.com/lansuite/lansuite/pull/738) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Boxes/Login] Implement Sign up and Password Recovery link as text links for better usability](https://github.com/lansuite/lansuite/pull/737) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[PicGallery] Several PHP Warning fixes](https://github.com/lansuite/lansuite/pull/736) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Seating] Fix PHP Warning, when DB result is null](https://github.com/lansuite/lansuite/pull/735) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
