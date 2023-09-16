@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Cashmgr] Fix Warnings and Type errors](https://github.com/lansuite/lansuite/pull/745) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Server] Various PHP Warning fixes](https://github.com/lansuite/lansuite/pull/744) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/743) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Usermgr] Fix PHP Warnings when you want to signup for a party](https://github.com/lansuite/lansuite/pull/742) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
