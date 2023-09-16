@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Boxes] Fix: Mark an menu item as blue if Admin access is required](https://github.com/lansuite/lansuite/pull/739) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Boxes] Fix PHP Warning when a box gets collapsed](https://github.com/lansuite/lansuite/pull/738) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Boxes/Login] Implement Sign up and Password Recovery link as text links for better usability](https://github.com/lansuite/lansuite/pull/737) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[PicGallery] Several PHP Warning fixes](https://github.com/lansuite/lansuite/pull/736) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Seating] Fix PHP Warning, when DB result is null](https://github.com/lansuite/lansuite/pull/735) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix PHP Warning: Undefined array key &#34;submod&#34; in `modules/info2/show.php` on line XYZ](https://github.com/lansuite/lansuite/pull/734) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[News] Fix PHP Warning: Undefined array key and Undefined variable](https://github.com/lansuite/lansuite/pull/733) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
