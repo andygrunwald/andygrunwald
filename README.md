@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Fix #544: Include AntennaPod in &#34;Jetzt Folgen&#34; section](https://github.com/EngineeringKiosk/webpage/pull/545) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[Cashmgr] Fix Warnings and Type errors](https://github.com/lansuite/lansuite/pull/745) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Server] Various PHP Warning fixes](https://github.com/lansuite/lansuite/pull/744) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
