@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), 1 day ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.6.0](https://github.com/prometheus-community/ansible/releases/tag/0.6.0), 3 weeks ago) - Ansible Collection for Prometheus
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 4 weeks ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
+- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 1 month ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), 2 months ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 4 months ago) - Echo community contribution
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
-- [Fix #544: Include AntennaPod in &#34;Jetzt Folgen&#34; section](https://github.com/EngineeringKiosk/webpage/pull/545) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Cashmgr] Fix Warnings and Type errors](https://github.com/lansuite/lansuite/pull/745) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
+- [Fix #544: Include AntennaPod in &#34;Jetzt Folgen&#34; section](https://github.com/EngineeringKiosk/webpage/pull/545) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [[Cashmgr] Fix Warnings and Type errors](https://github.com/lansuite/lansuite/pull/745) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 
 ### 📝 My recent blog posts
 
