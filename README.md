@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 month ago)
 
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Update all JavaScript components. Including Astro](https://github.com/sourcectl/webpage/pull/39) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
-- [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
+- [Update all JavaScript components. Including Astro](https://github.com/sourcectl/webpage/pull/39) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (1 day ago)
+- [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 weeks ago)
 - [Fix #544: Include AntennaPod in &#34;Jetzt Folgen&#34; section](https://github.com/EngineeringKiosk/webpage/pull/545) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [[Bugtracker] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/746) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
