@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Module: New module `birthday`](https://github.com/lansuite/lansuite/pull/758) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [New tag: `Interview`](https://github.com/EngineeringKiosk/webpage/pull/555) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Update all JavaScript components. Including Astro](https://github.com/sourcectl/webpage/pull/39) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (6 days ago)
 - [Index out of bounds: Website update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/265) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 weeks ago)
 - [Fix #544: Include AntennaPod in &#34;Jetzt Folgen&#34; section](https://github.com/EngineeringKiosk/webpage/pull/545) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [[Cron2] Fix several PHP Warnings](https://github.com/lansuite/lansuite/pull/747) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
