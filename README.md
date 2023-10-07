@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), today) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.7.0](https://github.com/prometheus-community/ansible/releases/tag/0.7.0), 3 days ago) - Ansible Collection for Prometheus
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) ([nightly](https://github.com/lycheeverse/lychee/releases/tag/nightly), 4 days ago) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 1 month ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), 3 months ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 4 months ago) - Echo community contribution
