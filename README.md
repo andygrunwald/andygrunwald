@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Fix several warnings on the first page hit when no session exists](https://github.com/lansuite/lansuite/pull/764) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Cleanup folder structure in `ext_inc/`](https://github.com/lansuite/lansuite/pull/763) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [[Hall of Fame] New module &#34;Hall of Fame&#34;](https://github.com/lansuite/lansuite/pull/762) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Downloads: Make downloads module working without issues](https://github.com/lansuite/lansuite/pull/761) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [Fix several warnings on the first page hit when no session exists](https://github.com/lansuite/lansuite/pull/764) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [Cleanup folder structure in `ext_inc/`](https://github.com/lansuite/lansuite/pull/763) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [[Hall of Fame] New module &#34;Hall of Fame&#34;](https://github.com/lansuite/lansuite/pull/762) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Downloads: Make downloads module working without issues](https://github.com/lansuite/lansuite/pull/761) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
