@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[User manager] Fix Fatal errors and Warnings when editing user profiles](https://github.com/lansuite/lansuite/pull/766) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [Fix several warnings on the first page hit when no session exists](https://github.com/lansuite/lansuite/pull/764) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [Cleanup folder structure in `ext_inc/`](https://github.com/lansuite/lansuite/pull/763) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [[Hall of Fame] New module &#34;Hall of Fame&#34;](https://github.com/lansuite/lansuite/pull/762) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [Downloads: Make downloads module working without issues](https://github.com/lansuite/lansuite/pull/761) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
