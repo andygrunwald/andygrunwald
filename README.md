@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 weeks ago)
 
@@ -26,7 +26,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [[User manager] Fix Fatal errors and Warnings when editing user profiles](https://github.com/lansuite/lansuite/pull/766) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Fix several warnings on the first page hit when no session exists](https://github.com/lansuite/lansuite/pull/764) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Cleanup folder structure in `ext_inc/`](https://github.com/lansuite/lansuite/pull/763) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
+- [Cleanup folder structure in `ext_inc/`](https://github.com/lansuite/lansuite/pull/763) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [[Hall of Fame] New module &#34;Hall of Fame&#34;](https://github.com/lansuite/lansuite/pull/762) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
