@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Documentation: How to transcribe a podcast episode](https://github.com/EngineeringKiosk/webpage/pull/587) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Episode view: Improve view on the headlines](https://github.com/EngineeringKiosk/webpage/pull/586) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Transcriptions: Make them clickable](https://github.com/EngineeringKiosk/webpage/pull/580) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Implement Podcast Transcription](https://github.com/EngineeringKiosk/webpage/pull/579) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Metadata: Add Speaker information to Podcast Metadata](https://github.com/EngineeringKiosk/webpage/pull/577) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [[User manager] Fix Fatal errors and Warnings when editing user profiles](https://github.com/lansuite/lansuite/pull/766) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
