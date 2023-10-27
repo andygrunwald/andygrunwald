@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
 
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Podcast Metadata: Add Speaker information to Podcast Metadata](https://github.com/EngineeringKiosk/webpage/pull/577) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Metadata: Add Speaker information to Podcast Metadata](https://github.com/EngineeringKiosk/webpage/pull/577) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [[User manager] Fix Fatal errors and Warnings when editing user profiles](https://github.com/lansuite/lansuite/pull/766) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[Seating] Fix PHP Warnings in Seating module](https://github.com/lansuite/lansuite/pull/765) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [Fix several warnings on the first page hit when no session exists](https://github.com/lansuite/lansuite/pull/764) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
