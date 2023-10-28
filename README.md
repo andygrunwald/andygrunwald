@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Podcas player: Disable loading of full RSS feed](https://github.com/EngineeringKiosk/webpage/pull/594) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Documentation: How to transcribe a podcast episode](https://github.com/EngineeringKiosk/webpage/pull/587) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Podcast Episode view: Improve view on the headlines](https://github.com/EngineeringKiosk/webpage/pull/586) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Transcriptions: Make them clickable](https://github.com/EngineeringKiosk/webpage/pull/580) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Implement Podcast Transcription](https://github.com/EngineeringKiosk/webpage/pull/579) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Podcast Metadata: Add Speaker information to Podcast Metadata](https://github.com/EngineeringKiosk/webpage/pull/577) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
