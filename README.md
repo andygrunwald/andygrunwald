@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Images: Use Astro image generation for the main pictures of the website (to generate it to webp)](https://github.com/EngineeringKiosk/webpage/pull/602) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Fix #584: Make chapters in the shownotes clickable and playable](https://github.com/EngineeringKiosk/webpage/pull/601) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcas player: Disable loading of full RSS feed](https://github.com/EngineeringKiosk/webpage/pull/594) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Documentation: How to transcribe a podcast episode](https://github.com/EngineeringKiosk/webpage/pull/587) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Podcast Episode view: Improve view on the headlines](https://github.com/EngineeringKiosk/webpage/pull/586) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Transcriptions: Make them clickable](https://github.com/EngineeringKiosk/webpage/pull/580) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Implement Podcast Transcription](https://github.com/EngineeringKiosk/webpage/pull/579) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
