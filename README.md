@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Images: Use Astro image generation for the main pictures of the website (to generate it to webp)](https://github.com/EngineeringKiosk/webpage/pull/602) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Fix #584: Make chapters in the shownotes clickable and playable](https://github.com/EngineeringKiosk/webpage/pull/601) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Podcas player: Disable loading of full RSS feed](https://github.com/EngineeringKiosk/webpage/pull/594) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Documentation: How to transcribe a podcast episode](https://github.com/EngineeringKiosk/webpage/pull/587) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Podcast Episode view: Improve view on the headlines](https://github.com/EngineeringKiosk/webpage/pull/586) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Images: Use Astro image generation for the main pictures of the website (to generate it to webp)](https://github.com/EngineeringKiosk/webpage/pull/602) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Fix #584: Make chapters in the shownotes clickable and playable](https://github.com/EngineeringKiosk/webpage/pull/601) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Podcas player: Disable loading of full RSS feed](https://github.com/EngineeringKiosk/webpage/pull/594) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Documentation: How to transcribe a podcast episode](https://github.com/EngineeringKiosk/webpage/pull/587) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Podcast Episode view: Improve view on the headlines](https://github.com/EngineeringKiosk/webpage/pull/586) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 
 ### 📝 My recent blog posts
 
