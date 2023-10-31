@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Adding transcripts for Episode 50-69](https://github.com/EngineeringKiosk/webpage/pull/610) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Adding transcripts for Episode 70-91](https://github.com/EngineeringKiosk/webpage/pull/608) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Podcast Statistics: Rework our summary/statistics to include speaking times based on transcript](https://github.com/EngineeringKiosk/webpage/pull/606) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Images: Use Astro image generation for the main pictures of the website (to generate it to webp)](https://github.com/EngineeringKiosk/webpage/pull/602) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Fix #584: Make chapters in the shownotes clickable and playable](https://github.com/EngineeringKiosk/webpage/pull/601) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Ep-1: Adding transcript](https://github.com/EngineeringKiosk/webpage/pull/616) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Adding transcripts for Episode 00-09](https://github.com/EngineeringKiosk/webpage/pull/615) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Adding transcripts for Episode 10-19](https://github.com/EngineeringKiosk/webpage/pull/614) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Adding transcripts for Episode 20-29](https://github.com/EngineeringKiosk/webpage/pull/613) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Adding transcripts for Episode 30-39](https://github.com/EngineeringKiosk/webpage/pull/612) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
