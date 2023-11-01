@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Socials: Add TikTok logo and link](https://github.com/EngineeringKiosk/webpage/pull/618) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Ep-1: Adding transcript](https://github.com/EngineeringKiosk/webpage/pull/616) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Adding transcripts for Episode 00-09](https://github.com/EngineeringKiosk/webpage/pull/615) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Adding transcripts for Episode 10-19](https://github.com/EngineeringKiosk/webpage/pull/614) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Adding transcripts for Episode 20-29](https://github.com/EngineeringKiosk/webpage/pull/613) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Adding transcripts for Episode 30-39](https://github.com/EngineeringKiosk/webpage/pull/612) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
