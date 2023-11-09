@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New script to transcribe an audio file](https://github.com/EngineeringKiosk/webpage/pull/631) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Revert prettier and ignore files](https://github.com/EngineeringKiosk/webpage/pull/623) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Upgrade Podcast Player](https://github.com/EngineeringKiosk/webpage/pull/620) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Socials: Add TikTok logo and link](https://github.com/EngineeringKiosk/webpage/pull/618) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Ep-1: Adding transcript](https://github.com/EngineeringKiosk/webpage/pull/616) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Adding transcripts for Episode 00-09](https://github.com/EngineeringKiosk/webpage/pull/615) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
