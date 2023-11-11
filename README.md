@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of constants like \LS_AUTH_TYPE_USER (leftovers)](https://github.com/lansuite/lansuite/pull/792) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of \LS_AUTH_TYPE_USER](https://github.com/lansuite/lansuite/pull/791) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 2 with the usage of \LS_AUTH_TYPE_ADMIN](https://github.com/lansuite/lansuite/pull/790) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 3 with the usage of \LS_AUTH_TYPE_SUPERADMIN](https://github.com/lansuite/lansuite/pull/789) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Install] Fix PHP Warnings in Module install overview](https://github.com/lansuite/lansuite/pull/788) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
