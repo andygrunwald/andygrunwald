@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Documentation] Rework Upgrade Guide and add Section &#34;Upgrade from LanSuite v4.2 to v5.0&#34;](https://github.com/lansuite/lansuite/pull/794) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of constants like \LS_AUTH_TYPE_USER (leftovers)](https://github.com/lansuite/lansuite/pull/792) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
