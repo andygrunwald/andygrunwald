@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of constants like \LS_AUTH_TYPE_USER (leftovers)](https://github.com/lansuite/lansuite/pull/792) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of \LS_AUTH_TYPE_USER](https://github.com/lansuite/lansuite/pull/791) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 2 with the usage of \LS_AUTH_TYPE_ADMIN](https://github.com/lansuite/lansuite/pull/790) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 3 with the usage of \LS_AUTH_TYPE_SUPERADMIN](https://github.com/lansuite/lansuite/pull/789) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of constants like \LS_AUTH_TYPE_USER (leftovers)](https://github.com/lansuite/lansuite/pull/792) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 1 with the usage of \LS_AUTH_TYPE_USER](https://github.com/lansuite/lansuite/pull/791) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 2 with the usage of \LS_AUTH_TYPE_ADMIN](https://github.com/lansuite/lansuite/pull/790) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Authentication] Replace magic number comparision of $auth[&#39;type&#39;] &gt;= 3 with the usage of \LS_AUTH_TYPE_SUPERADMIN](https://github.com/lansuite/lansuite/pull/789) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
