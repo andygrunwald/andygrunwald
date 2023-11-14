@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Documentation] Rework Upgrade Guide and add Section &#34;Upgrade from LanSuite v4.2 to v5.0&#34;](https://github.com/lansuite/lansuite/pull/794) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[Documentation] Rework Upgrade Guide and add Section &#34;Upgrade from LanSuite v4.2 to v5.0&#34;](https://github.com/lansuite/lansuite/pull/794) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fix condition bug by using | vs. ||](https://github.com/lansuite/lansuite/pull/793) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
