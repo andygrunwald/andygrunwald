@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[board] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/799) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix SQL error in Cashmgr and Mastersearch2 when two dropdown search fields are involved](https://github.com/lansuite/lansuite/pull/798) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix several PHP Warnings in modules like usrmgr, downloads, picgallery, rent, pdf, auth](https://github.com/lansuite/lansuite/pull/797) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
