@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix SQL error in Cashmgr and Mastersearch2 when two dropdown search fields are involved](https://github.com/lansuite/lansuite/pull/798) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix several PHP Warnings in modules like usrmgr, downloads, picgallery, rent, pdf, auth](https://github.com/lansuite/lansuite/pull/797) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fix SQL error in Cashmgr and Mastersearch2 when two dropdown search fields are involved](https://github.com/lansuite/lansuite/pull/798) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Fix several PHP Warnings in modules like usrmgr, downloads, picgallery, rent, pdf, auth](https://github.com/lansuite/lansuite/pull/797) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Fix PHP Warning when login remember is active via Cookie](https://github.com/lansuite/lansuite/pull/796) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Define minimum PHP and MySQL Versions as PHP Constants](https://github.com/lansuite/lansuite/pull/795) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
