@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix another round of PHP warnings in usrmgr and picgallery](https://github.com/lansuite/lansuite/pull/800) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[board] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/799) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Fix SQL error in Cashmgr and Mastersearch2 when two dropdown search fields are involved](https://github.com/lansuite/lansuite/pull/798) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Fix several PHP Warnings in modules like usrmgr, downloads, picgallery, rent, pdf, auth](https://github.com/lansuite/lansuite/pull/797) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [Fix another round of PHP warnings in usrmgr and picgallery](https://github.com/lansuite/lansuite/pull/800) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[board] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/799) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fix SQL error in Cashmgr and Mastersearch2 when two dropdown search fields are involved](https://github.com/lansuite/lansuite/pull/798) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Fix several PHP Warnings in modules like usrmgr, downloads, picgallery, rent, pdf, auth](https://github.com/lansuite/lansuite/pull/797) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Migrate Podcast Episodes to a Content Collection](https://github.com/EngineeringKiosk/webpage/pull/636) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 
 ### 📝 My recent blog posts
 
