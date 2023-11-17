@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Moving the images of German Tech Podcasts to Astro Image processing to use WebP](https://github.com/EngineeringKiosk/webpage/pull/650) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Upgrade from Python 3.10 to Python 3.12 and remove TODO about stdlib tomllib](https://github.com/EngineeringKiosk/webpage/pull/645) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Scripts: Remove TODOs we don&#39;t need anymore](https://github.com/EngineeringKiosk/webpage/pull/644) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Blog: Use filter mechanism of Content Collections](https://github.com/EngineeringKiosk/webpage/pull/643) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Remove unused images](https://github.com/EngineeringKiosk/webpage/pull/639) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Moving the images of Podcast-Cover, Testimonials, Podcast-Hosts, People, Blog and Advertisement to Astro Image processing to use WebP](https://github.com/EngineeringKiosk/webpage/pull/638) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
