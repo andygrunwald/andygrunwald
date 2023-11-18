@@ -6,8 +6,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
