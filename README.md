@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Modules] Fix PHP Warnings around the step parameter on modules entry](https://github.com/lansuite/lansuite/pull/805) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Troubleticket] Fix PHP Warnings in module troubleticket](https://github.com/lansuite/lansuite/pull/804) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Masterform] Fix PHP Warning in longtext fields](https://github.com/lansuite/lansuite/pull/803) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Install] Fix PHP Warnings in Menu selection](https://github.com/lansuite/lansuite/pull/802) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Various Module fixes to fix Fatal Errors and PHP Warnings](https://github.com/lansuite/lansuite/pull/801) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Moving the images of German Tech Podcasts to Astro Image processing to use WebP](https://github.com/EngineeringKiosk/webpage/pull/650) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Upgrade from Python 3.10 to Python 3.12 and remove TODO about stdlib tomllib](https://github.com/EngineeringKiosk/webpage/pull/645) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Scripts: Remove TODOs we don&#39;t need anymore](https://github.com/EngineeringKiosk/webpage/pull/644) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Blog: Use filter mechanism of Content Collections](https://github.com/EngineeringKiosk/webpage/pull/643) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
