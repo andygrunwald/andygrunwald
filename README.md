@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Move Social Links into a data.json file and re-use them](https://github.com/EngineeringKiosk/webpage/pull/656) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix OpenGraph images for Podcast Episodes](https://github.com/EngineeringKiosk/webpage/pull/653) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [[Modules] Fix PHP Warnings around the step parameter on modules entry](https://github.com/lansuite/lansuite/pull/805) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[Troubleticket] Fix PHP Warnings in module troubleticket](https://github.com/lansuite/lansuite/pull/804) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[Masterform] Fix PHP Warning in longtext fields](https://github.com/lansuite/lansuite/pull/803) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Install] Fix PHP Warnings in Menu selection](https://github.com/lansuite/lansuite/pull/802) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
