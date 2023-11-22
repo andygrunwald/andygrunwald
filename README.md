@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Mobile Index View: Make cover of latest episodes bigger on mobile](https://github.com/EngineeringKiosk/webpage/pull/660) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Linktree: Show the latest &#43; hand-picked episodes](https://github.com/EngineeringKiosk/webpage/pull/659) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Link platform icons in top menu bar to episodes](https://github.com/EngineeringKiosk/webpage/pull/658) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Use webp image processing for Engineering Kiosk logo](https://github.com/EngineeringKiosk/webpage/pull/657) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Move Social Links into a data.json file and re-use them](https://github.com/EngineeringKiosk/webpage/pull/656) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Fix OpenGraph images for Podcast Episodes](https://github.com/EngineeringKiosk/webpage/pull/653) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [[Modules] Fix PHP Warnings around the step parameter on modules entry](https://github.com/lansuite/lansuite/pull/805) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
