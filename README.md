@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Quote fix for podcast &#34;Einfach Komplex&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/275) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: Einfach komplex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/274) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Mobile Index View: Make cover of latest episodes bigger on mobile](https://github.com/EngineeringKiosk/webpage/pull/660) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Linktree: Show the latest &#43; hand-picked episodes](https://github.com/EngineeringKiosk/webpage/pull/659) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Link platform icons in top menu bar to episodes](https://github.com/EngineeringKiosk/webpage/pull/658) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
