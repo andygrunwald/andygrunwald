@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 days ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (3 days ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.8.1](https://github.com/prometheus-community/ansible/releases/tag/0.8.1), 5 days ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.8.1](https://github.com/prometheus-community/ansible/releases/tag/0.8.1), 6 days ago) - Ansible Collection for Prometheus
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 3 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [home-assistant/supervised-installer](https://github.com/home-assistant/supervised-installer) ([1.5.0](https://github.com/home-assistant/supervised-installer/releases/tag/1.5.0), 5 months ago) - Installer for a generic Linux system
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 6 months ago) - Echo community contribution
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Quote fix for podcast &#34;Einfach Komplex&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/275) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [New Podcast: Einfach komplex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/274) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Mobile Index View: Make cover of latest episodes bigger on mobile](https://github.com/EngineeringKiosk/webpage/pull/660) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Linktree: Show the latest &#43; hand-picked episodes](https://github.com/EngineeringKiosk/webpage/pull/659) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Quote fix for podcast &#34;Einfach Komplex&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/275) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [New Podcast: Einfach komplex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/274) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Mobile Index View: Make cover of latest episodes bigger on mobile](https://github.com/EngineeringKiosk/webpage/pull/660) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Linktree: Show the latest &#43; hand-picked episodes](https://github.com/EngineeringKiosk/webpage/pull/659) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
