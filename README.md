@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (4 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 weeks ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 weeks ago)
 
@@ -27,7 +27,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [New Podcast: Coding Buddies](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/276) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [Quote fix for podcast &#34;Einfach Komplex&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/275) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [New Podcast: Einfach komplex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/274) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [Index: Make the text of the podcast start on the top, not in the center](https://github.com/EngineeringKiosk/webpage/pull/661) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
