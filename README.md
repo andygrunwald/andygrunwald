@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Update documentation packages](https://github.com/lansuite/lansuite/pull/824) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Documentation: Make version constraint a bit more flexible to allow updates](https://github.com/lansuite/lansuite/pull/823) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Add automatic YouTube Link import](https://github.com/EngineeringKiosk/webpage/pull/669) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [German Tech Podcasts: Switch to Data Collection](https://github.com/EngineeringKiosk/webpage/pull/662) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [New Podcast: Coding Buddies](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/276) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
