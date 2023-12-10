@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Update documentation packages](https://github.com/lansuite/lansuite/pull/824) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Documentation: Make version constraint a bit more flexible to allow updates](https://github.com/lansuite/lansuite/pull/823) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Add automatic YouTube Link import](https://github.com/EngineeringKiosk/webpage/pull/669) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Update documentation packages](https://github.com/lansuite/lansuite/pull/824) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Documentation: Make version constraint a bit more flexible to allow updates](https://github.com/lansuite/lansuite/pull/823) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Add automatic YouTube Link import](https://github.com/EngineeringKiosk/webpage/pull/669) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 
 ### 📝 My recent blog posts
 
