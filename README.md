@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.0](https://github.com/prometheus-community/ansible/releases/tag/0.10.0), today) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.0](https://github.com/prometheus-community/ansible/releases/tag/0.10.0), 1 day ago) - Ansible Collection for Prometheus
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 3 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 6 months ago) - Echo community contribution
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 9 months ago) - Ansible role for creating Systemd services for docker containers
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
-- [Digitale Anomalien: Tags and downloads added](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/280) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
-- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Update documentation packages](https://github.com/lansuite/lansuite/pull/824) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
+- [Digitale Anomalien: Tags and downloads added](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/280) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
+- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Update documentation packages](https://github.com/lansuite/lansuite/pull/824) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
