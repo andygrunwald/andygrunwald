@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (today)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (5 days ago)
 - [Digitale Anomalien: Tags and downloads added](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/280) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 - [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [[Seating/Board] Some more PHP Waring fixes](https://github.com/lansuite/lansuite/pull/825) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
