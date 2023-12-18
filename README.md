@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 - [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
-- [Digitale Anomalien: Tags and downloads added](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/280) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [New Podcast: Digitale Anomalien](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/279) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
