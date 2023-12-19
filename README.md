@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (1 day ago)
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (2 days ago)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.0](https://github.com/prometheus-community/ansible/releases/tag/0.10.0), 6 days ago) - Ansible Collection for Prometheus
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 3 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.0](https://github.com/prometheus-community/ansible/releases/tag/0.10.0), 1 week ago) - Ansible Collection for Prometheus
+- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 4 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 7 months ago) - Echo community contribution
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 9 months ago) - Ansible role for creating Systemd services for docker containers
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 1 year ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
+- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
 ### 📝 My recent blog posts
 
