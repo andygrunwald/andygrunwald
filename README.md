@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (3 days ago)
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
+- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (4 days ago)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (4 days ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
