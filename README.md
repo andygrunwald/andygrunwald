@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[PDF] Make Certificates work with custom fonts again and use core fonts from fpdf instead of `ext_inc/`](https://github.com/lansuite/lansuite/pull/833) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[PDF] Fix entry ticket generation, if a barcode is part of the ticket](https://github.com/lansuite/lansuite/pull/832) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Auth] Fix warnings if cookie id is not set](https://github.com/lansuite/lansuite/pull/831) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Usermgr] Fix undefined `fieldid` field](https://github.com/lansuite/lansuite/pull/830) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Mail] Fix PHP Warnings in Mail module](https://github.com/lansuite/lansuite/pull/829) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 
 ### 📝 My recent blog posts
 
