@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Auth] Fix warnings if cookie id is not set](https://github.com/lansuite/lansuite/pull/831) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Usermgr] Fix undefined `fieldid` field](https://github.com/lansuite/lansuite/pull/830) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Mail] Fix PHP Warnings in Mail module](https://github.com/lansuite/lansuite/pull/829) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Ep103 - Plattform Engineering: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/683) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Ep102 - Quereinstieg: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/682) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Footer: Add GitHub link to Footer socials](https://github.com/EngineeringKiosk/webpage/pull/681) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Auth: Fix &#34;wrong credentials&#34; warning, if cookie login is tried](https://github.com/lansuite/lansuite/pull/827) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Make Astro work with Astro 4.x](https://github.com/andygrunwald/andygrunwald.com/pull/204) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 
 ### 📝 My recent blog posts
 
