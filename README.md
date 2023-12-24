@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[PDF] Fix &#34;Warning: Undefined array key &#34;party&#34;&#34;](https://github.com/lansuite/lansuite/pull/836) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Display] Fix &#34;Deprecated: Optional parameter $id declared before required parameter $ext_txt is implicitly treated as a required parameter in ...&#34;](https://github.com/lansuite/lansuite/pull/835) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[PDF] Make Certificates work with custom fonts again and use core fonts from fpdf instead of `ext_inc/`](https://github.com/lansuite/lansuite/pull/833) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[PDF] Fix entry ticket generation, if a barcode is part of the ticket](https://github.com/lansuite/lansuite/pull/832) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[Auth] Fix warnings if cookie id is not set](https://github.com/lansuite/lansuite/pull/831) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Usermgr] Fix undefined `fieldid` field](https://github.com/lansuite/lansuite/pull/830) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Mail] Fix PHP Warnings in Mail module](https://github.com/lansuite/lansuite/pull/829) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
