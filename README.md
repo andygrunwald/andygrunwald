@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
-- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (6 days ago)
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
+- [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (1 week ago)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[PDF] Make Certificates work with custom fonts again and use core fonts from fpdf instead of `ext_inc/`](https://github.com/lansuite/lansuite/pull/833) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[PDF] Fix entry ticket generation, if a barcode is part of the ticket](https://github.com/lansuite/lansuite/pull/832) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Auth] Fix warnings if cookie id is not set](https://github.com/lansuite/lansuite/pull/831) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Usermgr] Fix undefined `fieldid` field](https://github.com/lansuite/lansuite/pull/830) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Mail] Fix PHP Warnings in Mail module](https://github.com/lansuite/lansuite/pull/829) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[PDF] Make Certificates work with custom fonts again and use core fonts from fpdf instead of `ext_inc/`](https://github.com/lansuite/lansuite/pull/833) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[PDF] Fix entry ticket generation, if a barcode is part of the ticket](https://github.com/lansuite/lansuite/pull/832) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Auth] Fix warnings if cookie id is not set](https://github.com/lansuite/lansuite/pull/831) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Usermgr] Fix undefined `fieldid` field](https://github.com/lansuite/lansuite/pull/830) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Mail] Fix PHP Warnings in Mail module](https://github.com/lansuite/lansuite/pull/829) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
