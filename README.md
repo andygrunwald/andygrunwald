@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (1 week ago)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Docker: Update nginx from v1.23.4 to v1.25.3](https://github.com/lansuite/lansuite/pull/839) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Docker: Upgrade PHP from v8.1.20 to v8.1.26](https://github.com/lansuite/lansuite/pull/838) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Dockerfile: Upgrade composer from v2.6.5 to v2.6.6](https://github.com/lansuite/lansuite/pull/837) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[PDF] Fix &#34;Warning: Undefined array key &#34;party&#34;&#34;](https://github.com/lansuite/lansuite/pull/836) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Display] Fix &#34;Deprecated: Optional parameter $id declared before required parameter $ext_txt is implicitly treated as a required parameter in ...&#34;](https://github.com/lansuite/lansuite/pull/835) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Docker: Update nginx from v1.23.4 to v1.25.3](https://github.com/lansuite/lansuite/pull/839) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Docker: Upgrade PHP from v8.1.20 to v8.1.26](https://github.com/lansuite/lansuite/pull/838) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [Dockerfile: Upgrade composer from v2.6.5 to v2.6.6](https://github.com/lansuite/lansuite/pull/837) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[PDF] Fix &#34;Warning: Undefined array key &#34;party&#34;&#34;](https://github.com/lansuite/lansuite/pull/836) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Display] Fix &#34;Deprecated: Optional parameter $id declared before required parameter $ext_txt is implicitly treated as a required parameter in ...&#34;](https://github.com/lansuite/lansuite/pull/835) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
