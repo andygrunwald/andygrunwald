@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (2 weeks ago)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (2 weeks ago)
