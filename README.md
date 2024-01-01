@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/things-with-buzzers-hardware](https://github.com/andygrunwald/things-with-buzzers-hardware) - Everything you need to build hardware game show buzzers (and to do awesome things with it!) 🚀 (2 weeks ago)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (2 weeks ago)
@@ -23,16 +23,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Transfer Public-Speaking data](https://github.com/andygrunwald/andygrunwald.com/pull/211) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
-- [Switch Blog posts to Content Collection](https://github.com/andygrunwald/andygrunwald.com/pull/210) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (5 days ago)
+- [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Transfer Public-Speaking data](https://github.com/andygrunwald/andygrunwald.com/pull/211) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
+- [Switch Blog posts to Content Collection](https://github.com/andygrunwald/andygrunwald.com/pull/210) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
 - [Docker: Update nginx from v1.23.4 to v1.25.3](https://github.com/lansuite/lansuite/pull/839) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Docker: Upgrade PHP from v8.1.20 to v8.1.26](https://github.com/lansuite/lansuite/pull/838) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
 
-- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (3 days ago)
+- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (4 days ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (2 years ago)
 - [your database connection deserves a name](https://andygrunwald.com/blog/your-database-connection-deserves-a-name/) (2 years ago)
 - [Web Engineering DUS Meetup: Recap of 2019](https://andygrunwald.com/blog/web-engineering-dus-recap-of-2019/) (4 years ago)
