@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (3 weeks ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.1](https://github.com/prometheus-community/ansible/releases/tag/0.10.1), 2 days ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.10.1](https://github.com/prometheus-community/ansible/releases/tag/0.10.1), 3 days ago) - Ansible Collection for Prometheus
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 4 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 7 months ago) - Echo community contribution
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 10 months ago) - Ansible role for creating Systemd services for docker containers
@@ -32,7 +32,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (6 days ago)
+- [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (1 week ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (1 week ago)
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (1 week ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (2 years ago)
