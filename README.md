@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New article: &#34;My alltime-high articles&#34;](https://github.com/andygrunwald/andygrunwald.com/pull/217) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Transfer Public-Speaking data](https://github.com/andygrunwald/andygrunwald.com/pull/211) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
 - [Switch Blog posts to Content Collection](https://github.com/andygrunwald/andygrunwald.com/pull/210) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
-- [Docker: Update nginx from v1.23.4 to v1.25.3](https://github.com/lansuite/lansuite/pull/839) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
