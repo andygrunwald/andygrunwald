@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [New article: &#34;My alltime-high articles&#34;](https://github.com/andygrunwald/andygrunwald.com/pull/217) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Transfer Public-Speaking data](https://github.com/andygrunwald/andygrunwald.com/pull/211) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
-- [Switch Blog posts to Content Collection](https://github.com/andygrunwald/andygrunwald.com/pull/210) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
