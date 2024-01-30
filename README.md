@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - Github action for pruning old GHCR container image versions. (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) - Github action for pruning old GHCR container image versions. (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (today)
+- [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (1 day ago)
 - [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [New article: &#34;My alltime-high articles&#34;](https://github.com/andygrunwald/andygrunwald.com/pull/217) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 weeks ago)
-- [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
+- [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
