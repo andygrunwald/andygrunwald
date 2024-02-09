@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -24,8 +24,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (1 week ago)
-- [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
-- [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
+- [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
+- [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
 - [New article: &#34;My alltime-high articles&#34;](https://github.com/andygrunwald/andygrunwald.com/pull/217) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 month ago)
 - [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
