@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (1 week ago)
 - [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
 - [GitHub Action: Introduce Python linting via ruff](https://github.com/EngineeringKiosk/webpage/pull/711) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
 - [New article: &#34;My alltime-high articles&#34;](https://github.com/andygrunwald/andygrunwald.com/pull/217) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 month ago)
-- [Ep104: Add Transcript](https://github.com/EngineeringKiosk/webpage/pull/701) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
