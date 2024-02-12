@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[usrmgr] Fix access array offset on value of type bool](https://github.com/lansuite/lansuite/pull/892) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[tournament2] Fix PHP warnings like undefined array key or access array offset on type bool](https://github.com/lansuite/lansuite/pull/891) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (1 week ago)
+- [[usrmgr] Fix access array offset on value of type bool](https://github.com/lansuite/lansuite/pull/892) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[tournament2] Fix PHP warnings like undefined array key or access array offset on type bool](https://github.com/lansuite/lansuite/pull/891) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (2 weeks ago)
 - [Podcast Episode view: Fix clickable chapter when HTML is malformed by Rich Text Editor](https://github.com/EngineeringKiosk/webpage/pull/716) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
