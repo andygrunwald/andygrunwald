@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update `Makefile` targets](https://github.com/EngineeringKiosk/webpage/pull/735) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [[Rector] Latest run with rector after upgrade](https://github.com/lansuite/lansuite/pull/901) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[usrmgr] Fix access array offset on value of type bool](https://github.com/lansuite/lansuite/pull/892) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[tournament2] Fix PHP warnings like undefined array key or access array offset on type bool](https://github.com/lansuite/lansuite/pull/891) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [actions/setup-python Upgrade from v4 to v5.0.0 (node16 is deprecated)](https://github.com/snok/container-retention-policy/pull/75) on [snok/container-retention-policy](https://github.com/snok/container-retention-policy) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
