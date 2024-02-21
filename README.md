@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 weeks ago)
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Update `Makefile` targets](https://github.com/EngineeringKiosk/webpage/pull/735) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [[Rector] Latest run with rector after upgrade](https://github.com/lansuite/lansuite/pull/901) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Update `Makefile` targets](https://github.com/EngineeringKiosk/webpage/pull/735) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [[Rector] Latest run with rector after upgrade](https://github.com/lansuite/lansuite/pull/901) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[usrmgr] Fix access array offset on value of type bool](https://github.com/lansuite/lansuite/pull/892) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[tournament2] Fix PHP warnings like undefined array key or access array offset on type bool](https://github.com/lansuite/lansuite/pull/891) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
