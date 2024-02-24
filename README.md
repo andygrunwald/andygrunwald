@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Github Actions: New workflow to lint Dockerfile](https://github.com/lansuite/lansuite/pull/905) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Update `Makefile` targets](https://github.com/EngineeringKiosk/webpage/pull/735) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [[Rector] Latest run with rector after upgrade](https://github.com/lansuite/lansuite/pull/901) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 - [[usrmgr] Fix access array offset on value of type bool](https://github.com/lansuite/lansuite/pull/892) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [[tournament2] Fix PHP warnings like undefined array key or access array offset on type bool](https://github.com/lansuite/lansuite/pull/891) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Fixing PHP errors like &#34;undefined array key&#34; or &#34;undefined variable&#34; in modules `info2`, `seating`, `paypal`, `helplet` and `mail`](https://github.com/lansuite/lansuite/pull/890) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
