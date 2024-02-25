@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Discord] Rework Discord module to get it functional again](https://github.com/lansuite/lansuite/pull/912) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[JavaScript] Remove deprecated attribute &#34;language&#34; from &lt;script&gt; tag](https://github.com/lansuite/lansuite/pull/911) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Security] Add header `X-Frame-Options`, `Referrer-Policy` and `Strict-Transport-Security`](https://github.com/lansuite/lansuite/pull/910) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Security] Set Cookies HTTP only and protocol aware (https)](https://github.com/lansuite/lansuite/pull/909) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Delete `ext_scripts/captcha.php` as it is not used](https://github.com/lansuite/lansuite/pull/908) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Makefile: Add new commands for development purpose](https://github.com/lansuite/lansuite/pull/907) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
