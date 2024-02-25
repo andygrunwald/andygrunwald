@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Security] Set Cookies HTTP only and protocol aware (https)](https://github.com/lansuite/lansuite/pull/909) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Delete `ext_scripts/captcha.php` as it is not used](https://github.com/lansuite/lansuite/pull/908) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Makefile: Add new commands for development purpose](https://github.com/lansuite/lansuite/pull/907) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [GitHub Actions: Improve when quality checks will run (on push to master, nightly and during a pull request)](https://github.com/lansuite/lansuite/pull/906) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Github Actions: New workflow to lint Dockerfile](https://github.com/lansuite/lansuite/pull/905) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Update `Makefile` targets](https://github.com/EngineeringKiosk/webpage/pull/735) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 
 ### 📝 My recent blog posts
 
