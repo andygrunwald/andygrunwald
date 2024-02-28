@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Seating] Fix &#34;Fatal error: Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, bool given in /modules/seating/Classes/Seat2.php on line 376&#34;](https://github.com/lansuite/lansuite/pull/915) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fixing several PHP errors in modules `stats`, `seating`, `tournament` and `party`](https://github.com/lansuite/lansuite/pull/914) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [[Discord] Rework Discord module to get it functional again](https://github.com/lansuite/lansuite/pull/912) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[JavaScript] Remove deprecated attribute &#34;language&#34; from &lt;script&gt; tag](https://github.com/lansuite/lansuite/pull/911) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[Security] Add header `X-Frame-Options`, `Referrer-Policy` and `Strict-Transport-Security`](https://github.com/lansuite/lansuite/pull/910) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Security] Set Cookies HTTP only and protocol aware (https)](https://github.com/lansuite/lansuite/pull/909) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
