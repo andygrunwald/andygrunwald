@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (4 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.14.0](https://github.com/prometheus-community/ansible/releases/tag/0.14.0), 2 days ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.14.0](https://github.com/prometheus-community/ansible/releases/tag/0.14.0), 3 days ago) - Ansible Collection for Prometheus
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 2 months ago) - Github action for pruning old GHCR container image versions.
 - [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 6 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 9 months ago) - Echo community contribution
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fixing several PHP errors in modules `stats`, `seating`, `tournament` and `party`](https://github.com/lansuite/lansuite/pull/914) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Discord] Rework Discord module to get it functional again](https://github.com/lansuite/lansuite/pull/912) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[JavaScript] Remove deprecated attribute &#34;language&#34; from &lt;script&gt; tag](https://github.com/lansuite/lansuite/pull/911) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Security] Add header `X-Frame-Options`, `Referrer-Policy` and `Strict-Transport-Security`](https://github.com/lansuite/lansuite/pull/910) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Security] Set Cookies HTTP only and protocol aware (https)](https://github.com/lansuite/lansuite/pull/909) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [Fixing several PHP errors in modules `stats`, `seating`, `tournament` and `party`](https://github.com/lansuite/lansuite/pull/914) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Discord] Rework Discord module to get it functional again](https://github.com/lansuite/lansuite/pull/912) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[JavaScript] Remove deprecated attribute &#34;language&#34; from &lt;script&gt; tag](https://github.com/lansuite/lansuite/pull/911) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[Security] Add header `X-Frame-Options`, `Referrer-Policy` and `Strict-Transport-Security`](https://github.com/lansuite/lansuite/pull/910) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[Security] Set Cookies HTTP only and protocol aware (https)](https://github.com/lansuite/lansuite/pull/909) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
