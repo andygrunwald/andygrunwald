@@ -8,8 +8,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade Go version to v1.21](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/86) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
+- [Bump github.com/nats-io/nats.go from 1.31.0 to 1.33.1 in /nats/go](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/85) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [hadolint: Ignore DL3008 instead of DL3000](https://github.com/lansuite/lansuite/pull/916) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [[Seating] Fix &#34;Fatal error: Uncaught TypeError: array_key_exists(): Argument #2 ($array) must be of type array, bool given in /modules/seating/Classes/Seat2.php on line 376&#34;](https://github.com/lansuite/lansuite/pull/915) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fixing several PHP errors in modules `stats`, `seating`, `tournament` and `party`](https://github.com/lansuite/lansuite/pull/914) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Discord] Rework Discord module to get it functional again](https://github.com/lansuite/lansuite/pull/912) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [[JavaScript] Remove deprecated attribute &#34;language&#34; from &lt;script&gt; tag](https://github.com/lansuite/lansuite/pull/911) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 
 ### 📝 My recent blog posts
 
