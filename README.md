@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #252: Remove support for WWCL](https://github.com/lansuite/lansuite/pull/931) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Usrmgr] Remove ICQ field](https://github.com/lansuite/lansuite/pull/930) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[tournament2] Fix further warnings in game modes &#34;Liga&#34; and &#34;Gruppenspiele &#43; KO&#34;](https://github.com/lansuite/lansuite/pull/929) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[tournament2] PHP Warning fixes for game type &#34;Single-Elimination, 1 gegen 1&#34;](https://github.com/lansuite/lansuite/pull/928) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Upgrade Go version to v1.21](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/86) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
-- [Bump github.com/nats-io/nats.go from 1.31.0 to 1.33.1 in /nats/go](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/85) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
 
 ### 📝 My recent blog posts
 
