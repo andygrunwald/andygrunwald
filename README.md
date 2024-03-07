@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Usermgr] Fix bug when you edit the user profile, address data is not shown](https://github.com/lansuite/lansuite/pull/935) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Cashmgr/Usrmgr/guestlist/MasterForm] Fix PHP Warnings and one Fatal Error while changing permissions](https://github.com/lansuite/lansuite/pull/934) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[User] Removed MSN field in user data](https://github.com/lansuite/lansuite/pull/933) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Fix #252: Remove support for WWCL](https://github.com/lansuite/lansuite/pull/931) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [[Usrmgr] Remove ICQ field](https://github.com/lansuite/lansuite/pull/930) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [[tournament2] Fix further warnings in game modes &#34;Liga&#34; and &#34;Gruppenspiele &#43; KO&#34;](https://github.com/lansuite/lansuite/pull/929) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 
 ### 📝 My recent blog posts
 
