@@ -15,10 +15,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 3 months ago) - Github action for pruning old GHCR container image versions.
-- [msiebeneicher/snab](https://github.com/msiebeneicher/snab) ([v0.4.0](https://github.com/msiebeneicher/snab/releases/tag/v0.4.0), 6 months ago) - SnaB - Snake Basket is a shell runner aims to enable you to bundle shell script and commands like a powerful modern CLI application
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.15.0](https://github.com/labstack/echo-contrib/releases/tag/v0.15.0), 9 months ago) - Echo community contribution
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 1 year ago) - Ansible role for creating Systemd services for docker containers
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 1 year ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 2 years ago) - Go client library for Atlassian Jira
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) ([v1.6](https://github.com/andygrunwald/your-connection-deserves-a-name/releases/tag/v1.6), 2 years ago) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection.
 
 ### 🔨 Latest Pull Requests I published
 
