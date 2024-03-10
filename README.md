@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 week ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix two template warnings in the main index template](https://github.com/lansuite/lansuite/pull/938) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[install] Fix undefined array key &#34;userid&#34;](https://github.com/lansuite/lansuite/pull/936) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Usermgr] Fix bug when you edit the user profile, address data is not shown](https://github.com/lansuite/lansuite/pull/935) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Cashmgr/Usrmgr/guestlist/MasterForm] Fix PHP Warnings and one Fatal Error while changing permissions](https://github.com/lansuite/lansuite/pull/934) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[User] Removed MSN field in user data](https://github.com/lansuite/lansuite/pull/933) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Fix two template warnings in the main index template](https://github.com/lansuite/lansuite/pull/938) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[install] Fix undefined array key &#34;userid&#34;](https://github.com/lansuite/lansuite/pull/936) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[Usermgr] Fix bug when you edit the user profile, address data is not shown](https://github.com/lansuite/lansuite/pull/935) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[Cashmgr/Usrmgr/guestlist/MasterForm] Fix PHP Warnings and one Fatal Error while changing permissions](https://github.com/lansuite/lansuite/pull/934) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[User] Removed MSN field in user data](https://github.com/lansuite/lansuite/pull/933) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
