@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix two template warnings in the main index template](https://github.com/lansuite/lansuite/pull/938) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[install] Fix undefined array key &#34;userid&#34;](https://github.com/lansuite/lansuite/pull/936) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Usermgr] Fix bug when you edit the user profile, address data is not shown](https://github.com/lansuite/lansuite/pull/935) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Cashmgr/Usrmgr/guestlist/MasterForm] Fix PHP Warnings and one Fatal Error while changing permissions](https://github.com/lansuite/lansuite/pull/934) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[User] Removed MSN field in user data](https://github.com/lansuite/lansuite/pull/933) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[About] Changed main contact site to Github](https://github.com/lansuite/lansuite/pull/943) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[About] Removed PHP and HTML Line count from about site](https://github.com/lansuite/lansuite/pull/942) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[XSS] Prevent XSS possibility in http-equiv=&#34;refresh&#34; header](https://github.com/lansuite/lansuite/pull/941) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Tournament] Removed support for NGL (NGL shutdown in 2006)](https://github.com/lansuite/lansuite/pull/939) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
