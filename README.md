@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[About] Changed main contact site to Github](https://github.com/lansuite/lansuite/pull/943) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[About] Removed PHP and HTML Line count from about site](https://github.com/lansuite/lansuite/pull/942) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[XSS] Prevent XSS possibility in http-equiv=&#34;refresh&#34; header](https://github.com/lansuite/lansuite/pull/941) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Tournament] Removed support for NGL (NGL shutdown in 2006)](https://github.com/lansuite/lansuite/pull/939) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
