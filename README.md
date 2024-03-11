@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 week ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[About] Changed main contact site to Github](https://github.com/lansuite/lansuite/pull/943) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[About] Removed PHP and HTML Line count from about site](https://github.com/lansuite/lansuite/pull/942) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[About] Changed main contact site to Github](https://github.com/lansuite/lansuite/pull/943) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[About] Removed PHP and HTML Line count from about site](https://github.com/lansuite/lansuite/pull/942) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
