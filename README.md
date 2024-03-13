@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix undefined array key in &#34;boxid&#34; subarray](https://github.com/lansuite/lansuite/pull/948) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Framework] Remove private class variables `content_crc`, `content_size` and `framework_messages`](https://github.com/lansuite/lansuite/pull/947) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[About] Changed main contact site to Github](https://github.com/lansuite/lansuite/pull/943) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[About] Removed PHP and HTML Line count from about site](https://github.com/lansuite/lansuite/pull/942) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
