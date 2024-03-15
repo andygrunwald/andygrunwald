@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/958) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Seating] Quote reserved SQL keyword to avoid fatal errors](https://github.com/lansuite/lansuite/pull/957) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Seating] Fix array access on bool](https://github.com/lansuite/lansuite/pull/956) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix undefined array key in &#34;boxid&#34; subarray](https://github.com/lansuite/lansuite/pull/948) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [[Framework] Remove private class variables `content_crc`, `content_size` and `framework_messages`](https://github.com/lansuite/lansuite/pull/947) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 
 ### 📝 My recent blog posts
 
