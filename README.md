@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix undefined array key in &#34;boxid&#34; subarray](https://github.com/lansuite/lansuite/pull/948) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Framework] Remove private class variables `content_crc`, `content_size` and `framework_messages`](https://github.com/lansuite/lansuite/pull/947) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [Fix undefined array key in &#34;boxid&#34; subarray](https://github.com/lansuite/lansuite/pull/948) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[Framework] Remove private class variables `content_crc`, `content_size` and `framework_messages`](https://github.com/lansuite/lansuite/pull/947) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[About] Move contributors to CONTRIBUTORS.md and add current people to the Thank You list](https://github.com/lansuite/lansuite/pull/946) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [[About] Remove list of Thank You to various open source projects](https://github.com/lansuite/lansuite/pull/945) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [[About] Remove old versions of PHP, MySQL, etc. from about module](https://github.com/lansuite/lansuite/pull/944) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 
 ### 📝 My recent blog posts
 
