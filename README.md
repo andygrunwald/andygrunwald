@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Func] Remove `escape_sql`](https://github.com/lansuite/lansuite/pull/961) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Tournament2] Switch many queries to Prepared Statements API](https://github.com/lansuite/lansuite/pull/960) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Database] Switch `index_module.inc.php` to prepared statements](https://github.com/lansuite/lansuite/pull/959) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/958) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Seating] Quote reserved SQL keyword to avoid fatal errors](https://github.com/lansuite/lansuite/pull/957) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Seating] Fix array access on bool](https://github.com/lansuite/lansuite/pull/956) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix undefined array key in &#34;boxid&#34; subarray](https://github.com/lansuite/lansuite/pull/948) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
