@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 week ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Func] Remove `escape_sql`](https://github.com/lansuite/lansuite/pull/961) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Tournament2] Switch many queries to Prepared Statements API](https://github.com/lansuite/lansuite/pull/960) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Database] Switch `index_module.inc.php` to prepared statements](https://github.com/lansuite/lansuite/pull/959) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/958) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Seating] Quote reserved SQL keyword to avoid fatal errors](https://github.com/lansuite/lansuite/pull/957) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Func] Remove `escape_sql`](https://github.com/lansuite/lansuite/pull/961) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Tournament2] Switch many queries to Prepared Statements API](https://github.com/lansuite/lansuite/pull/960) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Database] Switch `index_module.inc.php` to prepared statements](https://github.com/lansuite/lansuite/pull/959) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Poll] Fix PHP Warnings](https://github.com/lansuite/lansuite/pull/958) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Seating] Quote reserved SQL keyword to avoid fatal errors](https://github.com/lansuite/lansuite/pull/957) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
