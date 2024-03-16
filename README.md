@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[PDF] Rework of PDF module with focus on Certificates](https://github.com/lansuite/lansuite/pull/965) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Auth] Switch Auth class to prepared statements](https://github.com/lansuite/lansuite/pull/964) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Framework] Rework of the Framework class](https://github.com/lansuite/lansuite/pull/963) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Captcha] Replaced ASCII-Captcha with a graphical captcha](https://github.com/lansuite/lansuite/pull/962) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Func] Remove `escape_sql`](https://github.com/lansuite/lansuite/pull/961) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Tournament2] Switch many queries to Prepared Statements API](https://github.com/lansuite/lansuite/pull/960) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
