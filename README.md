@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[info2] Fixing &#34;Undefined array key `infoID`&#34;](https://github.com/lansuite/lansuite/pull/972) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[PicGallery] Fix array access on bool](https://github.com/lansuite/lansuite/pull/970) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [[CheckClanPWUsrMgr] Fix PHP Warning](https://github.com/lansuite/lansuite/pull/969) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Fix &#34;Warning: Array to string conversion&#34;](https://github.com/lansuite/lansuite/pull/967) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 - [Github Actions: Update runs-on: ubuntu-22.04](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/94) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (3 days ago)
-- [[PDF] Rework of PDF module with focus on Certificates](https://github.com/lansuite/lansuite/pull/965) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
 
 ### 📝 My recent blog posts
 
