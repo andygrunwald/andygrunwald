@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Rework server module](https://github.com/lansuite/lansuite/pull/974) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Test and Build] Reduce Indentation level, use escapeshellarg for recipe filename, added basic comments and `PHP_EOL` instead of \n for output strings](https://github.com/oicdb/oicdb-repository/pull/4) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 day ago)
 - [REAMDE: Applied grammar suggestions from grammarly and linked Buchhalter.ai](https://github.com/oicdb/oicdb-repository/pull/3) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 day ago)
 - [Add dependabot to update dependencies for GitHub Actions and PHP scripts](https://github.com/oicdb/oicdb-repository/pull/2) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 day ago)
 - [[info2] Fixing &#34;Undefined array key `infoID`&#34;](https://github.com/lansuite/lansuite/pull/972) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[PicGallery] Fix array access on bool](https://github.com/lansuite/lansuite/pull/970) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 
 ### 📝 My recent blog posts
 
