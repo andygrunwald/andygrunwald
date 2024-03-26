@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #971: Hours and Minutes are not getting pre-selected in date time fields, if they are single digit](https://github.com/lansuite/lansuite/pull/1039) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #982: Fix fatal error in module Foodcenter](https://github.com/lansuite/lansuite/pull/1038) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #940: Remove code for league LGZ](https://github.com/lansuite/lansuite/pull/1037) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Templating] Upgrading from v4 to v5 (Smarty)](https://github.com/lansuite/lansuite/pull/1036) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Framework] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1035) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[BarcodeSystem] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1034) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
