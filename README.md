@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Guestbook] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1017) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Hardware] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1016) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Info2] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1015) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Home] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1014) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Guestlist] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1013) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Framework] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1035) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[BarcodeSystem] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1034) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Func] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1033) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[MasterComment] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1032) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Masterdelete] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1031) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
