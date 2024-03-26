@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (2 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[README] Add note about the discord community](https://github.com/lansuite/lansuite/pull/981) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Foodcenter] Fix PHP Fatal Error and PHP Warnings](https://github.com/lansuite/lansuite/pull/979) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Server] Rework module to fix PHP warnings, typos, switch to prepared statements](https://github.com/lansuite/lansuite/pull/974) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Test and Build] Reduce Indentation level, use escapeshellarg for recipe filename, added basic comments and `PHP_EOL` instead of \n for output strings](https://github.com/oicdb/oicdb-repository/pull/4) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (3 days ago)
-- [REAMDE: Applied grammar suggestions from grammarly and linked Buchhalter.ai](https://github.com/oicdb/oicdb-repository/pull/3) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (3 days ago)
+- [[Guestbook] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1017) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Hardware] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1016) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Info2] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1015) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Home] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1014) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Guestlist] Switch SQL statements to Prepared Statements API](https://github.com/lansuite/lansuite/pull/1013) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
