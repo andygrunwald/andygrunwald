@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Documentation: Add a page about the users of LanSuite](https://github.com/lansuite/lansuite/pull/1048) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Usrmgr] Fixing an `only_full_group_by` SQL error](https://github.com/lansuite/lansuite/pull/1044) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #968: Order by &#34;Clan&#34; in &#34;Usermanager&#34; throws warnings](https://github.com/lansuite/lansuite/pull/1040) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #971: Hours and Minutes are not getting pre-selected in date time fields, if they are single digit](https://github.com/lansuite/lansuite/pull/1039) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #982: Fix fatal error in module Foodcenter](https://github.com/lansuite/lansuite/pull/1038) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [Fix #940: Remove code for league LGZ](https://github.com/lansuite/lansuite/pull/1037) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
