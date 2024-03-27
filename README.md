@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (3 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Usrmgr] Fixing an `only_full_group_by` SQL error](https://github.com/lansuite/lansuite/pull/1044) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #968: Order by &#34;Clan&#34; in &#34;Usermanager&#34; throws warnings](https://github.com/lansuite/lansuite/pull/1040) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #971: Hours and Minutes are not getting pre-selected in date time fields, if they are single digit](https://github.com/lansuite/lansuite/pull/1039) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #982: Fix fatal error in module Foodcenter](https://github.com/lansuite/lansuite/pull/1038) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 - [Fix #940: Remove code for league LGZ](https://github.com/lansuite/lansuite/pull/1037) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Templating] Upgrading from v4 to v5 (Smarty)](https://github.com/lansuite/lansuite/pull/1036) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
