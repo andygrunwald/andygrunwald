@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Framework] Remove private class variable `framework_messages`](https://github.com/lansuite/lansuite/pull/1051) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Adding KRRU LAN-Party Management System](https://github.com/LANparties/awesome-lanparty-software/pull/27) on [LANparties/awesome-lanparty-software](https://github.com/LANparties/awesome-lanparty-software) (today)
 - [Documentation: Add a page about the users of LanSuite](https://github.com/lansuite/lansuite/pull/1048) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [[Usrmgr] Fixing an `only_full_group_by` SQL error](https://github.com/lansuite/lansuite/pull/1044) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fix #968: Order by &#34;Clan&#34; in &#34;Usermanager&#34; throws warnings](https://github.com/lansuite/lansuite/pull/1040) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [Fix #971: Hours and Minutes are not getting pre-selected in date time fields, if they are single digit](https://github.com/lansuite/lansuite/pull/1039) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
 
 ### 📝 My recent blog posts
 
