@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Framework] Remove private class variable `framework_messages`](https://github.com/lansuite/lansuite/pull/1051) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Adding KRRU LAN-Party Management System](https://github.com/LANparties/awesome-lanparty-software/pull/27) on [LANparties/awesome-lanparty-software](https://github.com/LANparties/awesome-lanparty-software) (2 days ago)
-- [Documentation: Add a page about the users of LanSuite](https://github.com/lansuite/lansuite/pull/1048) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [[Usrmgr] Fixing an `only_full_group_by` SQL error](https://github.com/lansuite/lansuite/pull/1044) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
-- [Fix #968: Order by &#34;Clan&#34; in &#34;Usermanager&#34; throws warnings](https://github.com/lansuite/lansuite/pull/1040) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Install] Fix PHP Warnings in Install module](https://github.com/lansuite/lansuite/pull/1058) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Usrmgr] Fix wrong usage of new Database API](https://github.com/lansuite/lansuite/pull/1057) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[MasterSearch2] Fix wrong number of rows found](https://github.com/lansuite/lansuite/pull/1056) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Beamer] Fix wrong variable $database name, leads to a Fatal error](https://github.com/lansuite/lansuite/pull/1055) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
