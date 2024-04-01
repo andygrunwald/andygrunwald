@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Foodcenter] Fix PHP Warnings in Theke](https://github.com/lansuite/lansuite/pull/1072) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Tournament2] Fix &#34;Parse error: syntax error, unexpected double-quotemark, expecting &#34;-&#34; or identifier or variable or number in /modules/tournament2/tree.php on line 56&#34;](https://github.com/lansuite/lansuite/pull/1070) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Seating] Fix undefined variable `$new_user`](https://github.com/lansuite/lansuite/pull/1069) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Install] Fix PHP Warnings in Install module](https://github.com/lansuite/lansuite/pull/1058) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Usrmgr] Fix wrong usage of new Database API](https://github.com/lansuite/lansuite/pull/1057) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[MasterSearch2] Fix wrong number of rows found](https://github.com/lansuite/lansuite/pull/1056) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Beamer] Fix wrong variable $database name, leads to a Fatal error](https://github.com/lansuite/lansuite/pull/1055) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
