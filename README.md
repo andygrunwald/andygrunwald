@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
 - [LANparties/awesome-lanparty-software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers. (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
