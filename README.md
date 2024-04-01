@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
-- [LANparties/awesome-lanparty-software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers. (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 day ago)
+- [LANparties/awesome-lanparty-software](https://github.com/LANparties/awesome-lanparty-software) - An awesome list with awesome software for awesome LAN parties and their organizers. (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 week ago)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Install] Fix PHP Warnings in Install module](https://github.com/lansuite/lansuite/pull/1058) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Usrmgr] Fix wrong usage of new Database API](https://github.com/lansuite/lansuite/pull/1057) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[MasterSearch2] Fix wrong number of rows found](https://github.com/lansuite/lansuite/pull/1056) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Beamer] Fix wrong variable $database name, leads to a Fatal error](https://github.com/lansuite/lansuite/pull/1055) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Install] Fix PHP Warnings in Install module](https://github.com/lansuite/lansuite/pull/1058) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Usrmgr] Fix wrong usage of new Database API](https://github.com/lansuite/lansuite/pull/1057) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[MasterSearch2] Fix wrong number of rows found](https://github.com/lansuite/lansuite/pull/1056) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Beamer] Fix wrong variable $database name, leads to a Fatal error](https://github.com/lansuite/lansuite/pull/1055) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
 
 ### 📝 My recent blog posts
 
