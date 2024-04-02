@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (today)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,17 +23,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Foodcenter] Fix PHP Warnings in Theke](https://github.com/lansuite/lansuite/pull/1072) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Tournament2] Fix &#34;Parse error: syntax error, unexpected double-quotemark, expecting &#34;-&#34; or identifier or variable or number in /modules/tournament2/tree.php on line 56&#34;](https://github.com/lansuite/lansuite/pull/1070) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Seating] Fix undefined variable `$new_user`](https://github.com/lansuite/lansuite/pull/1069) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Foodcenter] Fix PHP Warnings in Theke](https://github.com/lansuite/lansuite/pull/1072) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Tournament2] Fix &#34;Parse error: syntax error, unexpected double-quotemark, expecting &#34;-&#34; or identifier or variable or number in /modules/tournament2/tree.php on line 56&#34;](https://github.com/lansuite/lansuite/pull/1070) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Seating] Fix undefined variable `$new_user`](https://github.com/lansuite/lansuite/pull/1069) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
+- [[Tournament2] Fix undefined variable templ](https://github.com/lansuite/lansuite/pull/1059) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
 
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (2 months ago)
-- [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (2 months ago)
+- [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (3 months ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (3 months ago)
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (3 months ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (2 years ago)
