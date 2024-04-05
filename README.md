@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (3 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (4 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[UsrMgr] Fix undefined array key `usrmgr`](https://github.com/lansuite/lansuite/pull/1079) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[ClanMgr] Fix undefined array key `clan_pass`](https://github.com/lansuite/lansuite/pull/1078) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 day ago)
-- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Foodcenter] Fix PHP Warnings in Theke](https://github.com/lansuite/lansuite/pull/1072) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
-- [[Tournament2] Fix &#34;Parse error: syntax error, unexpected double-quotemark, expecting &#34;-&#34; or identifier or variable or number in /modules/tournament2/tree.php on line 56&#34;](https://github.com/lansuite/lansuite/pull/1070) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [[UsrMgr] Fix undefined array key `usrmgr`](https://github.com/lansuite/lansuite/pull/1079) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[ClanMgr] Fix undefined array key `clan_pass`](https://github.com/lansuite/lansuite/pull/1078) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
+- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [[Foodcenter] Fix PHP Warnings in Theke](https://github.com/lansuite/lansuite/pull/1072) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
+- [[Tournament2] Fix &#34;Parse error: syntax error, unexpected double-quotemark, expecting &#34;-&#34; or identifier or variable or number in /modules/tournament2/tree.php on line 56&#34;](https://github.com/lansuite/lansuite/pull/1070) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 
 ### 📝 My recent blog posts
 
