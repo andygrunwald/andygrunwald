@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (today)
 - [[Paypal] Fix a few PHP warnings](https://github.com/lansuite/lansuite/pull/1081) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [[Shoutbox] Fix PHP warnings](https://github.com/lansuite/lansuite/pull/1080) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 days ago)
 - [[UsrMgr] Fix undefined array key `usrmgr`](https://github.com/lansuite/lansuite/pull/1079) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 - [[ClanMgr] Fix undefined array key `clan_pass`](https://github.com/lansuite/lansuite/pull/1078) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
-- [[Foodcenter] List all users in search](https://github.com/lansuite/lansuite/pull/1073) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
