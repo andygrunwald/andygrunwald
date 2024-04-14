@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (4 days ago)
+- [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 days ago)
+- [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (5 days ago)
 - [[Paypal] Fix a few PHP warnings](https://github.com/lansuite/lansuite/pull/1081) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[Shoutbox] Fix PHP warnings](https://github.com/lansuite/lansuite/pull/1080) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [[UsrMgr] Fix undefined array key `usrmgr`](https://github.com/lansuite/lansuite/pull/1079) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
