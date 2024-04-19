@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (today)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (today)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (today)
 - [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 week ago)
 - [[Paypal] Fix a few PHP warnings](https://github.com/lansuite/lansuite/pull/1081) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [[Shoutbox] Fix PHP warnings](https://github.com/lansuite/lansuite/pull/1080) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [[UsrMgr] Fix undefined array key `usrmgr`](https://github.com/lansuite/lansuite/pull/1079) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
