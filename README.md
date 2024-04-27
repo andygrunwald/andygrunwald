@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
-- [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 week ago)
 - [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (2 weeks ago)
 - [[Paypal] Fix a few PHP warnings](https://github.com/lansuite/lansuite/pull/1081) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
-- [[Shoutbox] Fix PHP warnings](https://github.com/lansuite/lansuite/pull/1080) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
