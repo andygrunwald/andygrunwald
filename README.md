@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 days ago)
+- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 days ago)
 - [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 week ago)
 - [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (2 weeks ago)
+- [Remove support for key `filterUrlsWith` in `downloadAll` action](https://github.com/oicdb/oicdb-repository/pull/13) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (3 weeks ago)
 - [[Paypal] Fix a few PHP warnings](https://github.com/lansuite/lansuite/pull/1081) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 
 ### 📝 My recent blog posts
@@ -34,7 +34,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (3 months ago)
 - [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (3 months ago)
-- [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (3 months ago)
+- [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (4 months ago)
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (4 months ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (2 years ago)
 
