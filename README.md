@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.17.1](https://github.com/labstack/echo-contrib/releases/tag/v0.17.1), 2 weeks ago) - Echo community contribution
+- [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.17.1](https://github.com/labstack/echo-contrib/releases/tag/v0.17.1), 3 weeks ago) - Echo community contribution
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.12.0](https://github.com/Aiven-Open/karapace/releases/tag/3.12.0), 3 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta2](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta2), 1 month ago) - The OICDB repository with all invoice collector recipes.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 5 months ago) - Github action for pruning old GHCR container image versions.
@@ -26,7 +26,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [README: Fix badge for workflow run of `tests.yml`](https://github.com/Aiven-Open/karapace/pull/855) on [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) (1 week ago)
 - [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
-- [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (2 weeks ago)
+- [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (3 weeks ago)
 - [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 weeks ago)
 
 ### 📝 My recent blog posts
