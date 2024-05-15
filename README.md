@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (5 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.13.0](https://github.com/Aiven-Open/karapace/releases/tag/3.13.0), today) - Karapace - Your Apache Kafka® essentials in one tool
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.13.0](https://github.com/Aiven-Open/karapace/releases/tag/3.13.0), 1 day ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.17.1](https://github.com/labstack/echo-contrib/releases/tag/v0.17.1), 3 weeks ago) - Echo community contribution
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta2](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta2), 1 month ago) - The OICDB repository with all invoice collector recipes.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 5 months ago) - Github action for pruning old GHCR container image versions.
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
+- [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
 - [README: Fix badge for workflow run of `tests.yml`](https://github.com/Aiven-Open/karapace/pull/855) on [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) (2 weeks ago)
 - [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 weeks ago)
 - [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (3 weeks ago)
