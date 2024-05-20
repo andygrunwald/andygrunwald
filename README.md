@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/download-example-page](https://github.com/andygrunwald/download-example-page) - Just a test dummy for me - Nothing useful to see here (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [andygrunwald/download-example-page](https://github.com/andygrunwald/download-example-page) - Just a test dummy for me - Nothing useful to see here (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.13.0](https://github.com/Aiven-Open/karapace/releases/tag/3.13.0), 5 days ago) - Karapace - Your Apache Kafka® essentials in one tool
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.13.0](https://github.com/Aiven-Open/karapace/releases/tag/3.13.0), 6 days ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [labstack/echo-contrib](https://github.com/labstack/echo-contrib) ([v0.17.1](https://github.com/labstack/echo-contrib/releases/tag/v0.17.1), 1 month ago) - Echo community contribution
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta2](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta2), 1 month ago) - The OICDB repository with all invoice collector recipes.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 5 months ago) - Github action for pruning old GHCR container image versions.
