@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Rename &#34;provider&#34; to &#34;supplier&#34; to be consistent with naming](https://github.com/oicdb/oicdb-repository/pull/16) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (today)
 - [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 - [README: Fix badge for workflow run of `tests.yml`](https://github.com/Aiven-Open/karapace/pull/855) on [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) (3 weeks ago)
 - [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 weeks ago)
 - [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 month ago)
-- [Fix #1093: PHP Warnings in Security and Database class](https://github.com/lansuite/lansuite/pull/1101) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 
 ### 📝 My recent blog posts
 
