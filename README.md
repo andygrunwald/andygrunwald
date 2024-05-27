@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
 - [andygrunwald/download-example-page](https://github.com/andygrunwald/download-example-page) - Just a test dummy for me - Nothing useful to see here (1 week ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Rename &#34;provider&#34; to &#34;supplier&#34; to be consistent with naming](https://github.com/oicdb/oicdb-repository/pull/16) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 day ago)
+- [Rename &#34;provider&#34; to &#34;supplier&#34; to be consistent with naming](https://github.com/oicdb/oicdb-repository/pull/16) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (2 days ago)
 - [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
 - [README: Fix badge for workflow run of `tests.yml`](https://github.com/Aiven-Open/karapace/pull/855) on [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) (3 weeks ago)
-- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 weeks ago)
+- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
 - [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 month ago)
 
 ### 📝 My recent blog posts
