@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (3 days ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
 - [andygrunwald/download-example-page](https://github.com/andygrunwald/download-example-page) - Just a test dummy for me - Nothing useful to see here (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Rector: Run rector to match current config (`LevelSetList::UP_TO_PHP_80`)](https://github.com/lansuite/lansuite/pull/1155) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Upgrade PHP minimum version from v8.1 to v8.2](https://github.com/lansuite/lansuite/pull/1154) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[bugtracker] Fix bug of using $database object via $$database](https://github.com/lansuite/lansuite/pull/1153) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Rename &#34;provider&#34; to &#34;supplier&#34; to be consistent with naming](https://github.com/oicdb/oicdb-repository/pull/16) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (5 days ago)
 - [[Install] Fix undefined variable `$xml` that leads to Fatal Error](https://github.com/lansuite/lansuite/pull/1124) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 weeks ago)
-- [README: Fix badge for workflow run of `tests.yml`](https://github.com/Aiven-Open/karapace/pull/855) on [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) (1 month ago)
-- [Update Go version (add v1.22, remove v1.20)](https://github.com/andygrunwald/go-gerrit/pull/164) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
-- [Add Grammarly recipe](https://github.com/oicdb/oicdb-repository/pull/14) on [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) (1 month ago)
 
 ### 📝 My recent blog posts
 
