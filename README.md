@@ -7,9 +7,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
-- [buchhalter-ai/homebrew-buchhalter](https://github.com/buchhalter-ai/homebrew-buchhalter) - Homebrew tap of buchhalter.ai-cli (1 week ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Podcast Data: New attributes `transcript_raw` and `transcript_slim`](https://github.com/EngineeringKiosk/webpage/pull/816) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Python scripts: Refactored a bit the way how we find episodes](https://github.com/EngineeringKiosk/webpage/pull/815) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Data: Add `sponsor` as data attribute](https://github.com/EngineeringKiosk/webpage/pull/811) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [[tournament2] Fix &#34;PHP Warning: Trying to access array offset on value of type null in /modules/tournament2/teammgr_admin.php on line 190&#34;](https://github.com/lansuite/lansuite/pull/1159) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [docker-compose: Fix docker-compose.yml: `version` is obsolete](https://github.com/lansuite/lansuite/pull/1158) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Rector: Run rector to match current config (`LevelSetList::UP_TO_PHP_82`)](https://github.com/lansuite/lansuite/pull/1157) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
