@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (6 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (6 days ago)
-- [buchhalter-ai/homebrew-buchhalter](https://github.com/buchhalter-ai/homebrew-buchhalter) - Homebrew tap of buchhalter.ai-cli (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
+- [buchhalter-ai/homebrew-buchhalter](https://github.com/buchhalter-ai/homebrew-buchhalter) - Homebrew tap of buchhalter.ai-cli (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), today) - The OICDB repository with all invoice collector recipes.
+- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 1 day ago) - The OICDB repository with all invoice collector recipes.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 6 months ago) - Github action for pruning old GHCR container image versions.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 2 years ago) - Go client library for Atlassian Jira
