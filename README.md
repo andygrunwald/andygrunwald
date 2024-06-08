@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Python scripts: Refactored a bit the way how we find episodes](https://github.com/EngineeringKiosk/webpage/pull/815) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Data: Add `sponsor` as data attribute](https://github.com/EngineeringKiosk/webpage/pull/811) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [[tournament2] Fix &#34;PHP Warning: Trying to access array offset on value of type null in /modules/tournament2/teammgr_admin.php on line 190&#34;](https://github.com/lansuite/lansuite/pull/1159) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [docker-compose: Fix docker-compose.yml: `version` is obsolete](https://github.com/lansuite/lansuite/pull/1158) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [Rector: Run rector to match current config (`LevelSetList::UP_TO_PHP_82`)](https://github.com/lansuite/lansuite/pull/1157) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
-- [Rector: Run rector to match current config (`LevelSetList::UP_TO_PHP_81`)](https://github.com/lansuite/lansuite/pull/1156) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
 ### 📝 My recent blog posts
 
