@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 1 day ago) - The OICDB repository with all invoice collector recipes.
+- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 2 days ago) - The OICDB repository with all invoice collector recipes.
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 6 months ago) - Github action for pruning old GHCR container image versions.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 2 years ago) - Go client library for Atlassian Jira
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Podcast Data: New attributes `transcript_raw` and `transcript_slim`](https://github.com/EngineeringKiosk/webpage/pull/816) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Python scripts: Refactored a bit the way how we find episodes](https://github.com/EngineeringKiosk/webpage/pull/815) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Podcast Data: Add `sponsor` as data attribute](https://github.com/EngineeringKiosk/webpage/pull/811) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Data: New attributes `transcript_raw` and `transcript_slim`](https://github.com/EngineeringKiosk/webpage/pull/816) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Python scripts: Refactored a bit the way how we find episodes](https://github.com/EngineeringKiosk/webpage/pull/815) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Podcast Data: Add `sponsor` as data attribute](https://github.com/EngineeringKiosk/webpage/pull/811) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [[tournament2] Fix &#34;PHP Warning: Trying to access array offset on value of type null in /modules/tournament2/teammgr_admin.php on line 190&#34;](https://github.com/lansuite/lansuite/pull/1159) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 - [docker-compose: Fix docker-compose.yml: `version` is obsolete](https://github.com/lansuite/lansuite/pull/1158) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 week ago)
 
