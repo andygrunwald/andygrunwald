@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Page &#34;Werbung&#34;: Rename it to &#34;Podcast Werbung&#34;](https://github.com/EngineeringKiosk/webpage/pull/817) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Update GitHub actions: Ubuntu Image &#43; Go Version](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/301) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: ThinkPad-Museum](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/300) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Podcast: TechnikTechnik](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/299) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [A big update on the heise Podcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/298) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Podcast Data: New attributes `transcript_raw` and `transcript_slim`](https://github.com/EngineeringKiosk/webpage/pull/816) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
