@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #1138: Fix PHP Warnings in module usrmgr, when deleting a user](https://github.com/lansuite/lansuite/pull/1176) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #1130: Fix PHP Warnings in Wiki module](https://github.com/lansuite/lansuite/pull/1175) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [Fix #1128: Fix PHP Warnings in News module](https://github.com/lansuite/lansuite/pull/1174) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 - [[Board] Fix PHP Warnings if a user wants to create a thread](https://github.com/lansuite/lansuite/pull/1173) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
-- [Fix #1131: Restrict display of PHP warnings to (Super-)Admins](https://github.com/lansuite/lansuite/pull/1172) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
