@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Page &#34;Werbung&#34;: Rename it to &#34;Podcast Werbung&#34;](https://github.com/EngineeringKiosk/webpage/pull/817) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Update GitHub actions: Ubuntu Image &#43; Go Version](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/301) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New Podcast: ThinkPad-Museum](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/300) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [New Podcast: TechnikTechnik](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/299) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [A big update on the heise Podcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/298) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Fix #1138: Fix PHP Warnings in module usrmgr, when deleting a user](https://github.com/lansuite/lansuite/pull/1176) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix #1130: Fix PHP Warnings in Wiki module](https://github.com/lansuite/lansuite/pull/1175) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix #1128: Fix PHP Warnings in News module](https://github.com/lansuite/lansuite/pull/1174) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [[Board] Fix PHP Warnings if a user wants to create a thread](https://github.com/lansuite/lansuite/pull/1173) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
+- [Fix #1131: Restrict display of PHP warnings to (Super-)Admins](https://github.com/lansuite/lansuite/pull/1172) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (today)
 
 ### 📝 My recent blog posts
 
