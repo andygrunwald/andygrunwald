@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (today)
 - [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fix #1138: Fix PHP Warnings in module usrmgr, when deleting a user](https://github.com/lansuite/lansuite/pull/1176) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fix #1130: Fix PHP Warnings in Wiki module](https://github.com/lansuite/lansuite/pull/1175) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 - [Fix #1128: Fix PHP Warnings in News module](https://github.com/lansuite/lansuite/pull/1174) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
-- [[Board] Fix PHP Warnings if a user wants to create a thread](https://github.com/lansuite/lansuite/pull/1173) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 days ago)
 
 ### 📝 My recent blog posts
 
