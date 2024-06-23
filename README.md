@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -32,9 +32,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (5 months ago)
-- [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (5 months ago)
-- [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (5 months ago)
+- [Book review on &#34;Atomic Habits&#34; by James Clear](https://andygrunwald.com/blog/book-review-on-atomic-habits-by-james-clear/) (5 years ago)
+- [Book review on &#34;Inspired: How to Create Tech Products Customers Love&#34; by Marty Cagan](https://andygrunwald.com/blog/book-review-on-inspired-how-to-create-tech-products-customers-love-by-marty-cagan/) (5 years ago)
+- [Book review on &#34;Rework&#34; by David Heinemeier Hansson and Jason Fried](https://andygrunwald.com/blog/book-review-on-rework-by-david-heinemeier-hansson-and-jason-fried/) (5 years ago)
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (5 months ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (2 years ago)
 
