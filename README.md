@@ -14,9 +14,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), today) - Github action for pruning old GHCR container image versions.
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.14.0](https://github.com/Aiven-Open/karapace/releases/tag/3.14.0), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 2 weeks ago) - The OICDB repository with all invoice collector recipes.
-- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v2.2.1](https://github.com/snok/container-retention-policy/releases/tag/v2.2.1), 6 months ago) - Github action for pruning old GHCR container image versions.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.0), 2 years ago) - Go client library for Atlassian Jira
 
