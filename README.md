@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (2 weeks ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
+- [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (today)
 
 ### 🔭 Latest releases I've contributed to
 
