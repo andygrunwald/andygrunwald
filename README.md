@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (3 weeks ago)
-- [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 weeks ago)
-- [Fix #1138: Fix PHP Warnings in module usrmgr, when deleting a user](https://github.com/lansuite/lansuite/pull/1176) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 weeks ago)
-- [Fix #1130: Fix PHP Warnings in Wiki module](https://github.com/lansuite/lansuite/pull/1175) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (4 weeks ago)
+- [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (4 weeks ago)
+- [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
+- [Fix #1138: Fix PHP Warnings in module usrmgr, when deleting a user](https://github.com/lansuite/lansuite/pull/1176) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
+- [Fix #1130: Fix PHP Warnings in Wiki module](https://github.com/lansuite/lansuite/pull/1175) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 
 ### 📝 My recent blog posts
 
