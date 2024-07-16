@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (5 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
+- [lansuite/lansuite](https://github.com/lansuite/lansuite) - A Content Management System designed especially for the needs of LAN-Parties (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.0](https://github.com/Aiven-Open/karapace/releases/tag/3.15.0), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.0](https://github.com/Aiven-Open/karapace/releases/tag/3.15.0), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 3 weeks ago) - GitHub action for pruning old GHCR container image versions.
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 1 month ago) - The OICDB repository with all invoice collector recipes.
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
-- [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (5 days ago)
+- [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
+- [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (6 days ago)
 - [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 month ago)
 - [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
