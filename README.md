@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 weeks ago)
-- [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
+- [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
+- [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (3 weeks ago)
+- [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
 - [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 month ago)
 - [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 
