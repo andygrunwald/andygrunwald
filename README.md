@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) - Ansible role for creating Systemd services for docker containers (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 3 days ago) - Karapace - Your Apache Kafka® essentials in one tool
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 4 days ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 1 month ago) - GitHub action for pruning old GHCR container image versions.
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 2 months ago) - The OICDB repository with all invoice collector recipes.
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 1 year ago) - Ansible role for creating Systemd services for docker containers
@@ -26,7 +26,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 - [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 - [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
-- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (1 month ago)
+- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (2 months ago)
 - [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 months ago)
 
 ### 📝 My recent blog posts
