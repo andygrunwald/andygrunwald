@@ -6,28 +6,28 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (2 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (2 days ago)
+- [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), today) - Ansible role for creating Systemd services for docker containers
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 1 month ago) - GitHub action for pruning old GHCR container image versions.
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta3](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta3), 2 months ago) - The OICDB repository with all invoice collector recipes.
-- [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.0](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.0), 1 year ago) - Ansible role for creating Systemd services for docker containers
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade to Go 1.23](https://github.com/andygrunwald/things-with-buzzers-websocket/pull/21) on [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) (today)
+- [Fix staticcheck](https://github.com/andygrunwald/dropbox-auto-cleaner/pull/31) on [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) (today)
 - [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 - [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
 - [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
-- [Switch `docker_image` to `community.docker.docker_image`](https://github.com/mhutter/ansible-docker-systemd-service/pull/64) on [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) (2 months ago)
-- [Fix #1129: Fix PHP Warning in News module when WYSIWYG editor is active](https://github.com/lansuite/lansuite/pull/1177) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (2 months ago)
 
 ### 📝 My recent blog posts
 
