@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (today)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Add hadolint](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/275) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
 - [GitHub Action: Add shellcheck](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/273) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
 - [Dependabot: Add docker support](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/272) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
-- [GitHub Action: Renamce check.yml to build.yml and update to `runs-on: ubuntu-22.04`](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/271) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
+- [GitHub Action: Rename check.yml to build.yml and update to `runs-on: ubuntu-22.04`](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/271) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
 - [Upgrade to Go 1.23](https://github.com/andygrunwald/things-with-buzzers-websocket/pull/21) on [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) (today)
-- [Fix staticcheck](https://github.com/andygrunwald/dropbox-auto-cleaner/pull/31) on [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) (today)
 
 ### 📝 My recent blog posts
 
