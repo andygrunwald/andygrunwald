@@ -8,8 +8,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
 - [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Action: Add shellcheck](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/273) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
+- [Dependabot: Add docker support](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/272) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
+- [GitHub Action: Renamce check.yml to build.yml and update to `runs-on: ubuntu-22.04`](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/271) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
 - [Upgrade to Go 1.23](https://github.com/andygrunwald/things-with-buzzers-websocket/pull/21) on [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) (today)
 - [Fix staticcheck](https://github.com/andygrunwald/dropbox-auto-cleaner/pull/31) on [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) (today)
-- [Revert &#34;Bump symfony/http-foundation from 6.4.8 to 7.1.1 (#1197)&#34;](https://github.com/lansuite/lansuite/pull/1202) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
-- [Revert &#34;Bump symfony/cache from 6.4.8 to 7.1.2&#34;](https://github.com/lansuite/lansuite/pull/1201) on [lansuite/lansuite](https://github.com/lansuite/lansuite) (1 month ago)
-- [Remove Google Podcast](https://github.com/EngineeringKiosk/webpage/pull/833) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
