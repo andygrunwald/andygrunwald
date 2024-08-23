@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.4](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.4), today) - The buchhalter ai command line tool written in go.
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), today) - The buchhalter ai command line tool written in go.
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), 4 days ago) - Ansible role for creating Systemd services for docker containers
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 2 months ago) - GitHub action for pruning old GHCR container image versions.
