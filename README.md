@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), today) - The OICDB repository with all invoice collector recipes.
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), 3 days ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
+- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 1 day ago) - The OICDB repository with all invoice collector recipes.
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), 4 days ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), 1 week ago) - Ansible role for creating Systemd services for docker containers
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 2 months ago) - GitHub action for pruning old GHCR container image versions.
