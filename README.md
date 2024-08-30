@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [andygrunwald/things-with-buzzers-websocket](https://github.com/andygrunwald/things-with-buzzers-websocket) - A WebSocket server to publish messages when someone pushed a hardware game show buzzer 🚀 (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix &#34;! LaTeX Error: Option clash for package babel.&#34;](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/276) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (today)
 - [OAuth2Token storage: Remove `Encrypted` from variable name](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/95) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [GitHub Actions: Add hadolint](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/275) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
 - [GitHub Action: Add shellcheck](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/273) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
 - [Dependabot: Add docker support](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/272) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
-- [GitHub Action: Rename check.yml to build.yml and update to `runs-on: ubuntu-22.04`](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/271) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
 
 ### 📝 My recent blog posts
 
