@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Fix &#34;! LaTeX Error: Option clash for package babel.&#34;](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/276) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (2 days ago)
 - [OAuth2Token storage: Remove `Encrypted` from variable name](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/95) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 - [GitHub Actions: Add hadolint](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/275) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
 - [GitHub Action: Add shellcheck](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/273) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
-- [Dependabot: Add docker support](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/272) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
 
 ### 📝 My recent blog posts
 
