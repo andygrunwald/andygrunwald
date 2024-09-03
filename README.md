@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [New Podcast: &#34;Data Science Deep Dive&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/306) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
-- [Fix &#34;! LaTeX Error: Option clash for package babel.&#34;](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/276) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (3 days ago)
-- [OAuth2Token storage: Remove `Encrypted` from variable name](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/95) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (3 days ago)
+- [New Podcast: &#34;Data Science Deep Dive&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/306) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
+- [Fix &#34;! LaTeX Error: Option clash for package babel.&#34;](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/276) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (4 days ago)
+- [OAuth2Token storage: Remove `Encrypted` from variable name](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/95) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (4 days ago)
 - [GitHub Actions: Add hadolint](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/275) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (2 weeks ago)
 
 ### 📝 My recent blog posts
