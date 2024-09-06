@@ -17,8 +17,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 1 week ago) - The OICDB repository with all invoice collector recipes.
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), 2 weeks ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), 2 weeks ago) - Ansible role for creating Systemd services for docker containers
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.15.1](https://github.com/Aiven-Open/karapace/releases/tag/3.15.1), 1 month ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 2 months ago) - GitHub action for pruning old GHCR container image versions.
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
 ### 🔨 Latest Pull Requests I published
 
