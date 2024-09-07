@@ -6,28 +6,28 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (5 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 1 week ago) - The OICDB repository with all invoice collector recipes.
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), 2 weeks ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.17.1](https://github.com/prometheus-community/ansible/releases/tag/0.17.1), 2 weeks ago) - Ansible Collection for Prometheus
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), 2 weeks ago) - Ansible role for creating Systemd services for docker containers
 - [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 2 months ago) - GitHub action for pruning old GHCR container image versions.
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v1.1.0](https://github.com/andygrunwald/vdf/releases/tag/v1.1.0), 2 years ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
 ### 🔨 Latest Pull Requests I published
 
 
+- [minor: bump support for ansible from v2.16.* to v2.17.*](https://github.com/prometheus-community/ansible/pull/414) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (today)
+- [Bump github.com/google/go-github from v52 to v64](https://github.com/dghubble/gologin/pull/286) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
 - [Remove Website attribute from speaker transcript allocation](https://github.com/EngineeringKiosk/webpage/pull/871) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [New Podcast: &#34;Data Science Deep Dive&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/306) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
 - [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (6 days ago)
-- [Fix &#34;! LaTeX Error: Option clash for package babel.&#34;](https://github.com/andygrunwald/FOM-LaTeX-Template/pull/276) on [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) (1 week ago)
-- [OAuth2Token storage: Remove `Encrypted` from variable name](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/95) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 
 ### 📝 My recent blog posts
 
