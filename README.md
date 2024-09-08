@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (5 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (6 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [minor: bump support for ansible from v2.16.* to v2.17.*](https://github.com/prometheus-community/ansible/pull/414) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (today)
-- [Bump github.com/google/go-github from v52 to v64](https://github.com/dghubble/gologin/pull/286) on [dghubble/gologin](https://github.com/dghubble/gologin) (today)
-- [Remove Website attribute from speaker transcript allocation](https://github.com/EngineeringKiosk/webpage/pull/871) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [New Podcast: &#34;Data Science Deep Dive&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/306) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
-- [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (6 days ago)
+- [minor: bump support for ansible from v2.16.* to v2.17.*](https://github.com/prometheus-community/ansible/pull/414) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (1 day ago)
+- [Bump github.com/google/go-github from v52 to v64](https://github.com/dghubble/gologin/pull/286) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 day ago)
+- [Remove Website attribute from speaker transcript allocation](https://github.com/EngineeringKiosk/webpage/pull/871) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [New Podcast: &#34;Data Science Deep Dive&#34;](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/306) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
+- [Error handling: Output errors via bubbletea and not via fmt.Println](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/97) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 
 ### 📝 My recent blog posts
 
