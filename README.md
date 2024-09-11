@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.16.0](https://github.com/Aiven-Open/karapace/releases/tag/3.16.0), today) - Karapace - Your Apache Kafka® essentials in one tool
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 2 weeks ago) - The OICDB repository with all invoice collector recipes.
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.7](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.7), 2 weeks ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.17.1](https://github.com/prometheus-community/ansible/releases/tag/0.17.1), 3 weeks ago) - Ansible Collection for Prometheus
 - [mhutter/ansible-docker-systemd-service](https://github.com/mhutter/ansible-docker-systemd-service) ([v2.10.1](https://github.com/mhutter/ansible-docker-systemd-service/releases/tag/v2.10.1), 3 weeks ago) - Ansible role for creating Systemd services for docker containers
-- [snok/container-retention-policy](https://github.com/snok/container-retention-policy) ([v3.0.0](https://github.com/snok/container-retention-policy/releases/tag/v3.0.0), 2 months ago) - GitHub action for pruning old GHCR container image versions.
 
 ### 🔨 Latest Pull Requests I published
 
