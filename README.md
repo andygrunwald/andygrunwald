@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [sync cmd: Move sendMetrics out of the event loop](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/107) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [sync cmd: Display errors that don&#39;t abort the program as normal UI actions](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/106) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [`sync` cmd: Rework view/ui layer to show actions that are performed](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/105) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [New cmd `buchhalter vault select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/104) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [Quit Chrome instance gracefully, if an abort signal is sent](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/103) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (5 days ago)
-- [minor: bump support for ansible from v2.16.* to v2.17.*](https://github.com/prometheus-community/ansible/pull/414) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (6 days ago)
 
 ### 📝 My recent blog posts
 
