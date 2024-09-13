@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [`sync` cmd: Rework view/ui layer to show actions that are performed](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/105) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [New cmd `buchhalter vault select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/104) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [Quit Chrome instance gracefully, if an abort signal is sent](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/103) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (5 days ago)
 - [minor: bump support for ansible from v2.16.* to v2.17.*](https://github.com/prometheus-community/ansible/pull/414) on [prometheus-community/ansible](https://github.com/prometheus-community/ansible) (6 days ago)
 - [Bump github.com/google/go-github from v52 to v64](https://github.com/dghubble/gologin/pull/286) on [dghubble/gologin](https://github.com/dghubble/gologin) (6 days ago)
-- [Remove Website attribute from speaker transcript allocation](https://github.com/EngineeringKiosk/webpage/pull/871) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
