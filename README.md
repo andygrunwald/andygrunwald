@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [BLun78/hoymiles_wifi](https://github.com/BLun78/hoymiles_wifi) - Go Client Lib for Hoymiles Wifi Inverter. (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade github.com/google/go-github from v63 to v64](https://github.com/palantir/go-githubapp/pull/383) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (today)
 - [Basic Code Review](https://github.com/BLun78/hoymiles_wifi/pull/1) on [BLun78/hoymiles_wifi](https://github.com/BLun78/hoymiles_wifi) (today)
 - [sync cmd: Move sendMetrics out of the event loop](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/107) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [sync cmd: Display errors that don&#39;t abort the program as normal UI actions](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/106) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [`sync` cmd: Rework view/ui layer to show actions that are performed](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/105) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
-- [New cmd `buchhalter vault select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/104) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 
 ### 📝 My recent blog posts
 
