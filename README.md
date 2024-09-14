@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Basic Code Review](https://github.com/BLun78/hoymiles_wifi/pull/1) on [BLun78/hoymiles_wifi](https://github.com/BLun78/hoymiles_wifi) (today)
 - [sync cmd: Move sendMetrics out of the event loop](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/107) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [sync cmd: Display errors that don&#39;t abort the program as normal UI actions](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/106) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [`sync` cmd: Rework view/ui layer to show actions that are performed](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/105) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [New cmd `buchhalter vault select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/104) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
-- [Quit Chrome instance gracefully, if an abort signal is sent](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/103) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (6 days ago)
 
 ### 📝 My recent blog posts
 
