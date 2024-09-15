@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [`sync` cmd: Move init operations into command logic to start Bubbletea application earlier](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/108) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Upgrade github.com/google/go-github from v63 to v64](https://github.com/palantir/go-githubapp/pull/383) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 day ago)
 - [Basic Code Review](https://github.com/BLun78/hoymiles_wifi/pull/1) on [BLun78/hoymiles_wifi](https://github.com/BLun78/hoymiles_wifi) (1 day ago)
 - [sync cmd: Move sendMetrics out of the event loop](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/107) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 - [sync cmd: Display errors that don&#39;t abort the program as normal UI actions](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/106) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
-- [`sync` cmd: Rework view/ui layer to show actions that are performed](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/105) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 
 ### 📝 My recent blog posts
 
