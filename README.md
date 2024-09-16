@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [`vault`: Let `GetHumanReadableErrorMessage` return a proper error](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/111) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
+- [`sync` cmd: Fix bug where oicdbVersion is sent as empty string as metric](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/110) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
+- [`sync` cmd: Remove global variable `ChromeVersion`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/109) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [`sync` cmd: Move init operations into command logic to start Bubbletea application earlier](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/108) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [Upgrade github.com/google/go-github from v63 to v64](https://github.com/palantir/go-githubapp/pull/383) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (2 days ago)
-- [Basic Code Review](https://github.com/BLun78/hoymiles_wifi/pull/1) on [BLun78/hoymiles_wifi](https://github.com/BLun78/hoymiles_wifi) (2 days ago)
-- [sync cmd: Move sendMetrics out of the event loop](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/107) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (3 days ago)
-- [sync cmd: Display errors that don&#39;t abort the program as normal UI actions](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/106) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (3 days ago)
 
 ### 📝 My recent blog posts
 
