@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Browser: Skip recipe if we encounter an error during a recipe browser run](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/117) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
+- [`sync` cmd: Distinguish between &#34;no recipes found&#34; and &#34;no credentials found&#34; in `loadRecipesAndMatchingVaultItems`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/116) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Remove obsolete TODO comments from codebase](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/115) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [`sync` cmd: Remove global variable `RunData`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/112) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [`vault`: Let `GetHumanReadableErrorMessage` return a proper error](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/111) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
-- [`sync` cmd: Fix bug where oicdbVersion is sent as empty string as metric](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/110) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
-- [`sync` cmd: Remove global variable `ChromeVersion`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/109) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 
 ### 📝 My recent blog posts
 
