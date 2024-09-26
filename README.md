@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Vault Configuration: Show Vault name instead of Vault ID in the UI](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/118) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Browser: Skip recipe if we encounter an error during a recipe browser run](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/117) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 - [`sync` cmd: Distinguish between &#34;no recipes found&#34; and &#34;no credentials found&#34; in `loadRecipesAndMatchingVaultItems`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/116) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 - [Remove obsolete TODO comments from codebase](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/115) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 - [`sync` cmd: Remove global variable `RunData`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/112) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
-- [`vault`: Let `GetHumanReadableErrorMessage` return a proper error](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/111) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 
 ### 📝 My recent blog posts
 
