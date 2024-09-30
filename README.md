@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 day ago)
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (4 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.18.0](https://github.com/prometheus-community/ansible/releases/tag/0.18.0), 1 week ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.19.0](https://github.com/prometheus-community/ansible/releases/tag/0.19.0), today) - Ansible Collection for Prometheus
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 1 week ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.29.0](https://github.com/palantir/go-githubapp/releases/tag/v0.29.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([3.16.0](https://github.com/Aiven-Open/karapace/releases/tag/3.16.0), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
