@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (4 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Update `runs-on`from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/EngineeringKiosk/webpage/pull/895) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [CI: Upgrade `runs-on` from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/sourcectl/webpage/pull/123) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (3 days ago)
 - [Vault Configuration: Show Vault name instead of Vault ID in the UI](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/118) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (4 days ago)
 - [Browser: Skip recipe if we encounter an error during a recipe browser run](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/117) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 - [`sync` cmd: Distinguish between &#34;no recipes found&#34; and &#34;no credentials found&#34; in `loadRecipesAndMatchingVaultItems`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/116) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
-- [Remove obsolete TODO comments from codebase](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/115) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
