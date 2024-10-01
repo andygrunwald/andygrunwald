@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) - Ansible Collection for Prometheus (1 day ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (5 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update dependencies: Ubuntu, Go, staticcheck, PHP, Python](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/128) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [GitHub Actions: Update `runs-on`from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/EngineeringKiosk/webpage/pull/895) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [CI: Upgrade `runs-on` from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/sourcectl/webpage/pull/123) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (4 days ago)
 - [Vault Configuration: Show Vault name instead of Vault ID in the UI](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/118) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (5 days ago)
 - [Browser: Skip recipe if we encounter an error during a recipe browser run](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/117) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
-- [`sync` cmd: Distinguish between &#34;no recipes found&#34; and &#34;no credentials found&#34; in `loadRecipesAndMatchingVaultItems`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/116) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
