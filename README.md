@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (1 day ago)
-- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (today)
+- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (today)
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (today)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/PodcastPipelines/pull/18) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (today)
+- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/.github/pull/7) on [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) (today)
+- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/OSS-Names/pull/11) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (today)
+- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/310) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Update dependencies: Ubuntu, Go, staticcheck, PHP, Python](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/128) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
-- [GitHub Actions: Update `runs-on`from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/EngineeringKiosk/webpage/pull/895) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [CI: Upgrade `runs-on` from `ubuntu-22.04` to `ubuntu-24.04`](https://github.com/sourcectl/webpage/pull/123) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (6 days ago)
-- [Vault Configuration: Show Vault name instead of Vault ID in the UI](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/118) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
-- [Browser: Skip recipe if we encounter an error during a recipe browser run](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/117) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
