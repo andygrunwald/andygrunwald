@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Gulp: Remove `&#39;./vendor/fonts/**&#39;` because this directory doesn&#39;t exists](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/93) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (today)
+- [Fix build](https://github.com/podigee/podigee-podcast-player/pull/111) on [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) (today)
 - [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/PodcastPipelines/pull/18) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (today)
 - [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/.github/pull/7) on [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) (today)
 - [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/OSS-Names/pull/11) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (today)
-- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/310) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Update dependencies: Ubuntu, Go, staticcheck, PHP, Python](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/128) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (2 days ago)
 
 ### 📝 My recent blog posts
 
