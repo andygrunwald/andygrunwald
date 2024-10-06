@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New buchhalter commands: `vault list`, `vault remove`, `vault select` and `vault add`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/122) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Gulp: Remove `&#39;./vendor/fonts/**&#39;` because this directory doesn&#39;t exists](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/93) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (3 days ago)
 - [Fix build](https://github.com/podigee/podigee-podcast-player/pull/111) on [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) (3 days ago)
 - [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/PodcastPipelines/pull/18) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (3 days ago)
 - [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/.github/pull/7) on [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) (3 days ago)
-- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/OSS-Names/pull/11) on [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) (3 days ago)
 
 ### 📝 My recent blog posts
 
