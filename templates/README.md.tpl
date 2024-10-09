@@ -25,11 +25,3 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 {{range rss "https://andygrunwald.com/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-### 📫 How to reach me
-
-- Twitter: [@andygrunwald](https://twitter.com/andygrunwald)
-- Website: [andygrunwald.com](https://andygrunwald.com)
-- Email: andygrunwald (at) gmail (dot) com
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/andygrunwald?label=Follow&style=social)](https://twitter.com/andygrunwald)
