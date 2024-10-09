@@ -32,16 +32,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [Book review on &#34;Atomic Habits&#34; by James Clear](https://andygrunwald.com/blog/book-review-on-atomic-habits-by-james-clear/) (5 years ago)
-- [Book review on &#34;Inspired: How to Create Tech Products Customers Love&#34; by Marty Cagan](https://andygrunwald.com/blog/book-review-on-inspired-how-to-create-tech-products-customers-love-by-marty-cagan/) (5 years ago)
-- [Book review on &#34;Rework&#34; by David Heinemeier Hansson and Jason Fried](https://andygrunwald.com/blog/book-review-on-rework-by-david-heinemeier-hansson-and-jason-fried/) (5 years ago)
-- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (9 months ago)
-- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (3 years ago)
-
-### 📫 How to reach me
-
-- Twitter: [@andygrunwald](https://twitter.com/andygrunwald)
-- Website: [andygrunwald.com](https://andygrunwald.com)
-- Email: andygrunwald (at) gmail (dot) com
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/andygrunwald?label=Follow&style=social)](https://twitter.com/andygrunwald)
+- [TYPO3-Analytics: Release of version v0.0.1](https://andygrunwald.com/blog/typo3-analytics-release-of-version-v001/) (10 years ago)
+- [TYPO3-Analytics is looking for a new name](https://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name-suggestions-welcome/) (10 years ago)
+- [The story of my bachelor thesis about Software Repository Mining](https://andygrunwald.com/blog/the-story-of-my-bachelor-thesis-about-software-repository-mining/) (10 years ago)
+- [TYPO3-Analytics: Release of version v0.1.0](https://andygrunwald.com/blog/typo3-analytics-release-of-version-v010/) (10 years ago)
+- [TYPO3-Analytics goes Jacobine](https://andygrunwald.com/blog/typo3-analytics-goes-jacobine/) (10 years ago)
