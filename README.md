@@ -5,18 +5,18 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (3 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (4 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 3 days ago) - Karapace - Your Apache Kafka® essentials in one tool
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 4 days ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.19.0](https://github.com/prometheus-community/ansible/releases/tag/0.19.0), 2 weeks ago) - Ansible Collection for Prometheus
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 3 weeks ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 4 weeks ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.29.0](https://github.com/palantir/go-githubapp/releases/tag/v0.29.0), 4 weeks ago) - A simple Go framework for building GitHub Apps
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 1 month ago) - The OICDB repository with all invoice collector recipes.
 
