@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.20.0](https://github.com/prometheus-community/ansible/releases/tag/0.20.0), today) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.20.1](https://github.com/prometheus-community/ansible/releases/tag/0.20.1), today) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), today) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 1 day ago) - A simple Go framework for building GitHub Apps
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 1 month ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
