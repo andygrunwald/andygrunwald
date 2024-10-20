@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (5 days ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (1 week ago)
-- [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Github Actions: Upgrade supported Go versions from 1.21, 1.22 to 1.22, 1.23](https://github.com/andygrunwald/go-gerrit/pull/172) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
+- [Github Actions: Fix Actions trigger on branch name](https://github.com/andygrunwald/go-gerrit/pull/171) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
+- [Github Actions: Upgrade `runs-on` image from ubuntu-22.04 to ubtuntu-24.04](https://github.com/andygrunwald/go-gerrit/pull/170) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [New buchhalter commands: `vault list`, `vault remove`, `vault select` and `vault add`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/122) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 - [Gulp: Remove `&#39;./vendor/fonts/**&#39;` because this directory doesn&#39;t exists](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/93) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (2 weeks ago)
-- [Fix build](https://github.com/podigee/podigee-podcast-player/pull/111) on [podigee/podigee-podcast-player](https://github.com/podigee/podigee-podcast-player) (2 weeks ago)
-- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/PodcastPipelines/pull/18) on [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) (2 weeks ago)
-- [GitHub Actions: Add automate workflow to merge dependabot updates automatically](https://github.com/EngineeringKiosk/.github/pull/7) on [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
