@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [mysqldump: Fix typo `--triggers` vs. `--trigger`](https://github.com/isotopp/isotopp.github.io/pull/182) on [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) (today)
 - [Upgrade Changelog for v1.0.0](https://github.com/andygrunwald/go-gerrit/pull/174) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Introduce goreleaser to make the release of a new version easier](https://github.com/andygrunwald/go-gerrit/pull/173) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Github Actions: Upgrade supported Go versions from 1.21, 1.22 to 1.22, 1.23](https://github.com/andygrunwald/go-gerrit/pull/172) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Github Actions: Fix Actions trigger on branch name](https://github.com/andygrunwald/go-gerrit/pull/171) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
-- [Github Actions: Upgrade `runs-on` image from ubuntu-22.04 to ubtuntu-24.04](https://github.com/andygrunwald/go-gerrit/pull/170) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 
 ### 📝 My recent blog posts
 
