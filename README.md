@@ -14,20 +14,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), today) - Go(lang) client/library for Gerrit Code Review
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.20.2](https://github.com/prometheus-community/ansible/releases/tag/0.20.2), 2 days ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 3 days ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 4 days ago) - A simple Go framework for building GitHub Apps
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 1 month ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 1 month ago) - The OICDB repository with all invoice collector recipes.
 
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade Changelog for v1.0.0](https://github.com/andygrunwald/go-gerrit/pull/174) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
+- [Introduce goreleaser to make the release of a new version easier](https://github.com/andygrunwald/go-gerrit/pull/173) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Github Actions: Upgrade supported Go versions from 1.21, 1.22 to 1.22, 1.23](https://github.com/andygrunwald/go-gerrit/pull/172) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Github Actions: Fix Actions trigger on branch name](https://github.com/andygrunwald/go-gerrit/pull/171) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [Github Actions: Upgrade `runs-on` image from ubuntu-22.04 to ubtuntu-24.04](https://github.com/andygrunwald/go-gerrit/pull/170) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
-- [New buchhalter commands: `vault list`, `vault remove`, `vault select` and `vault add`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/122) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
-- [Gulp: Remove `&#39;./vendor/fonts/**&#39;` because this directory doesn&#39;t exists](https://github.com/EngineeringKiosk/podigee-podcast-player/pull/93) on [EngineeringKiosk/podigee-podcast-player](https://github.com/EngineeringKiosk/podigee-podcast-player) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
