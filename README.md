@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (today)
 - [Sentry: Add support for `AttachStacktrace`](https://github.com/archdx/zerolog-sentry/pull/23) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (today)
 - [Add Dependabot to automatically update GitHub Actions and Go mod dependencies](https://github.com/archdx/zerolog-sentry/pull/22) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (today)
 - [mysqldump: Fix typo `--triggers` vs. `--trigger`](https://github.com/isotopp/isotopp.github.io/pull/182) on [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) (1 week ago)
 - [Upgrade Changelog for v1.0.0](https://github.com/andygrunwald/go-gerrit/pull/174) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
-- [Introduce goreleaser to make the release of a new version easier](https://github.com/andygrunwald/go-gerrit/pull/173) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
 
 ### 📝 My recent blog posts
 
