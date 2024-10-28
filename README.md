@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go(lang) client/library for Gerrit Code Review (1 week ago)
 - [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) - https://blog.koehntopp.info, previously named https://isotopp.github.io (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.21.0](https://github.com/prometheus-community/ansible/releases/tag/0.21.0), 2 days ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.21.0](https://github.com/prometheus-community/ansible/releases/tag/0.21.0), 3 days ago) - Ansible Collection for Prometheus
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 1 week ago) - Go(lang) client/library for Gerrit Code Review
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 1 week ago) - A simple Go framework for building GitHub Apps
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (today)
-- [Sentry: Add support for `AttachStacktrace`](https://github.com/archdx/zerolog-sentry/pull/23) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (today)
-- [Add Dependabot to automatically update GitHub Actions and Go mod dependencies](https://github.com/archdx/zerolog-sentry/pull/22) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (today)
+- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (1 day ago)
+- [Sentry: Add support for `AttachStacktrace`](https://github.com/archdx/zerolog-sentry/pull/23) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (1 day ago)
+- [Add Dependabot to automatically update GitHub Actions and Go mod dependencies](https://github.com/archdx/zerolog-sentry/pull/22) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (1 day ago)
 - [mysqldump: Fix typo `--triggers` vs. `--trigger`](https://github.com/isotopp/isotopp.github.io/pull/182) on [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) (1 week ago)
 - [Upgrade Changelog for v1.0.0](https://github.com/andygrunwald/go-gerrit/pull/174) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
 
