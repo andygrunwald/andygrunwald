@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (today)
+- [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (today)
 - [New page: Unsere aktuellen Werbepartner](https://github.com/EngineeringKiosk/webpage/pull/916) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (3 days ago)
 - [Sentry: Add support for `AttachStacktrace`](https://github.com/archdx/zerolog-sentry/pull/23) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (3 days ago)
-- [Add Dependabot to automatically update GitHub Actions and Go mod dependencies](https://github.com/archdx/zerolog-sentry/pull/22) on [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) (3 days ago)
-- [mysqldump: Fix typo `--triggers` vs. `--trigger`](https://github.com/isotopp/isotopp.github.io/pull/182) on [isotopp/isotopp.github.io](https://github.com/isotopp/isotopp.github.io) (1 week ago)
 
 ### 📝 My recent blog posts
 
