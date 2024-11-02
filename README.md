@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
