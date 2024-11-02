@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (1 day ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) - Sentry writer for zerolog logger (5 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) - Sentry writer for zerolog logger (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.22.0](https://github.com/prometheus-community/ansible/releases/tag/0.22.0), 1 day ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.22.0](https://github.com/prometheus-community/ansible/releases/tag/0.22.0), 2 days ago) - Ansible Collection for Prometheus
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 1 week ago) - Go client/library for Gerrit Code Review
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 days ago)
-- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (2 days ago)
-- [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (2 days ago)
-- [New page: Unsere aktuellen Werbepartner](https://github.com/EngineeringKiosk/webpage/pull/916) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (5 days ago)
+- [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 days ago)
+- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 days ago)
+- [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 days ago)
+- [New page: Unsere aktuellen Werbepartner](https://github.com/EngineeringKiosk/webpage/pull/916) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
+- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (6 days ago)
 
 ### 📝 My recent blog posts
 
