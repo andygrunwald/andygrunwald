@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [archdx/zerolog-sentry](https://github.com/archdx/zerolog-sentry) - Sentry writer for zerolog logger (6 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Data Science Deep Dive: Remove trailing whitespace](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/315) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 days ago)
 - [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 days ago)
 - [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 days ago)
 - [New page: Unsere aktuellen Werbepartner](https://github.com/EngineeringKiosk/webpage/pull/916) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [GitHub Actions: Rework Unit testing and Static analysis workflow](https://github.com/andygrunwald/zerolog-sentry/pull/7) on [andygrunwald/zerolog-sentry](https://github.com/andygrunwald/zerolog-sentry) (6 days ago)
 
 ### 📝 My recent blog posts
 
