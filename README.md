@@ -16,9 +16,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.22.0](https://github.com/prometheus-community/ansible/releases/tag/0.22.0), 6 days ago) - Ansible Collection for Prometheus
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 2 weeks ago) - Go client/library for Gerrit Code Review
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.0.0](https://github.com/Aiven-Open/karapace/releases/tag/4.0.0), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 1 month ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
+- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta4](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta4), 2 months ago) - The OICDB repository with all invoice collector recipes.
 
 ### 🔨 Latest Pull Requests I published
 
