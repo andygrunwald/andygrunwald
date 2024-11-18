@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.22.1](https://github.com/prometheus-community/ansible/releases/tag/0.22.1), 1 week ago) - Ansible Collection for Prometheus
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.0](https://github.com/prometheus-community/ansible/releases/tag/0.23.0), today) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 4 weeks ago) - Go client/library for Gerrit Code Review
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 1 month ago) - A simple Go framework for building GitHub Apps
