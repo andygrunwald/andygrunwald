@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (2 weeks ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (2 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (5 days ago)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (3 weeks ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -25,9 +25,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 - [Meetup: Fix Frontmatter](https://github.com/EngineeringKiosk/webpage/pull/929) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Data Science Deep Dive: Remove trailing whitespace](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/315) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 weeks ago)
-- [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
-- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 weeks ago)
-- [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (3 weeks ago)
+- [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (4 weeks ago)
+- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (4 weeks ago)
+- [Adding go-gerrit - Go cient library for Gerrit Code Review](https://github.com/avelino/awesome-go/pull/5465) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (4 weeks ago)
 
 ### 📝 My recent blog posts
 
