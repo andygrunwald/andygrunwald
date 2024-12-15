@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -17,7 +17,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.0](https://github.com/prometheus-community/ansible/releases/tag/0.23.0), 3 weeks ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 1 month ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 1 month ago) - Go client/library for Gerrit Code Review
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 1 month ago) - A simple Go framework for building GitHub Apps
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.30.0](https://github.com/palantir/go-githubapp/releases/tag/v0.30.0), 2 months ago) - A simple Go framework for building GitHub Apps
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 2 months ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 
 ### 🔨 Latest Pull Requests I published
