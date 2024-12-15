@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (today)
 - [Add Bluesky social account](https://github.com/EngineeringKiosk/webpage/pull/942) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Meetup: Fix Frontmatter](https://github.com/EngineeringKiosk/webpage/pull/929) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Data Science Deep Dive: Remove trailing whitespace](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/315) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 - [testing: Remove console output while running unit tests](https://github.com/andygrunwald/go-gerrit/pull/176) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
-- [Added vdf - A Lexer and Parser for Valves Data Format (known as vdf) written in Go](https://github.com/avelino/awesome-go/pull/5466) on [avelino/awesome-go](https://github.com/avelino/awesome-go) (1 month ago)
 
 ### 📝 My recent blog posts
 
