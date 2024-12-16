@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
