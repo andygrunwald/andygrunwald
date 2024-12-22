@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.31.0](https://github.com/palantir/go-githubapp/releases/tag/v0.31.0), 5 days ago) - A simple Go framework for building GitHub Apps
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.31.0](https://github.com/palantir/go-githubapp/releases/tag/v0.31.0), 6 days ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.0](https://github.com/prometheus-community/ansible/releases/tag/0.23.0), 1 month ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 1 month ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 2 months ago) - Go client/library for Gerrit Code Review
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (6 days ago)
+- [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 week ago)
 - [Add Bluesky social account](https://github.com/EngineeringKiosk/webpage/pull/942) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Meetup: Fix Frontmatter](https://github.com/EngineeringKiosk/webpage/pull/929) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Data Science Deep Dive: Remove trailing whitespace](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/315) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
@@ -35,5 +35,5 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (11 months ago)
 - [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (11 months ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (11 months ago)
-- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (11 months ago)
+- [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (1 year ago)
 - [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (3 years ago)
