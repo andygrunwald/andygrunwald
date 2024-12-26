@@ -5,20 +5,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 week ago)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2024-12-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2024-12-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.31.0](https://github.com/palantir/go-githubapp/releases/tag/v0.31.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.0](https://github.com/prometheus-community/ansible/releases/tag/0.23.0), 1 month ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 1 month ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.0.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.0.0), 2 months ago) - Go client/library for Gerrit Code Review
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) ([v0.0.1-alpha.8](https://github.com/buchhalter-ai/buchhalter-ai-cli/releases/tag/v0.0.1-alpha.8), 3 months ago) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration.
 
 ### 🔨 Latest Pull Requests I published
 
