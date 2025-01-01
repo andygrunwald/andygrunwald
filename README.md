@@ -6,10 +6,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -32,8 +32,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
+- [Why does storing two-factor authentication codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/) (today)
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (11 months ago)
 - [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (1 year ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (1 year ago)
 - [Cancel your meetings if you can live with the outcome](https://andygrunwald.com/blog/cancel-your-meetings-if-you-can-live-with-the-outcome/) (1 year ago)
-- [I can&#39;t wash my clothes without Open Source](https://andygrunwald.com/blog/i-cant-wash-my-clothes-without-open-source/) (3 years ago)
