@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (today)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [WIP: buchhalter vault add: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
+- [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [[GitHub Actions] Introduce Shellcheck to check bash code](https://github.com/community-scripts/ProxmoxVE/pull/1018) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
 - [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 weeks ago)
 - [Add Bluesky social account](https://github.com/EngineeringKiosk/webpage/pull/942) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
