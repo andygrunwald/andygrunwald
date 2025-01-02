@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (today)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 day ago)
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2024-12-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2024-12-31), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2024-12-31](https://github.com/community-scripts/ProxmoxVE/releases/tag/2024-12-31), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.31.0](https://github.com/palantir/go-githubapp/releases/tag/v0.31.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.0](https://github.com/prometheus-community/ansible/releases/tag/0.23.0), 1 month ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 1 month ago) - Karapace - Your Apache Kafka® essentials in one tool
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
-- [[GitHub Actions] Introduce Shellcheck to check bash code](https://github.com/community-scripts/ProxmoxVE/pull/1018) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
+- [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
+- [[GitHub Actions] Introduce Shellcheck to check bash code](https://github.com/community-scripts/ProxmoxVE/pull/1018) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 weeks ago)
 - [Add Bluesky social account](https://github.com/EngineeringKiosk/webpage/pull/942) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 - [Meetup: Fix Frontmatter](https://github.com/EngineeringKiosk/webpage/pull/929) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
@@ -32,7 +32,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [Why does storing two-factor authentication codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/) (today)
+- [Why does storing two-factor authentication codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/) (1 day ago)
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (11 months ago)
 - [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (1 year ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (1 year ago)
