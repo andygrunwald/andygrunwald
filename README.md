@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (today)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (2 days ago)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (3 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [`buchhalter connect`: Remove command - Got replaced by `buchhalter vault add/select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/135) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
+- [SaaS API Key: Use key that is configured with the respective vault](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/134) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Documents directory: Add Vault ID to path to split different vaults](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/133) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 - [[GitHub Actions] Introduce Shellcheck to check bash code](https://github.com/community-scripts/ProxmoxVE/pull/1018) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [`go get -u -f .`](https://github.com/andygrunwald/go-trending/pull/56) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (2 weeks ago)
-- [Add Bluesky social account](https://github.com/EngineeringKiosk/webpage/pull/942) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
