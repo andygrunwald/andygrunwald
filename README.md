@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New Script: Prometheus Alertmanager](https://github.com/community-scripts/ProxmoxVE/pull/1272) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [`buchhalter connect`: Remove command - Got replaced by `buchhalter vault add/select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/135) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 - [SaaS API Key: Use key that is configured with the respective vault](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/134) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 days ago)
 - [Documents directory: Add Vault ID to path to split different vaults](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/133) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (3 days ago)
 - [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (4 days ago)
-- [[GitHub Actions] Introduce Shellcheck to check bash code](https://github.com/community-scripts/ProxmoxVE/pull/1018) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 
 ### 📝 My recent blog posts
 
