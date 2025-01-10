@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update Prometheus &#43; Alertmanager: Unify scripts for easier maintenance](https://github.com/community-scripts/ProxmoxVE/pull/1402) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
+- [Visual Studio Code: Set Workspace recommended extensions](https://github.com/community-scripts/ProxmoxVE/pull/1398) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [New Script: Prometheus Alertmanager](https://github.com/community-scripts/ProxmoxVE/pull/1272) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 - [`buchhalter connect`: Remove command - Got replaced by `buchhalter vault add/select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/135) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 - [SaaS API Key: Use key that is configured with the respective vault](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/134) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
-- [Documents directory: Add Vault ID to path to split different vaults](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/133) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
-- [`buchhalter vault add`: Adding capability to add SaaS API key](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/132) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 
 ### 📝 My recent blog posts
 
