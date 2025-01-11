@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Prometheus: Fix installation via creating the service file](https://github.com/community-scripts/ProxmoxVE/pull/1416) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [Update Prometheus &#43; Alertmanager: Unify scripts for easier maintenance](https://github.com/community-scripts/ProxmoxVE/pull/1402) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [Visual Studio Code: Set Workspace recommended extensions](https://github.com/community-scripts/ProxmoxVE/pull/1398) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [New Script: Prometheus Alertmanager](https://github.com/community-scripts/ProxmoxVE/pull/1272) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
 - [`buchhalter connect`: Remove command - Got replaced by `buchhalter vault add/select`](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/135) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
-- [SaaS API Key: Use key that is configured with the respective vault](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/134) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 week ago)
 
 ### 📝 My recent blog posts
 
