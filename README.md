@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [GitHub Actions: Fix Shellsheck workflow to only run on changes `*.sh` files](https://github.com/community-scripts/ProxmoxVE/pull/1423) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [WIP: Github Actions: Fix &#34;Get changed files&#34; in Shellcheck workflow](https://github.com/community-scripts/ProxmoxVE/pull/1422) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [Prometheus: Fix installation via creating the service file](https://github.com/community-scripts/ProxmoxVE/pull/1416) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [Update Prometheus &#43; Alertmanager: Unify scripts for easier maintenance](https://github.com/community-scripts/ProxmoxVE/pull/1402) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [Visual Studio Code: Set Workspace recommended extensions](https://github.com/community-scripts/ProxmoxVE/pull/1398) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
-- [New Script: Prometheus Alertmanager](https://github.com/community-scripts/ProxmoxVE/pull/1272) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
 
 ### 📝 My recent blog posts
 
