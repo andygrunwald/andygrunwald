@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-01-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-01-19), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-01-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-01-19), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.32.0](https://github.com/palantir/go-githubapp/releases/tag/v0.32.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.1](https://github.com/prometheus-community/ansible/releases/tag/0.23.1), 2 weeks ago) - Ansible Collection for Prometheus
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.0](https://github.com/Aiven-Open/karapace/releases/tag/4.1.0), 2 months ago) - Karapace - Your Apache Kafka® essentials in one tool
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Grafana: Mark container as updateable](https://github.com/community-scripts/ProxmoxVE/pull/1603) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
+- [Grafana: Mark container as updateable](https://github.com/community-scripts/ProxmoxVE/pull/1603) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [GitHub Actions: Fix Shellsheck workflow to only run on changes `*.sh` files](https://github.com/community-scripts/ProxmoxVE/pull/1423) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [WIP: Github Actions: Fix &#34;Get changed files&#34; in Shellcheck workflow](https://github.com/community-scripts/ProxmoxVE/pull/1422) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Prometheus: Fix installation via creating the service file](https://github.com/community-scripts/ProxmoxVE/pull/1416) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
