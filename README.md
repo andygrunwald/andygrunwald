@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Logging Middleware: Add GitHub API Rate Limiting information](https://github.com/palantir/go-githubapp/pull/413) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (today)
 - [Extend `Rate` and Rate Limiting with `X-Ratelimit-Used` and `X-Ratelimit-Resource` headers](https://github.com/google/go-github/pull/3453) on [google/go-github](https://github.com/google/go-github) (today)
 - [Grafana: Mark container as updateable](https://github.com/community-scripts/ProxmoxVE/pull/1603) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 - [GitHub Actions: Fix Shellsheck workflow to only run on changes `*.sh` files](https://github.com/community-scripts/ProxmoxVE/pull/1423) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
 - [WIP: Github Actions: Fix &#34;Get changed files&#34; in Shellcheck workflow](https://github.com/community-scripts/ProxmoxVE/pull/1422) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
-- [Prometheus: Fix installation via creating the service file](https://github.com/community-scripts/ProxmoxVE/pull/1416) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
