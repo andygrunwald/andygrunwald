@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-01-23](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-01-23), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-01-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-01-24), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.1](https://github.com/Aiven-Open/karapace/releases/tag/4.1.1), 2 days ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.32.0](https://github.com/palantir/go-githubapp/releases/tag/v0.32.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.23.1](https://github.com/prometheus-community/ansible/releases/tag/0.23.1), 2 weeks ago) - Ansible Collection for Prometheus
