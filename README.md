@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Transcripts: Delete zip transcripts](https://github.com/EngineeringKiosk/webpage/pull/989) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Prometheus Proxmox VE Exporter: Set correct website slug](https://github.com/community-scripts/ProxmoxVE/pull/1961) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [Prometheus PVE Exporter: Add `--default-timeout=300` to pip install commands](https://github.com/community-scripts/ProxmoxVE/pull/1950) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [VSCode: Add Shellscript Syntax highlighting for *.func files](https://github.com/community-scripts/ProxmoxVE/pull/1948) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [New Script: Prometheus Proxmox VE Exporter](https://github.com/community-scripts/ProxmoxVE/pull/1805) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
-- [Logging Middleware: Add GitHub API Rate Limiting information](https://github.com/palantir/go-githubapp/pull/413) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 week ago)
 
 ### 📝 My recent blog posts
 
