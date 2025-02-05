@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [google/go-github](https://github.com/google/go-github) ([v69.0.0](https://github.com/google/go-github/releases/tag/v69.0.0), today) - Go library for accessing the GitHub v3 API
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.32.1](https://github.com/palantir/go-githubapp/releases/tag/v0.32.1), 1 day ago) - A simple Go framework for building GitHub Apps
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.24.1](https://github.com/prometheus-community/ansible/releases/tag/0.24.1), 6 days ago) - Ansible Collection for Prometheus
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta5](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta5), 1 week ago) - The OICDB repository with all invoice collector recipes.
-- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.1](https://github.com/Aiven-Open/karapace/releases/tag/4.1.1), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
 
 ### 🔨 Latest Pull Requests I published
 
