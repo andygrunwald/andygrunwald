@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New Script: Prometheus Paperless-NGX Exporter](https://github.com/community-scripts/ProxmoxVE/pull/2153) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (today)
 - [New Script: Apache Tika](https://github.com/community-scripts/ProxmoxVE/pull/2079) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [Paperless NGX: Mark it as updateable](https://github.com/community-scripts/ProxmoxVE/pull/2070) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 days ago)
 - [Transcripts: Delete zip transcripts](https://github.com/EngineeringKiosk/webpage/pull/989) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Prometheus Proxmox VE Exporter: Set correct website slug](https://github.com/community-scripts/ProxmoxVE/pull/1961) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
-- [Prometheus PVE Exporter: Add `--default-timeout=300` to pip install commands](https://github.com/community-scripts/ProxmoxVE/pull/1950) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 
 ### 📝 My recent blog posts
 
