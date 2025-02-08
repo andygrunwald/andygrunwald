@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/palantir/go-githubapp/pull/417) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (today)
+- [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/bradleyfalzon/ghinstallation/pull/142) on [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) (today)
 - [New Script: Prometheus Paperless-NGX Exporter](https://github.com/community-scripts/ProxmoxVE/pull/2153) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
 - [New Script: Apache Tika](https://github.com/community-scripts/ProxmoxVE/pull/2079) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (2 days ago)
 - [Paperless NGX: Mark it as updateable](https://github.com/community-scripts/ProxmoxVE/pull/2070) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (3 days ago)
-- [Transcripts: Delete zip transcripts](https://github.com/EngineeringKiosk/webpage/pull/989) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Prometheus Proxmox VE Exporter: Set correct website slug](https://github.com/community-scripts/ProxmoxVE/pull/1961) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 
 ### 📝 My recent blog posts
 
