@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Pass consume path and password file as function arguments](https://github.com/mahescho/paperless-ngx-rmpw/pull/4) on [mahescho/paperless-ngx-rmpw](https://github.com/mahescho/paperless-ngx-rmpw) (today)
+- [Logging: Change `print` messages to full sentence with detail information](https://github.com/mahescho/paperless-ngx-rmpw/pull/3) on [mahescho/paperless-ngx-rmpw](https://github.com/mahescho/paperless-ngx-rmpw) (today)
 - [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/palantir/go-githubapp/pull/417) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (3 days ago)
 - [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/bradleyfalzon/ghinstallation/pull/142) on [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) (3 days ago)
 - [New Script: Prometheus Paperless-NGX Exporter](https://github.com/community-scripts/ProxmoxVE/pull/2153) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
-- [New Script: Apache Tika](https://github.com/community-scripts/ProxmoxVE/pull/2079) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
-- [Paperless NGX: Mark it as updateable](https://github.com/community-scripts/ProxmoxVE/pull/2070) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (6 days ago)
 
 ### 📝 My recent blog posts
 
