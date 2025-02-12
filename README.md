@@ -5,20 +5,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 days ago)
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (4 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (2 weeks ago)
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.2](https://github.com/Aiven-Open/karapace/releases/tag/4.1.2), today) - Karapace - Your Apache Kafka® essentials in one tool
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-11](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-11), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.33.0](https://github.com/palantir/go-githubapp/releases/tag/v0.33.0), 4 days ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v69.0.0](https://github.com/google/go-github/releases/tag/v69.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.24.1](https://github.com/prometheus-community/ansible/releases/tag/0.24.1), 1 week ago) - Ansible Collection for Prometheus
-- [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) ([v0.0.1-beta5](https://github.com/oicdb/oicdb-repository/releases/tag/v0.0.1-beta5), 2 weeks ago) - The OICDB repository with all invoice collector recipes.
 
 ### 🔨 Latest Pull Requests I published
 
