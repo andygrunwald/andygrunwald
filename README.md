@@ -5,18 +5,18 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (today)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (1 day ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.25.0](https://github.com/prometheus-community/ansible/releases/tag/0.25.0), today) - Ansible Collection for Prometheus
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [google/go-github](https://github.com/google/go-github) ([v69.2.0](https://github.com/google/go-github/releases/tag/v69.2.0), 2 days ago) - Go library for accessing the GitHub v3 API
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.25.0](https://github.com/prometheus-community/ansible/releases/tag/0.25.0), 1 day ago) - Ansible Collection for Prometheus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-18), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [google/go-github](https://github.com/google/go-github) ([v69.2.0](https://github.com/google/go-github/releases/tag/v69.2.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.2](https://github.com/Aiven-Open/karapace/releases/tag/4.1.2), 1 week ago) - Karapace - Your Apache Kafka® essentials in one tool
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.33.0](https://github.com/palantir/go-githubapp/releases/tag/v0.33.0), 1 week ago) - A simple Go framework for building GitHub Apps
 
