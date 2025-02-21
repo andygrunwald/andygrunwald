@@ -6,9 +6,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (today)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (2 days ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Development: Fix ImageMagick policy.xml path in devcontainer setup](https://github.com/paperless-ngx/paperless-ngx/pull/9188) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (today)
 - [Upgrade github.com/bradleyfalzon/ghinstallation/v2 to v2.14.0](https://github.com/palantir/go-githubapp/pull/422) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (today)
 - [Pass consume path and password file as function arguments](https://github.com/mahescho/paperless-ngx-rmpw/pull/4) on [mahescho/paperless-ngx-rmpw](https://github.com/mahescho/paperless-ngx-rmpw) (1 week ago)
 - [Logging: Change `print` messages to full sentence with detail information](https://github.com/mahescho/paperless-ngx-rmpw/pull/3) on [mahescho/paperless-ngx-rmpw](https://github.com/mahescho/paperless-ngx-rmpw) (1 week ago)
 - [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/palantir/go-githubapp/pull/417) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 week ago)
-- [Upgrade `github.com/google/go-github` from v68 to v69](https://github.com/bradleyfalzon/ghinstallation/pull/142) on [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) (1 week ago)
 
 ### 📝 My recent blog posts
 
