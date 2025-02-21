@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New endpoint: Add support for `/api/status/`](https://github.com/hansmi/paperhooks/pull/44) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (today)
 - [New endpoint: Add support for `/api/statistics/`](https://github.com/hansmi/paperhooks/pull/43) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (today)
 - [New endpoint: Add support for `/api/remote_version/`](https://github.com/hansmi/paperhooks/pull/42) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (today)
 - [Make `go generate ./...` work, without installing global tooling](https://github.com/hansmi/paperhooks/pull/40) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (today)
 - [Development: Fix ImageMagick policy.xml path in devcontainer setup](https://github.com/paperless-ngx/paperless-ngx/pull/9188) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (today)
-- [Upgrade github.com/bradleyfalzon/ghinstallation/v2 to v2.14.0](https://github.com/palantir/go-githubapp/pull/422) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (today)
 
 ### 📝 My recent blog posts
 
