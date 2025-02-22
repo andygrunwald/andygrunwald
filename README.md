@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
+- [Add support for Statistics like total document count or number of documents per mime type](https://github.com/hansmi/prometheus-paperless-exporter/pull/56) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
 - [New endpoint: Add support for `/api/status/`](https://github.com/hansmi/paperhooks/pull/44) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (1 day ago)
 - [New endpoint: Add support for `/api/statistics/`](https://github.com/hansmi/paperhooks/pull/43) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (1 day ago)
 - [New endpoint: Add support for `/api/remote_version/`](https://github.com/hansmi/paperhooks/pull/42) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (1 day ago)
-- [Make `go generate ./...` work, without installing global tooling](https://github.com/hansmi/paperhooks/pull/40) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (1 day ago)
-- [Development: Fix ImageMagick policy.xml path in devcontainer setup](https://github.com/paperless-ngx/paperless-ngx/pull/9188) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 day ago)
 
 ### 📝 My recent blog posts
 
