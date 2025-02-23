@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
+- [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
 - [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 day ago)
 - [Add support for Statistics like total document count or number of documents per mime type](https://github.com/hansmi/prometheus-paperless-exporter/pull/56) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 day ago)
 - [New endpoint: Add support for `/api/status/`](https://github.com/hansmi/paperhooks/pull/44) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (2 days ago)
-- [New endpoint: Add support for `/api/statistics/`](https://github.com/hansmi/paperhooks/pull/43) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (2 days ago)
-- [New endpoint: Add support for `/api/remote_version/`](https://github.com/hansmi/paperhooks/pull/42) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (2 days ago)
 
 ### 📝 My recent blog posts
 
