@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Chore: cache remove version check response for 4h](https://github.com/paperless-ngx/paperless-ngx/pull/9229) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (today)
 - [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 days ago)
 - [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 days ago)
 - [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
 - [Add support for Statistics like total document count or number of documents per mime type](https://github.com/hansmi/prometheus-paperless-exporter/pull/56) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
-- [New endpoint: Add support for `/api/status/`](https://github.com/hansmi/paperhooks/pull/44) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (5 days ago)
 
 ### 📝 My recent blog posts
 
