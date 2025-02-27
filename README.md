@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (today)
 - [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (1 day ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (6 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (6 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update github.com/hansmi/paperhooks to v0.0.13](https://github.com/hansmi/prometheus-paperless-exporter/pull/64) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
 - [Chore: cache remove version check response for 4h](https://github.com/paperless-ngx/paperless-ngx/pull/9229) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 day ago)
 - [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
 - [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
 - [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
-- [Add support for Statistics like total document count or number of documents per mime type](https://github.com/hansmi/prometheus-paperless-exporter/pull/56) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
 
 ### 📝 My recent blog posts
 
