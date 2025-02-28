@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (today)
-- [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (6 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 day ago)
+- [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (2 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.14.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.14.0), 6 days ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-02-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-02-26), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.14.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.14.0), 1 week ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.25.0](https://github.com/prometheus-community/ansible/releases/tag/0.25.0), 1 week ago) - Ansible Collection for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v69.2.0](https://github.com/google/go-github/releases/tag/v69.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [Aiven-Open/karapace](https://github.com/Aiven-Open/karapace) ([4.1.2](https://github.com/Aiven-Open/karapace/releases/tag/4.1.2), 2 weeks ago) - Karapace - Your Apache Kafka® essentials in one tool
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Update github.com/hansmi/paperhooks to v0.0.13](https://github.com/hansmi/prometheus-paperless-exporter/pull/64) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
-- [Chore: cache remove version check response for 4h](https://github.com/paperless-ngx/paperless-ngx/pull/9229) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 day ago)
-- [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
-- [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 days ago)
-- [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
+- [Update github.com/hansmi/paperhooks to v0.0.13](https://github.com/hansmi/prometheus-paperless-exporter/pull/64) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 day ago)
+- [Chore: cache remove version check response for 4h](https://github.com/paperless-ngx/paperless-ngx/pull/9229) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (2 days ago)
+- [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
+- [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
+- [Add support for Remote Version (incl. update available)](https://github.com/hansmi/prometheus-paperless-exporter/pull/57) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (6 days ago)
 
 ### 📝 My recent blog posts
 
