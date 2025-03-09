@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [WIP: New tailwind try](https://github.com/andygrunwald/andygrunwald.com/pull/371) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [Update all non dependabot dependencies](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/145) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (1 day ago)
 - [Update github.com/hansmi/paperhooks to v0.0.13](https://github.com/hansmi/prometheus-paperless-exporter/pull/64) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 week ago)
 - [Chore: cache remove version check response for 4h](https://github.com/paperless-ngx/paperless-ngx/pull/9229) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 week ago)
 - [Update go dependencies](https://github.com/hansmi/prometheus-paperless-exporter/pull/59) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (2 weeks ago)
-- [Add support for Status (Database status, Index last trained, etc.)](https://github.com/hansmi/prometheus-paperless-exporter/pull/58) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
