@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (6 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
-- [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (2 weeks ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Metrics: Expose `X-Ratelimit-Used` and `X-Ratelimit-Reset` as metric](https://github.com/palantir/go-githubapp/pull/438) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (6 days ago)
 - [Prometheus PVE Exporter: Rightsizing RAM and Disk](https://github.com/community-scripts/ProxmoxVE/pull/3098) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [WIP: New tailwind try](https://github.com/andygrunwald/andygrunwald.com/pull/371) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [Update all non dependabot dependencies](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/145) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
-- [Update github.com/hansmi/paperhooks to v0.0.13](https://github.com/hansmi/prometheus-paperless-exporter/pull/64) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
