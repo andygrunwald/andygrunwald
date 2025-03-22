@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Remove dependency `golang.org/x/term` as it was only used in examples](https://github.com/andygrunwald/go-jira/pull/709) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Metrics: Expose `X-Ratelimit-Used` and `X-Ratelimit-Reset` as metric](https://github.com/palantir/go-githubapp/pull/438) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (6 days ago)
 - [Prometheus PVE Exporter: Rightsizing RAM and Disk](https://github.com/community-scripts/ProxmoxVE/pull/3098) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [WIP: New tailwind try](https://github.com/andygrunwald/andygrunwald.com/pull/371) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
-- [Update all non dependabot dependencies](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/145) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
