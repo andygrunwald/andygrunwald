@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (today)
-- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
+- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (1 day ago)
+- [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.7](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.7), today) - Paperless-ngx metrics for Prometheus
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-03-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-03-24), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.7](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.7), 1 day ago) - Paperless-ngx metrics for Prometheus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-03-24](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-03-24), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.34.0](https://github.com/palantir/go-githubapp/releases/tag/v0.34.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v70.0.0](https://github.com/google/go-github/releases/tag/v70.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ([v2.15.0-beta.rc1](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.15.0-beta.rc1), 1 week ago) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [CI: Create one off label jobs to re-iterate over all PRs](https://github.com/andygrunwald/go-jira/pull/711) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [Remove dependency `golang.org/x/term` as it was only used in examples](https://github.com/andygrunwald/go-jira/pull/709) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
+- [CI: Create one off label jobs to re-iterate over all PRs](https://github.com/andygrunwald/go-jira/pull/711) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
+- [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
+- [Remove dependency `golang.org/x/term` as it was only used in examples](https://github.com/andygrunwald/go-jira/pull/709) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
+- [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 days ago)
 - [Metrics: Expose `X-Ratelimit-Used` and `X-Ratelimit-Reset` as metric](https://github.com/palantir/go-githubapp/pull/438) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 week ago)
 
 ### 📝 My recent blog posts
