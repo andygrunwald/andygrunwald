@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [CI: Add golangci-lint](https://github.com/andygrunwald/go-jira/pull/712) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [CI: Create one off label jobs to re-iterate over all PRs](https://github.com/andygrunwald/go-jira/pull/711) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [Remove dependency `golang.org/x/term` as it was only used in examples](https://github.com/andygrunwald/go-jira/pull/709) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
 - [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [Metrics: Expose `X-Ratelimit-Used` and `X-Ratelimit-Reset` as metric](https://github.com/palantir/go-githubapp/pull/438) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 week ago)
 
 ### 📝 My recent blog posts
 
