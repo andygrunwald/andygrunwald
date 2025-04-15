@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
-- [andygrunwald/TrendingGithub](https://github.com/andygrunwald/TrendingGithub) - A twitter bot (@TrendingGithub) to tweet trending repositories and developers from GitHub (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove Code and Ship Podcast, as this doesn&#39;t exist anymore (RSS feed down)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/333) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [go mod tidy, upgrade Go and PHP version](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/161) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (today)
 - [CI: Add golangci-lint](https://github.com/andygrunwald/go-jira/pull/712) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 - [CI: Create one off label jobs to re-iterate over all PRs](https://github.com/andygrunwald/go-jira/pull/711) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
 - [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
-- [Remove dependency `golang.org/x/term` as it was only used in examples](https://github.com/andygrunwald/go-jira/pull/709) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
-- [CI: Update Go-Versions, fix Go-Version matrix, update staticcheck and reconfigure Pull Request Labeling](https://github.com/andygrunwald/go-jira/pull/707) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
