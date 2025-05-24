@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (2 weeks ago)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (3 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [npm prune](https://github.com/EngineeringKiosk/webpage/pull/1063) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Remove Code and Ship Podcast, as this doesn&#39;t exist anymore (RSS feed down)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/333) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 - [go mod tidy, upgrade Go and PHP version](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/161) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (1 month ago)
 - [CI: Add golangci-lint](https://github.com/andygrunwald/go-jira/pull/712) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 month ago)
 - [CI: Create one off label jobs to re-iterate over all PRs](https://github.com/andygrunwald/go-jira/pull/711) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 months ago)
-- [CI: Switch Github action to label PRs with merge conflict](https://github.com/andygrunwald/go-jira/pull/710) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 months ago)
 
 ### 📝 My recent blog posts
 
