@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update golangci/golangci-lint-action](https://github.com/buchhalter-ai/buchhalter-ai-cli/pull/156) on [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) (today)
 - [Fix #640: Transform Images of Meetup section to &lt;Image&gt;-Component](https://github.com/EngineeringKiosk/webpage/pull/1064) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [npm prune](https://github.com/EngineeringKiosk/webpage/pull/1063) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Remove Code and Ship Podcast, as this doesn&#39;t exist anymore (RSS feed down)](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/333) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 - [go mod tidy, upgrade Go and PHP version](https://github.com/andygrunwald/your-connection-deserves-a-name/pull/161) on [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) (1 month ago)
-- [CI: Add golangci-lint](https://github.com/andygrunwald/go-jira/pull/712) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 months ago)
 
 ### 📝 My recent blog posts
 
