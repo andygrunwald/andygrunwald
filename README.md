@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 - [oicdb/oicdb-repository](https://github.com/oicdb/oicdb-repository) - The OICDB repository with all invoice collector recipes. (1 week ago)
 - [buchhalter-ai/buchhalter-ai-cli](https://github.com/buchhalter-ai/buchhalter-ai-cli) - The buchhalter open-source command line tool to automate invoice downloads from suppliers. Free, customizable, and designed for seamless financial workflow integration. (1 week ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
