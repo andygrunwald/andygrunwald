@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ([v2.17.0](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.17.0), today) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ([v2.17.1](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.17.1), today) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-06-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-06-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.26.3](https://github.com/prometheus-community/ansible/releases/tag/0.26.3), 1 week ago) - Ansible Collection for Prometheus
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.16.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.16.0), 2 weeks ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
