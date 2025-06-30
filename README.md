@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-06-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-06-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [google/go-github](https://github.com/google/go-github) ([v73.0.0](https://github.com/google/go-github/releases/tag/v73.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-06-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-06-28), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [google/go-github](https://github.com/google/go-github) ([v73.0.0](https://github.com/google/go-github/releases/tag/v73.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) ([v2.17.1](https://github.com/paperless-ngx/paperless-ngx/releases/tag/v2.17.1), 1 week ago) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.26.3](https://github.com/prometheus-community/ansible/releases/tag/0.26.3), 2 weeks ago) - Ansible Collection for Prometheus
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.16.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.16.0), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
@@ -32,7 +32,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 📝 My recent blog posts
 
 
-- [Why does storing two-factor authentication codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/) (5 months ago)
+- [Why does storing two-factor authentication codes in your password manager make sense?](https://andygrunwald.com/blog/why-does-storing-two-factor-authentication-codes-in-your-password-manager-make-sense/) (6 months ago)
 - [Lessons learned from running a local tech meetup for 11 years](https://andygrunwald.com/blog/lessons-learned-from-running-a-local-tech-meetup-for-11-years/) (1 year ago)
 - [My alltime-high articles](https://andygrunwald.com/blog/my-all-time-high-articles/) (2 years ago)
 - [Run your Continuous Integration every day](https://andygrunwald.com/blog/run-your-continuous-integration-every-day/) (2 years ago)
