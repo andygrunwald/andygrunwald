@@ -14,10 +14,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.27.0](https://github.com/prometheus-community/ansible/releases/tag/0.27.0), today) - Ansible Collection for Prometheus
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-07-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-07-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.37.0](https://github.com/palantir/go-githubapp/releases/tag/v0.37.0), 5 days ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v73.0.0](https://github.com/google/go-github/releases/tag/v73.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.26.3](https://github.com/prometheus-community/ansible/releases/tag/0.26.3), 3 weeks ago) - Ansible Collection for Prometheus
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.16.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.16.0), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 
 ### 🔨 Latest Pull Requests I published
