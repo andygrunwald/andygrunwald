@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
