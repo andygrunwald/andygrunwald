@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New podcast: BuzzZoom](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/349) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Update dependencies and fix CI build](https://github.com/andygrunwald/go-gerrit/pull/192) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
 - [New Podcast: Faxinformatiker](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/343) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 - [New Podcast: Devs on Tape](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/342) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
 - [New Podcast: Silicon Weekly](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/341) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 month ago)
-- [Tailwind upgrade v4](https://github.com/EngineeringKiosk/webpage/pull/1074) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 months ago)
 
 ### 📝 My recent blog posts
 
