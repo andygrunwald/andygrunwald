@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix Deprecation of JQL search and Evaluate expression endpoints](https://github.com/andygrunwald/go-jira/pull/724) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Logging middleware: Fix invalid memory address panic if response is nil](https://github.com/palantir/go-githubapp/pull/471) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (6 days ago)
 - [Upgrade Go to v1.25](https://github.com/andygrunwald/go-gerrit/pull/195) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
 - [New podcast: BuzzZoom](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/349) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 - [Update dependencies and fix CI build](https://github.com/andygrunwald/go-gerrit/pull/192) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
-- [New Podcast: Faxinformatiker](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/343) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 months ago)
 
 ### 📝 My recent blog posts
 
