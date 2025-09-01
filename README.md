@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (5 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove `rtlplus` from frontmatter attribute](https://github.com/EngineeringKiosk/webpage/pull/1102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Remove transcription scripts](https://github.com/EngineeringKiosk/webpage/pull/1100) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix Deprecation of JQL search and Evaluate expression endpoints](https://github.com/andygrunwald/go-jira/pull/724) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (5 days ago)
 - [Logging middleware: Fix invalid memory address panic if response is nil](https://github.com/palantir/go-githubapp/pull/471) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (1 week ago)
 - [Upgrade Go to v1.25](https://github.com/andygrunwald/go-gerrit/pull/195) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (2 weeks ago)
-- [New podcast: BuzzZoom](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/349) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 weeks ago)
-- [Update dependencies and fix CI build](https://github.com/andygrunwald/go-gerrit/pull/192) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 month ago)
 
 ### 📝 My recent blog posts
 
