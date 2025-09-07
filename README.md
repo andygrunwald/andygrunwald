@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
-- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (5 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove gopkg.in/yaml.v2 and replaced with gopkg.in/yaml.v3](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/355) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [Upgrade Go dependencies and Go version](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/354) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Remove `rtlplus` from frontmatter attribute](https://github.com/EngineeringKiosk/webpage/pull/1102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Remove transcription scripts](https://github.com/EngineeringKiosk/webpage/pull/1100) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Fix Deprecation of JQL search and Evaluate expression endpoints](https://github.com/andygrunwald/go-jira/pull/724) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [Logging middleware: Fix invalid memory address panic if response is nil](https://github.com/palantir/go-githubapp/pull/471) on [palantir/go-githubapp](https://github.com/palantir/go-githubapp) (2 weeks ago)
-- [Upgrade Go to v1.25](https://github.com/andygrunwald/go-gerrit/pull/195) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
