@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
-- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (6 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (6 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (6 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix #715: Add `IssueService.SearchV2JQL()` to enable search via JQL](https://github.com/andygrunwald/go-jira/pull/731) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Remove gopkg.in/yaml.v2 and replaced with gopkg.in/yaml.v3](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/355) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 - [Upgrade Go dependencies and Go version](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/354) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (6 days ago)
 - [Remove `rtlplus` from frontmatter attribute](https://github.com/EngineeringKiosk/webpage/pull/1102) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Remove transcription scripts](https://github.com/EngineeringKiosk/webpage/pull/1100) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Fix Deprecation of JQL search and Evaluate expression endpoints](https://github.com/andygrunwald/go-jira/pull/724) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
