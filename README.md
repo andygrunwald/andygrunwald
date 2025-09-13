@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.1), today) - Go client library for Atlassian Jira
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.27.3](https://github.com/prometheus-community/ansible/releases/tag/0.27.3), 2 weeks ago) - Ansible Collection for Prometheus
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.38.1](https://github.com/palantir/go-githubapp/releases/tag/v0.38.1), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v74.0.0](https://github.com/google/go-github/releases/tag/v74.0.0), 1 month ago) - Go library for accessing the GitHub v3 API
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.0), 2 months ago) - Go client/library for Gerrit Code Review
 
 ### 🔨 Latest Pull Requests I published
 
