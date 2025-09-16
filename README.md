@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (today)
+- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Upgraded github.com/google/go-cmp (v0.5.8 =&gt; v0.7.0), go (1.15 =&gt; 1.21), github.com/golang-jwt/jwt/v4 (v4.4.2 =&gt; v4.5.2), upgrade Github Actions, remove `ioutil` package and get Continuous Integration working again](https://github.com/andygrunwald/go-jira/pull/735) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
-- [Add method `rtm.test.login`](https://github.com/andygrunwald/go-rememberthemilk/pull/2) on [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) (1 day ago)
-- [Upgrade NodeJS from v20.5 to v22.19.0](https://github.com/EngineeringKiosk/webpage/pull/1122) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Programmier.con partner page](https://github.com/EngineeringKiosk/webpage/pull/1119) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix #715: Add `IssueService.SearchV2JQL()` to enable search via JQL](https://github.com/andygrunwald/go-jira/pull/731) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
+- [New Game: shapez](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/6) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: Human Resource Machine](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/5) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: 7 Billion Humans](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/4) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: Sid Meier&#39;s Civilization IV](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/3) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New game: TIS-100](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/2) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 
 ### 📝 My recent blog posts
 
