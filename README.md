@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgraded github.com/google/go-cmp (v0.5.8 =&gt; v0.7.0), go (1.15 =&gt; 1.21), github.com/golang-jwt/jwt/v4 (v4.4.2 =&gt; v4.5.2)](https://github.com/andygrunwald/go-jira/pull/735) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Add method `rtm.test.login`](https://github.com/andygrunwald/go-rememberthemilk/pull/2) on [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) (1 day ago)
 - [Upgrade NodeJS from v20.5 to v22.19.0](https://github.com/EngineeringKiosk/webpage/pull/1122) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Programmier.con partner page](https://github.com/EngineeringKiosk/webpage/pull/1119) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Fix #715: Add `IssueService.SearchV2JQL()` to enable search via JQL](https://github.com/andygrunwald/go-jira/pull/731) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 days ago)
-- [Remove gopkg.in/yaml.v2 and replaced with gopkg.in/yaml.v3](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/355) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
 ### 📝 My recent blog posts
 
