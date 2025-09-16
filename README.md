@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
+- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (today)
+- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [New Game: Net.Attack()](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/10) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: Factorio](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/9) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: Satisfactory](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/8) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [New Game: shapez 2](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/7) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [New Game: shapez](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/6) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [New Game: Human Resource Machine](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/5) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [New Game: 7 Billion Humans](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/4) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [New Game: Sid Meier&#39;s Civilization IV](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/3) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [New game: TIS-100](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/2) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 
 ### 📝 My recent blog posts
 
