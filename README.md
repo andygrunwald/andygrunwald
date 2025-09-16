@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.17.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.17.0), today) - Go client library for Atlassian Jira
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-15](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-15), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.16.1](https://github.com/andygrunwald/go-jira/releases/tag/v1.16.1), 3 days ago) - Go client library for Atlassian Jira
 - [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.27.3](https://github.com/prometheus-community/ansible/releases/tag/0.27.3), 2 weeks ago) - Ansible Collection for Prometheus
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.38.1](https://github.com/palantir/go-githubapp/releases/tag/v0.38.1), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v74.0.0](https://github.com/google/go-github/releases/tag/v74.0.0), 1 month ago) - Go library for accessing the GitHub v3 API
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Upgraded github.com/google/go-cmp (v0.5.8 =&gt; v0.7.0), go (1.15 =&gt; 1.21), github.com/golang-jwt/jwt/v4 (v4.4.2 =&gt; v4.5.2)](https://github.com/andygrunwald/go-jira/pull/735) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
+- [Upgraded github.com/google/go-cmp (v0.5.8 =&gt; v0.7.0), go (1.15 =&gt; 1.21), github.com/golang-jwt/jwt/v4 (v4.4.2 =&gt; v4.5.2), upgrade Github Actions, remove `ioutil` package and get Continuous Integration working again](https://github.com/andygrunwald/go-jira/pull/735) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (today)
 - [Add method `rtm.test.login`](https://github.com/andygrunwald/go-rememberthemilk/pull/2) on [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) (1 day ago)
 - [Upgrade NodeJS from v20.5 to v22.19.0](https://github.com/EngineeringKiosk/webpage/pull/1122) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Programmier.con partner page](https://github.com/EngineeringKiosk/webpage/pull/1119) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
