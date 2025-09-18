@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add support to add manual information if a game is not on steam](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/13) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [Github Actions: Add new (extended) testing workflow](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/12) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [New Game: Net.Attack()](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/10) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (2 days ago)
 - [New Game: Factorio](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/9) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (2 days ago)
 - [New Game: Satisfactory](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/8) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (2 days ago)
-- [New Game: shapez 2](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/7) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (2 days ago)
 
 ### 📝 My recent blog posts
 
