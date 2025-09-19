@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
+- [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/go-rememberthemilk](https://github.com/andygrunwald/go-rememberthemilk) - Go SDK / Client library for Remember The Milk (To-do list and task management) (3 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Github Actions: Improve testing workflow](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/356) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [New Game: JOY OF PROGRAMMING - Software Engineering Simulator](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/16) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [New Game: Add SHENZHEN I/O](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/15) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [Support genre file for games (for SEO descriptions)](https://github.com/EngineeringKiosk/webpage/pull/1125) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Python sync games support local images](https://github.com/EngineeringKiosk/webpage/pull/1124) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Add data sync &#43; page content for `awesome-software-engineering-games`](https://github.com/EngineeringKiosk/webpage/pull/1123) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
