@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.38.2](https://github.com/palantir/go-githubapp/releases/tag/v0.38.2), today) - A simple Go framework for building GitHub Apps
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), today) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-09-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-09-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [google/go-github](https://github.com/google/go-github) ([v75.0.0](https://github.com/google/go-github/releases/tag/v75.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.17.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.17.0), 1 week ago) - Go client library for Atlassian Jira
-- [prometheus-community/ansible](https://github.com/prometheus-community/ansible) ([0.27.3](https://github.com/prometheus-community/ansible/releases/tag/0.27.3), 1 month ago) - Ansible Collection for Prometheus
 
 ### 🔨 Latest Pull Requests I published
 
