@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Client: Extend Status endpoint with Celery and SanityCheck fields](https://github.com/hansmi/paperhooks/pull/70) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (today)
 - [Show Best-Of Episodes on linktree](https://github.com/EngineeringKiosk/webpage/pull/1139) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1138) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1137) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
 - [Github Actions: Improve testing workflow](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/356) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 weeks ago)
-- [New Game: JOY OF PROGRAMMING - Software Engineering Simulator](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/16) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
