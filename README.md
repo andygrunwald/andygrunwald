@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add Christoph, Miri, Romedius and Tim to &#34;About us&#34; pages  @andygrunwald](https://github.com/EngineeringKiosk/webpage/pull/1147) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Remote Version: Add async polling to speed up the scraping /metrics endpoint](https://github.com/hansmi/prometheus-paperless-exporter/pull/102) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 week ago)
 - [Add functionality to enable only a specific set of collectors](https://github.com/hansmi/prometheus-paperless-exporter/pull/101) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 week ago)
 - [Client: Extend Status endpoint with Celery and SanityCheck fields](https://github.com/hansmi/paperhooks/pull/70) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (1 week ago)
 - [Show Best-Of Episodes on linktree](https://github.com/EngineeringKiosk/webpage/pull/1139) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1138) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
