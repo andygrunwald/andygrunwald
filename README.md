@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (1 week ago)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 week ago)
@@ -14,10 +14,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-10-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-10-27), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-10-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-10-27), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [google/go-github](https://github.com/google/go-github) ([v76.0.0](https://github.com/google/go-github/releases/tag/v76.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.38.2](https://github.com/palantir/go-githubapp/releases/tag/v0.38.2), 4 weeks ago) - A simple Go framework for building GitHub Apps
-- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 4 weeks ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.38.2](https://github.com/palantir/go-githubapp/releases/tag/v0.38.2), 1 month ago) - A simple Go framework for building GitHub Apps
+- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.17.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.17.0), 1 month ago) - Go client library for Atlassian Jira
 
 ### 🔨 Latest Pull Requests I published
