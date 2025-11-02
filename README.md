@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (2 weeks ago)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1155) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1148) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Add Christoph, Miri, Romedius and Tim to &#34;About us&#34; pages  @andygrunwald](https://github.com/EngineeringKiosk/webpage/pull/1147) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Remote Version: Add async polling to speed up the scraping /metrics endpoint](https://github.com/hansmi/prometheus-paperless-exporter/pull/102) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 - [Add functionality to enable only a specific set of collectors](https://github.com/hansmi/prometheus-paperless-exporter/pull/101) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
-- [Client: Extend Status endpoint with Celery and SanityCheck fields](https://github.com/hansmi/paperhooks/pull/70) on [hansmi/paperhooks](https://github.com/hansmi/paperhooks) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
