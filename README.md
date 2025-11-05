@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (1 day ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (1 day ago)
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (2 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (5 days ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
-- [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Update paperhooks v0.0.15 &#43; Exposing Status.SanityCheckStatus and Status.SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/107) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1155) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1148) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Add Christoph, Miri, Romedius and Tim to &#34;About us&#34; pages  @andygrunwald](https://github.com/EngineeringKiosk/webpage/pull/1147) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Remote Version: Add async polling to speed up the scraping /metrics endpoint](https://github.com/hansmi/prometheus-paperless-exporter/pull/102) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
-- [Add functionality to enable only a specific set of collectors](https://github.com/hansmi/prometheus-paperless-exporter/pull/101) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
