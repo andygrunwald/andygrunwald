@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Status: Exposing SanityCheckStatus and SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/108) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (today)
 - [Update paperhooks v0.0.15 &#43; Exposing Status.SanityCheckStatus and Status.SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/107) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (5 days ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1155) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1148) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Add Christoph, Miri, Romedius and Tim to &#34;About us&#34; pages  @andygrunwald](https://github.com/EngineeringKiosk/webpage/pull/1147) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
-- [Remote Version: Add async polling to speed up the scraping /metrics endpoint](https://github.com/hansmi/prometheus-paperless-exporter/pull/102) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (4 weeks ago)
 
 ### 📝 My recent blog posts
 
