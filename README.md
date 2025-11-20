@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 week ago)
@@ -14,9 +14,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 2 days ago) - A simple Go framework for building GitHub Apps
-- [google/go-github](https://github.com/google/go-github) ([v79.0.0](https://github.com/google/go-github/releases/tag/v79.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-11-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-11-18), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 3 days ago) - A simple Go framework for building GitHub Apps
+- [google/go-github](https://github.com/google/go-github) ([v79.0.0](https://github.com/google/go-github/releases/tag/v79.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 1 month ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.17.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.17.0), 2 months ago) - Go client library for Atlassian Jira
 
