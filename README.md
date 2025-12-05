@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Introduce golangci-lint as an additional linter](https://github.com/andygrunwald/go-gerrit/pull/199) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
 - [`go get -u ./...` &amp;&amp; `go mod tidy`](https://github.com/hansmi/prometheus-paperless-exporter/pull/109) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 - [Status: Exposing SanityCheckStatus and SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/108) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 - [Update paperhooks v0.0.15 &#43; Exposing Status.SanityCheckStatus and Status.SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/107) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 month ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1155) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1148) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 month ago)
 
 ### 📝 My recent blog posts
 
