@@ -5,20 +5,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (3 weeks ago)
-- [hansmi/paperhooks](https://github.com/hansmi/paperhooks) - Hook toolkit for Paperless-ngx with a REST API client in written Go (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), today) - Go client/library for Gerrit Code Review
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 2 months ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) ([v1.17.0](https://github.com/andygrunwald/go-jira/releases/tag/v1.17.0), 2 months ago) - Go client library for Atlassian Jira
 
 ### 🔨 Latest Pull Requests I published
 
