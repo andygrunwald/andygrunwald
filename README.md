@@ -5,26 +5,26 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), today) - Go client/library for Gerrit Code Review
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), 1 day ago) - Go client/library for Gerrit Code Review
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-04), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 2 months ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Deep update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/369) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Introduce golangci-lint as an additional linter](https://github.com/andygrunwald/go-gerrit/pull/199) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (today)
+- [Deep update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/369) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
+- [Introduce golangci-lint as an additional linter](https://github.com/andygrunwald/go-gerrit/pull/199) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 day ago)
 - [`go get -u ./...` &amp;&amp; `go mod tidy`](https://github.com/hansmi/prometheus-paperless-exporter/pull/109) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 - [Status: Exposing SanityCheckStatus and SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/108) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (3 weeks ago)
 - [Update paperhooks v0.0.15 &#43; Exposing Status.SanityCheckStatus and Status.SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/107) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 month ago)
