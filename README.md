@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), today) - Paperless-ngx metrics for Prometheus
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-07), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), 3 days ago) - Go client/library for Gerrit Code Review
 - [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 4 days ago) - Go library for accessing the GitHub v3 API
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
-- [bradleyfalzon/ghinstallation](https://github.com/bradleyfalzon/ghinstallation) ([v2.17.0](https://github.com/bradleyfalzon/ghinstallation/releases/tag/v2.17.0), 2 months ago) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow
 
 ### 🔨 Latest Pull Requests I published
 
