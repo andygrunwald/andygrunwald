@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (5 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 month ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fix YAML of TechnikTechnik podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/370) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Deep update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/369) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (5 days ago)
 - [Introduce golangci-lint as an additional linter](https://github.com/andygrunwald/go-gerrit/pull/199) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (5 days ago)
 - [`go get -u ./...` &amp;&amp; `go mod tidy`](https://github.com/hansmi/prometheus-paperless-exporter/pull/109) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 month ago)
 - [Status: Exposing SanityCheckStatus and SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/108) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 month ago)
-- [Update paperhooks v0.0.15 &#43; Exposing Status.SanityCheckStatus and Status.SanityCheckLastRun as metrics](https://github.com/hansmi/prometheus-paperless-exporter/pull/107) on [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) (1 month ago)
 
 ### 📝 My recent blog posts
 
