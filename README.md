@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Remove `BLOGPOST_CONTENT_FILES` and statistics about blog articles](https://github.com/EngineeringKiosk/webpage/pull/1163) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Import from RSS: Remove Apple link search](https://github.com/EngineeringKiosk/webpage/pull/1162) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Podcast Import from RSS: Remove Deezer link search](https://github.com/EngineeringKiosk/webpage/pull/1161) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Import from RSS: Remove Spotify link search](https://github.com/EngineeringKiosk/webpage/pull/1160) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Podcast Import from RSS: Remove YouTube link search](https://github.com/EngineeringKiosk/webpage/pull/1159) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Fix YAML of TechnikTechnik podcast](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/370) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (4 days ago)
-- [Deep update](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/369) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
-- [Introduce golangci-lint as an additional linter](https://github.com/andygrunwald/go-gerrit/pull/199) on [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) (1 week ago)
 
 ### 📝 My recent blog posts
 
