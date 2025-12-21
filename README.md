@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 weeks ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Migrate `sync_awesome_software_engineering_games.py` to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1180) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Migrate `scripts/empty_player_urls.py`to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1179) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Migrate `find_tags_that_need_descriptions.py` to Go](https://github.com/EngineeringKiosk/webpage/pull/1178) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add new website tooling](https://github.com/EngineeringKiosk/webpage/pull/1168) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Website tooling: Fix `pubDate` and Headlines when importing RSS](https://github.com/EngineeringKiosk/webpage/pull/1167) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Scripts: Remove `scripts/statistics.py` as this script has been migrated into podcast-metadata repository](https://github.com/EngineeringKiosk/webpage/pull/1166) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [New main tooling: `website-admin`](https://github.com/EngineeringKiosk/webpage/pull/1165) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
