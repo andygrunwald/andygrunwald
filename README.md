@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) - Paperless-ngx metrics for Prometheus (1 month ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-20), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 1 week ago) - Paperless-ngx metrics for Prometheus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2025-12-20](https://github.com/community-scripts/ProxmoxVE/releases/tag/2025-12-20), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 2 weeks ago) - Paperless-ngx metrics for Prometheus
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), 2 weeks ago) - Go client/library for Gerrit Code Review
 - [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.39.0](https://github.com/palantir/go-githubapp/releases/tag/v0.39.0), 1 month ago) - A simple Go framework for building GitHub Apps
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Github workflow: Get tags without description workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1182) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Github workflow: Get Empty Player URL workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1181) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Migrate `sync_awesome_software_engineering_games.py` to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1180) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Migrate `scripts/empty_player_urls.py`to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1179) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Github workflow: Get tags without description workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1182) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Github workflow: Get Empty Player URL workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1181) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Migrate `sync_awesome_software_engineering_games.py` to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1180) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Migrate `scripts/empty_player_urls.py`to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1179) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
