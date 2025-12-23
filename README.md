@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Github workflow: Get tags without description workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1182) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Github workflow: Get Empty Player URL workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1181) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Migrate `sync_awesome_software_engineering_games.py` to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1180) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Migrate `scripts/empty_player_urls.py`to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1179) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
