@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Upgrade builds: Ubuntu base image, node version and npm configuration](https://github.com/andygrunwald/andygrunwald.com/pull/469) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Github workflow: Get tags without description workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1182) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 - [Github workflow: Get Empty Player URL workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1181) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [Migrate `sync_awesome_software_engineering_games.py` to Go codebase](https://github.com/EngineeringKiosk/webpage/pull/1180) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
 
 ### 📝 My recent blog posts
 
