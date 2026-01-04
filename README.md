@@ -5,10 +5,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (1 day ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
 - [andygrunwald/go-incident](https://github.com/andygrunwald/go-incident) - Go client library for accessing the Incident.io API (3 days ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
 
 ### 🔭 Latest releases I've contributed to
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add new API endpoint: AddEpisodesToPlaylist](https://github.com/zmb3/spotify/pull/292) on [zmb3/spotify](https://github.com/zmb3/spotify) (today)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1185) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Upgrade builds: Ubuntu base image, node version and npm configuration](https://github.com/andygrunwald/andygrunwald.com/pull/469) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Github workflow: Get tags without description workflow running again](https://github.com/EngineeringKiosk/webpage/pull/1182) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
