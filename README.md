@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (2 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (4 days ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (4 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/dropbox-auto-cleaner](https://github.com/andygrunwald/dropbox-auto-cleaner) - Removes files from a Dropbox folder based on file age (3 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (5 days ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (5 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (5 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-04), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 4 weeks ago) - Paperless-ngx metrics for Prometheus
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), 1 month ago) - Go client/library for Gerrit Code Review
 - [google/go-github](https://github.com/google/go-github) ([v80.0.0](https://github.com/google/go-github/releases/tag/v80.0.0), 1 month ago) - Go library for accessing the GitHub v3 API
@@ -23,10 +23,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add new API endpoint: AddEpisodesToPlaylist](https://github.com/zmb3/spotify/pull/292) on [zmb3/spotify](https://github.com/zmb3/spotify) (1 day ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1185) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [Add new API endpoint: AddEpisodesToPlaylist](https://github.com/zmb3/spotify/pull/292) on [zmb3/spotify](https://github.com/zmb3/spotify) (2 days ago)
+- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1185) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Upgrade builds: Ubuntu base image, node version and npm configuration](https://github.com/andygrunwald/andygrunwald.com/pull/469) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
-- [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 - [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
