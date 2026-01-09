@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Remove all Python code (it was migrated to Go)](https://github.com/EngineeringKiosk/webpage/pull/1194) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat(website-admin): Port sync_german_tech_podcasts.py to Go](https://github.com/EngineeringKiosk/webpage/pull/1193) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Scripts: Delete podcast_feed_to_content.py (it was replaced by website-admin)](https://github.com/EngineeringKiosk/webpage/pull/1190) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Neuer Podcast: t3n MeisterPrompter](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/378) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [Decode HTML entities from Steam API to prevent double-encoding](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/35) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [Unify tags find flags with env var pattern used by other commands](https://github.com/EngineeringKiosk/webpage/pull/1201) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Unify episode path flags: use flagEpisodesStorePath everywhere](https://github.com/EngineeringKiosk/webpage/pull/1200) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Unify flag variable naming: rename *Dir to *Path](https://github.com/EngineeringKiosk/webpage/pull/1199) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Remove data attribute `length_second`](https://github.com/EngineeringKiosk/webpage/pull/1198) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat(website-admin): Add detailed descriptions and examples to all CLI commands](https://github.com/EngineeringKiosk/webpage/pull/1197) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
