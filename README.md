@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Decode HTML entities from Steam API to prevent double-encoding](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/35) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [Add new API endpoint: AddEpisodesToPlaylist](https://github.com/zmb3/spotify/pull/292) on [zmb3/spotify](https://github.com/zmb3/spotify) (5 days ago)
 - [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1185) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Upgrade builds: Ubuntu base image, node version and npm configuration](https://github.com/andygrunwald/andygrunwald.com/pull/469) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 weeks ago)
 - [[WIP] Migrate](https://github.com/EngineeringKiosk/webpage/pull/1184) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
-- [Get GitHub workflow sync-awesome-software-engineering-games running again](https://github.com/EngineeringKiosk/webpage/pull/1183) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
