@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Unify usage of `GetEpisodeNumberFromFilename`](https://github.com/EngineeringKiosk/webpage/pull/1204) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix netlify redirect check to verify both /episodes/{n} and /ep{n} exist](https://github.com/EngineeringKiosk/webpage/pull/1203) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Extract episode number parsing into testable function and fix regex bug](https://github.com/EngineeringKiosk/webpage/pull/1202) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Unify tags find flags with env var pattern used by other commands](https://github.com/EngineeringKiosk/webpage/pull/1201) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [Unify episode path flags: use flagEpisodesStorePath everywhere](https://github.com/EngineeringKiosk/webpage/pull/1200) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Unify flag variable naming: rename *Dir to *Path](https://github.com/EngineeringKiosk/webpage/pull/1199) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
