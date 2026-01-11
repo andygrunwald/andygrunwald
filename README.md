@@ -6,7 +6,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (2 days ago)
 - [EngineeringKiosk/PodcastPipelines](https://github.com/EngineeringKiosk/PodcastPipelines) -  (2 days ago)
 - [EngineeringKiosk/OSS-Names](https://github.com/EngineeringKiosk/OSS-Names) - The stories of where Open Source projects got their names from. (2 days ago)
