@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Clean podcast description by removing ad partner section](https://github.com/EngineeringKiosk/webpage/pull/1217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Fix #1060: Hide speaker names if the episode is configured accordingly](https://github.com/EngineeringKiosk/webpage/pull/1216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #955: Redirect configuration is wrongly generated, if episode starts with a number](https://github.com/EngineeringKiosk/webpage/pull/1215) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add Bluesky and Mastodon social links to host profiles](https://github.com/EngineeringKiosk/webpage/pull/1214) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fix #1205: Remove &#34;Arbeite mit uns&#34;](https://github.com/EngineeringKiosk/webpage/pull/1212) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Unify usage of `GetEpisodeNumberFromFilename`](https://github.com/EngineeringKiosk/webpage/pull/1204) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix netlify redirect check to verify both /episodes/{n} and /ep{n} exist](https://github.com/EngineeringKiosk/webpage/pull/1203) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
