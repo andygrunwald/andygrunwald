@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [German Tech Podcasts: Fix inconsistencies about &#34;codestammtisch.jpg&#34;](https://github.com/EngineeringKiosk/webpage/pull/1219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1218) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Clean podcast description by removing ad partner section](https://github.com/EngineeringKiosk/webpage/pull/1217) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Fix #1060: Hide speaker names if the episode is configured accordingly](https://github.com/EngineeringKiosk/webpage/pull/1216) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Fix #955: Redirect configuration is wrongly generated, if episode starts with a number](https://github.com/EngineeringKiosk/webpage/pull/1215) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Add Bluesky and Mastodon social links to host profiles](https://github.com/EngineeringKiosk/webpage/pull/1214) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Fix #1205: Remove &#34;Arbeite mit uns&#34;](https://github.com/EngineeringKiosk/webpage/pull/1212) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
