@@ -14,11 +14,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
+- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.0](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.0), today) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-23](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-23), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.40.0](https://github.com/palantir/go-githubapp/releases/tag/v0.40.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [google/go-github](https://github.com/google/go-github) ([v81.0.0](https://github.com/google/go-github/releases/tag/v81.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 1 month ago) - Paperless-ngx metrics for Prometheus
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.1.1](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.1.1), 1 month ago) - Go client/library for Gerrit Code Review
 
 ### 🔨 Latest Pull Requests I published
 
