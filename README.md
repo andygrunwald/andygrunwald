@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (2 days ago)
-- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
+- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (3 days ago)
+- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 2 days ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.40.0](https://github.com/palantir/go-githubapp/releases/tag/v0.40.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
-- [google/go-github](https://github.com/google/go-github) ([v81.0.0](https://github.com/google/go-github/releases/tag/v81.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-01-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-01-25), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 3 days ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.40.0](https://github.com/palantir/go-githubapp/releases/tag/v0.40.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
+- [google/go-github](https://github.com/google/go-github) ([v81.0.0](https://github.com/google/go-github/releases/tag/v81.0.0), 3 weeks ago) - Go library for accessing the GitHub v3 API
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 1 month ago) - Paperless-ngx metrics for Prometheus
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Docs: add migration guide for v1.x to v2.0.0 and update CHANGELOG with missing versions and remove migration section](https://github.com/andygrunwald/go-jira/pull/749) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (1 week ago)
-- [Fix open golint issues](https://github.com/EngineeringKiosk/webpage/pull/1222) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1221) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1220) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [German Tech Podcasts: Fix inconsistencies about &#34;codestammtisch.jpg&#34;](https://github.com/EngineeringKiosk/webpage/pull/1219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [Docs: add migration guide for v1.x to v2.0.0 and update CHANGELOG with missing versions and remove migration section](https://github.com/andygrunwald/go-jira/pull/749) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (2 weeks ago)
+- [Fix open golint issues](https://github.com/EngineeringKiosk/webpage/pull/1222) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1221) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1220) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
+- [German Tech Podcasts: Fix inconsistencies about &#34;codestammtisch.jpg&#34;](https://github.com/EngineeringKiosk/webpage/pull/1219) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 weeks ago)
 
 ### 📝 My recent blog posts
 
