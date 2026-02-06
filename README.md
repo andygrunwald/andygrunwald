@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Introduce a new Meetup: Rhine Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1237) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Prometheus Paperless NGX Exporter: Set correct binary path in systemd unit file](https://github.com/community-scripts/ProxmoxVE/pull/11438) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (5 days ago)
 - [Docs: add migration guide for v1.x to v2.0.0 and update CHANGELOG with missing versions and remove migration section](https://github.com/andygrunwald/go-jira/pull/749) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
 - [Fix open golint issues](https://github.com/EngineeringKiosk/webpage/pull/1222) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1221) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1220) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
