@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-05), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-02-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-02-06), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.41.0](https://github.com/palantir/go-githubapp/releases/tag/v0.41.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 2 weeks ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 2 months ago) - Paperless-ngx metrics for Prometheus
