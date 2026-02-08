@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
-- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (2 weeks ago)
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (2 weeks ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Include raw JSON response body in PodcastIndex API unmarshal errors](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/385) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Introduce a new Meetup: Rhine Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1237) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Prometheus Paperless NGX Exporter: Set correct binary path in systemd unit file](https://github.com/community-scripts/ProxmoxVE/pull/11438) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Docs: add migration guide for v1.x to v2.0.0 and update CHANGELOG with missing versions and remove migration section](https://github.com/andygrunwald/go-jira/pull/749) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (3 weeks ago)
 - [Fix open golint issues](https://github.com/EngineeringKiosk/webpage/pull/1222) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1221) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 
 ### 📝 My recent blog posts
 
