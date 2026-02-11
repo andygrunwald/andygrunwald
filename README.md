@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Include raw JSON response body in PodcastIndex API unmarshal errors](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/385) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [Introduce a new Meetup: Rhine Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1237) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Prometheus Paperless NGX Exporter: Set correct binary path in systemd unit file](https://github.com/community-scripts/ProxmoxVE/pull/11438) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
-- [Docs: add migration guide for v1.x to v2.0.0 and update CHANGELOG with missing versions and remove migration section](https://github.com/andygrunwald/go-jira/pull/749) on [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) (4 weeks ago)
-- [Fix open golint issues](https://github.com/EngineeringKiosk/webpage/pull/1222) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 weeks ago)
+- [feat: Make meetup card images and headlines clickable](https://github.com/EngineeringKiosk/webpage/pull/1242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: Unify meetup Team components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: Unify meetup Sponsors components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: Unify meetup ImageSlider components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1239) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Unify meetup Discord components](https://github.com/EngineeringKiosk/webpage/pull/1238) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
