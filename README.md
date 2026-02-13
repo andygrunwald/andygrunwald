@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix: Unify text styling on meetup pages](https://github.com/EngineeringKiosk/webpage/pull/1248) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Unify social media link support across people components](https://github.com/EngineeringKiosk/webpage/pull/1247) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [refactor: Move meetup-only components into meetup subdirectory](https://github.com/EngineeringKiosk/webpage/pull/1246) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Show weekday and ordinal day in meetup index date](https://github.com/EngineeringKiosk/webpage/pull/1245) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [refactor: Accept single talk object prop in Talk component](https://github.com/EngineeringKiosk/webpage/pull/1244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat: Add language badge to meetup talks](https://github.com/EngineeringKiosk/webpage/pull/1243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Update dependencies and Go versions](https://github.com/andygrunwald/go-trending/pull/68) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 day ago)
 
 ### 📝 My recent blog posts
 
