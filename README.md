@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat: Left-align talk descriptions and add section headlines](https://github.com/EngineeringKiosk/webpage/pull/1249) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [fix: Unify text styling on meetup pages](https://github.com/EngineeringKiosk/webpage/pull/1248) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Unify social media link support across people components](https://github.com/EngineeringKiosk/webpage/pull/1247) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [refactor: Move meetup-only components into meetup subdirectory](https://github.com/EngineeringKiosk/webpage/pull/1246) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Show weekday and ordinal day in meetup index date](https://github.com/EngineeringKiosk/webpage/pull/1245) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [refactor: Accept single talk object prop in Talk component](https://github.com/EngineeringKiosk/webpage/pull/1244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
