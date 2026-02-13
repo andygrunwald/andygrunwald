@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (3 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (5 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [refactor: Move meetup-only components into meetup subdirectory](https://github.com/EngineeringKiosk/webpage/pull/1246) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Show weekday and ordinal day in meetup index date](https://github.com/EngineeringKiosk/webpage/pull/1245) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: Accept single talk object prop in Talk component](https://github.com/EngineeringKiosk/webpage/pull/1244) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Add language badge to meetup talks](https://github.com/EngineeringKiosk/webpage/pull/1243) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Update dependencies and Go versions](https://github.com/andygrunwald/go-trending/pull/68) on [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) (1 day ago)
-- [feat: Make meetup card images and headlines clickable](https://github.com/EngineeringKiosk/webpage/pull/1242) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [refactor: Unify meetup Team components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1241) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [refactor: Unify meetup Sponsors components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1240) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [refactor: Unify meetup ImageSlider components into a single shared component](https://github.com/EngineeringKiosk/webpage/pull/1239) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
