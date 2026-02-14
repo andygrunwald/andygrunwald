@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Migrate Twitter references to X](https://github.com/EngineeringKiosk/webpage/pull/1257) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [ci: Scope Go testing workflow to website-admin/ changes only](https://github.com/EngineeringKiosk/webpage/pull/1251) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [refactor: Unify team member data and clean up Organizer component](https://github.com/EngineeringKiosk/webpage/pull/1250) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Left-align talk descriptions and add section headlines](https://github.com/EngineeringKiosk/webpage/pull/1249) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [fix: Unify text styling on meetup pages](https://github.com/EngineeringKiosk/webpage/pull/1248) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [feat: Unify social media link support across people components](https://github.com/EngineeringKiosk/webpage/pull/1247) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
