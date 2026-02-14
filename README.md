@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (2 days ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (4 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (6 days ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [ci: Scope Go testing workflow to website-admin/ changes only](https://github.com/EngineeringKiosk/webpage/pull/1251) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: Unify team member data and clean up Organizer component](https://github.com/EngineeringKiosk/webpage/pull/1250) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Left-align talk descriptions and add section headlines](https://github.com/EngineeringKiosk/webpage/pull/1249) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [fix: Unify text styling on meetup pages](https://github.com/EngineeringKiosk/webpage/pull/1248) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [feat: Unify social media link support across people components](https://github.com/EngineeringKiosk/webpage/pull/1247) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [refactor: Move meetup-only components into meetup subdirectory](https://github.com/EngineeringKiosk/webpage/pull/1246) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [feat: Show weekday and ordinal day in meetup index date](https://github.com/EngineeringKiosk/webpage/pull/1245) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
