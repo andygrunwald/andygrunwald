@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add Open Graph profile tags and JSON-LD to team member pages](https://github.com/EngineeringKiosk/webpage/pull/1265) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Add team member detail page for Dario Tilgner](https://github.com/EngineeringKiosk/webpage/pull/1264) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add team member detail page for Christian &#34;Schepp&#34; Schaefer](https://github.com/EngineeringKiosk/webpage/pull/1263) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Use ordinal date format in meetup announcement banners](https://github.com/EngineeringKiosk/webpage/pull/1262) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Add 3rd responsive breakpoint to team member name font size](https://github.com/EngineeringKiosk/webpage/pull/1261) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat: Unify badge styles on team member detail pages](https://github.com/EngineeringKiosk/webpage/pull/1260) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Split meetup navigation into Alps and Rhine-Ruhr links](https://github.com/EngineeringKiosk/webpage/pull/1259) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
