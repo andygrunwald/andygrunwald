@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat: Add detail pages for Tim Hannemann and Christoph Stanger](https://github.com/EngineeringKiosk/webpage/pull/1266) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add Open Graph profile tags and JSON-LD to team member pages](https://github.com/EngineeringKiosk/webpage/pull/1265) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Add team member detail page for Dario Tilgner](https://github.com/EngineeringKiosk/webpage/pull/1264) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add team member detail page for Christian &#34;Schepp&#34; Schaefer](https://github.com/EngineeringKiosk/webpage/pull/1263) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: Use ordinal date format in meetup announcement banners](https://github.com/EngineeringKiosk/webpage/pull/1262) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat: Add 3rd responsive breakpoint to team member name font size](https://github.com/EngineeringKiosk/webpage/pull/1261) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
