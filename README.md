@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add team member detail page for Christian &#34;Schepp&#34; Schaefer](https://github.com/EngineeringKiosk/webpage/pull/1263) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Use ordinal date format in meetup announcement banners](https://github.com/EngineeringKiosk/webpage/pull/1262) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Add 3rd responsive breakpoint to team member name font size](https://github.com/EngineeringKiosk/webpage/pull/1261) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: Unify badge styles on team member detail pages](https://github.com/EngineeringKiosk/webpage/pull/1260) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Split meetup navigation into Alps and Rhine-Ruhr links](https://github.com/EngineeringKiosk/webpage/pull/1259) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Merge HostPreview and Organizer into unified TeamMember component](https://github.com/EngineeringKiosk/webpage/pull/1258) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Migrate Twitter references to X](https://github.com/EngineeringKiosk/webpage/pull/1257) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [ci: Scope Go testing workflow to website-admin/ changes only](https://github.com/EngineeringKiosk/webpage/pull/1251) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [refactor: Unify team member data and clean up Organizer component](https://github.com/EngineeringKiosk/webpage/pull/1250) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
