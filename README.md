@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Meetup stats: Show &#34;no data&#34; for unannounced speakers](https://github.com/EngineeringKiosk/webpage/pull/1287) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Meetup: Apply default values for unannounced talks](https://github.com/EngineeringKiosk/webpage/pull/1286) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: add archive page for Meetup Rhine-Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1283) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: add statistics page for Meetup Rhine-Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1282) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [fix: meetup buffer calculation and reduce buffer to 1 day](https://github.com/EngineeringKiosk/webpage/pull/1281) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1275) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [Rebrand website to Podcast, Meetups &#43; Community](https://github.com/EngineeringKiosk/webpage/pull/1268) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
