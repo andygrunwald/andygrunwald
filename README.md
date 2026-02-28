@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat: add archive page for Meetup Rhine-Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1283) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: add statistics page for Meetup Rhine-Ruhr](https://github.com/EngineeringKiosk/webpage/pull/1282) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: meetup buffer calculation and reduce buffer to 1 day](https://github.com/EngineeringKiosk/webpage/pull/1281) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1275) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [Rebrand website to Podcast, Meetups &#43; Community](https://github.com/EngineeringKiosk/webpage/pull/1268) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [feat: Add detail pages for Tim Hannemann and Christoph Stanger](https://github.com/EngineeringKiosk/webpage/pull/1266) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [Add Open Graph profile tags and JSON-LD to team member pages](https://github.com/EngineeringKiosk/webpage/pull/1265) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [feat: Add team member detail page for Dario Tilgner](https://github.com/EngineeringKiosk/webpage/pull/1264) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
