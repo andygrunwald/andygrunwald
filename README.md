@@ -6,8 +6,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (2 weeks ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (3 weeks ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 month ago)
 - [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (1 month ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1302) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1293) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1291) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1290) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [feat: unified meetup promote section &#43; fix hardcoded Alps paths](https://github.com/EngineeringKiosk/webpage/pull/1289) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1288) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
