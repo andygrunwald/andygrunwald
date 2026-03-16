@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (today)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 days ago)
 - [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (2 weeks ago)
 - [andygrunwald/go-trending](https://github.com/andygrunwald/go-trending) - Go library for accessing trending repositories and developers at Github. (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), today) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-14), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.43.0](https://github.com/palantir/go-githubapp/releases/tag/v0.43.0), 1 week ago) - A simple Go framework for building GitHub Apps
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 1 day ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-03-14](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-03-14), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.43.0](https://github.com/palantir/go-githubapp/releases/tag/v0.43.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 1 month ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 3 months ago) - Paperless-ngx metrics for Prometheus
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1305) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Update Go to 1.25/1.26 and modernize CI](https://github.com/andygrunwald/vdf/pull/74) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (today)
-- [chore: Update staticcheck to 2026.1 and add .claude/ to gitignore](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/394) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [fix: replace hidden Unicode characters in podcast player](https://github.com/EngineeringKiosk/webpage/pull/1304) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [feat: Upgrade Astro from v5 to v6](https://github.com/EngineeringKiosk/webpage/pull/1303) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1305) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Update Go to 1.25/1.26 and modernize CI](https://github.com/andygrunwald/vdf/pull/74) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (1 day ago)
+- [chore: Update staticcheck to 2026.1 and add .claude/ to gitignore](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/394) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (2 days ago)
+- [fix: replace hidden Unicode characters in podcast player](https://github.com/EngineeringKiosk/webpage/pull/1304) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [feat: Upgrade Astro from v5 to v6](https://github.com/EngineeringKiosk/webpage/pull/1303) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
