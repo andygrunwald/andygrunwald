@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1307) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1306) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1305) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [Update Go to 1.25/1.26 and modernize CI](https://github.com/andygrunwald/vdf/pull/74) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (2 days ago)
 - [chore: Update staticcheck to 2026.1 and add .claude/ to gitignore](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/394) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (3 days ago)
-- [fix: replace hidden Unicode characters in podcast player](https://github.com/EngineeringKiosk/webpage/pull/1304) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 
 ### 📝 My recent blog posts
 
