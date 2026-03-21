@@ -6,10 +6,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (5 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (6 days ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [perf: add font preconnect hint for rsms.me](https://github.com/sourcectl/webpage/pull/286) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
-- [cleanup: deduplicate identical fontFamily definitions in Tailwind config](https://github.com/sourcectl/webpage/pull/285) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
-- [cleanup: remove empty style tags from pages](https://github.com/sourcectl/webpage/pull/284) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
-- [cleanup: remove commented-out code from homepage](https://github.com/sourcectl/webpage/pull/283) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
-- [refactor: deduplicate date formatting options](https://github.com/sourcectl/webpage/pull/282) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [refactor: use template literal instead of string concat for title](https://github.com/andygrunwald/andygrunwald.com/pull/526) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
+- [fix: add defensive validation to formatDate utility](https://github.com/andygrunwald/andygrunwald.com/pull/525) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
+- [refactor: modernize main.js burger menu code](https://github.com/andygrunwald/andygrunwald.com/pull/524) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
+- [fix: replace post: any with proper CollectionEntry type](https://github.com/andygrunwald/andygrunwald.com/pull/523) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
+- [refactor: extract navigation links to shared data constant](https://github.com/andygrunwald/andygrunwald.com/pull/522) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 
 ### 📝 My recent blog posts
 
