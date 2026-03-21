@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [refactor: unify duplicated meetup pages and newsletter components](https://github.com/EngineeringKiosk/webpage/pull/1334) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [fix: add missing leading slashes in Netlify redirect paths](https://github.com/EngineeringKiosk/webpage/pull/1333) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [perf: extract inline podcast player tracking script](https://github.com/EngineeringKiosk/webpage/pull/1332) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [perf: audit and optimize unoptimized img tags](https://github.com/EngineeringKiosk/webpage/pull/1331) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [fix: add error handling to meetup stats fetch calls](https://github.com/EngineeringKiosk/webpage/pull/1330) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: add null checks for tag info property access](https://github.com/EngineeringKiosk/webpage/pull/1329) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
