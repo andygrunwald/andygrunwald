@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [feat: upgrade Tailwind CSS from v3 to v4](https://github.com/andygrunwald/andygrunwald.com/pull/527) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [refactor: use template literal instead of string concat for title](https://github.com/andygrunwald/andygrunwald.com/pull/526) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [fix: add defensive validation to formatDate utility](https://github.com/andygrunwald/andygrunwald.com/pull/525) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [refactor: modernize main.js burger menu code](https://github.com/andygrunwald/andygrunwald.com/pull/524) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [fix: replace post: any with proper CollectionEntry type](https://github.com/andygrunwald/andygrunwald.com/pull/523) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
-- [refactor: extract navigation links to shared data constant](https://github.com/andygrunwald/andygrunwald.com/pull/522) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 
 ### 📝 My recent blog posts
 
