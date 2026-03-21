@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Apply Renovate best practices for JS/Astro and Go](https://github.com/EngineeringKiosk/webpage/pull/1310) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1307) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1306) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1305) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
-- [Update Go to 1.25/1.26 and modernize CI](https://github.com/andygrunwald/vdf/pull/74) on [andygrunwald/vdf](https://github.com/andygrunwald/vdf) (6 days ago)
+- [fix: add missing leading slashes in Netlify redirect paths](https://github.com/EngineeringKiosk/webpage/pull/1333) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [perf: extract inline podcast player tracking script](https://github.com/EngineeringKiosk/webpage/pull/1332) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [perf: audit and optimize unoptimized img tags](https://github.com/EngineeringKiosk/webpage/pull/1331) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: add error handling to meetup stats fetch calls](https://github.com/EngineeringKiosk/webpage/pull/1330) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: add null checks for tag info property access](https://github.com/EngineeringKiosk/webpage/pull/1329) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
