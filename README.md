@@ -6,10 +6,10 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (5 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (6 days ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [refactor: unify duplicated meetup pages and newsletter components](https://github.com/EngineeringKiosk/webpage/pull/1334) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: add missing leading slashes in Netlify redirect paths](https://github.com/EngineeringKiosk/webpage/pull/1333) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [perf: extract inline podcast player tracking script](https://github.com/EngineeringKiosk/webpage/pull/1332) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [perf: audit and optimize unoptimized img tags](https://github.com/EngineeringKiosk/webpage/pull/1331) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: add error handling to meetup stats fetch calls](https://github.com/EngineeringKiosk/webpage/pull/1330) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [perf: add font preconnect hint for rsms.me](https://github.com/sourcectl/webpage/pull/286) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [cleanup: deduplicate identical fontFamily definitions in Tailwind config](https://github.com/sourcectl/webpage/pull/285) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [cleanup: remove empty style tags from pages](https://github.com/sourcectl/webpage/pull/284) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [cleanup: remove commented-out code from homepage](https://github.com/sourcectl/webpage/pull/283) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [refactor: deduplicate date formatting options](https://github.com/sourcectl/webpage/pull/282) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
 
 ### 📝 My recent blog posts
 
