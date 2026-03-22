@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Add Prometheus /metrics endpoint for paperless_status_* metrics](https://github.com/paperless-ngx/paperless-ngx/pull/12417) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (today)
+- [Feature: Add Prometheus /metrics endpoint for paperless_status_* metrics](https://github.com/paperless-ngx/paperless-ngx/pull/12417) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (today)
 - [feat: upgrade Astro from v5 to v6](https://github.com/andygrunwald/andygrunwald.com/pull/528) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (today)
 - [chore: harmonize renovate config and remove dependabot](https://github.com/sourcectl/webpage/pull/291) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
 - [chore: upgrade from Astro v5 to v6](https://github.com/sourcectl/webpage/pull/289) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
