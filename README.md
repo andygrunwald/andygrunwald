@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (6 days ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: upgrade from Astro v5 to v6](https://github.com/sourcectl/webpage/pull/289) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
 - [feat: upgrade Tailwind CSS from v3 to v4](https://github.com/andygrunwald/andygrunwald.com/pull/527) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 - [refactor: use template literal instead of string concat for title](https://github.com/andygrunwald/andygrunwald.com/pull/526) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 - [fix: add defensive validation to formatDate utility](https://github.com/andygrunwald/andygrunwald.com/pull/525) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 - [refactor: modernize main.js burger menu code](https://github.com/andygrunwald/andygrunwald.com/pull/524) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
-- [fix: replace post: any with proper CollectionEntry type](https://github.com/andygrunwald/andygrunwald.com/pull/523) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 
 ### 📝 My recent blog posts
 
