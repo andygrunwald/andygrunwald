@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix: thread meetupSlug through meetup component chain](https://github.com/EngineeringKiosk/webpage/pull/1336) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: use region-aware default avatar in meetup components](https://github.com/EngineeringKiosk/webpage/pull/1335) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Feature: Add Prometheus /metrics endpoint for paperless_status_* metrics](https://github.com/paperless-ngx/paperless-ngx/pull/12417) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 day ago)
 - [feat: upgrade Astro from v5 to v6](https://github.com/andygrunwald/andygrunwald.com/pull/528) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
 - [chore: harmonize renovate config and remove dependabot](https://github.com/sourcectl/webpage/pull/291) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (1 day ago)
-- [chore: upgrade from Astro v5 to v6](https://github.com/sourcectl/webpage/pull/289) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (1 day ago)
-- [feat: upgrade Tailwind CSS from v3 to v4](https://github.com/andygrunwald/andygrunwald.com/pull/527) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
 
 ### 📝 My recent blog posts
 
