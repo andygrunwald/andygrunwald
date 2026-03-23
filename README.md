@@ -5,9 +5,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [fix: thread meetupSlug through meetup component chain](https://github.com/EngineeringKiosk/webpage/pull/1336) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: use region-aware default avatar in meetup components](https://github.com/EngineeringKiosk/webpage/pull/1335) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Feature: Add Prometheus /metrics endpoint for paperless_status_* metrics](https://github.com/paperless-ngx/paperless-ngx/pull/12417) on [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (1 day ago)
-- [feat: upgrade Astro from v5 to v6](https://github.com/andygrunwald/andygrunwald.com/pull/528) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
-- [chore: harmonize renovate config and remove dependabot](https://github.com/sourcectl/webpage/pull/291) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (1 day ago)
+- [feat: add schema.org JSON-LD and microformats structured data](https://github.com/EngineeringKiosk/webpage/pull/1342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: add missing images for meetup promote pages](https://github.com/EngineeringKiosk/webpage/pull/1341) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: add /rhine-ruhr shortcut redirect](https://github.com/EngineeringKiosk/webpage/pull/1339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: exclude Rhine-Ruhr promote pages from sitemap](https://github.com/EngineeringKiosk/webpage/pull/1338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: extract promote components and add Rhine-Ruhr promote pages](https://github.com/EngineeringKiosk/webpage/pull/1337) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
