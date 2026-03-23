@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [fix: repair broken OpenGraph images on profile pages](https://github.com/EngineeringKiosk/webpage/pull/1345) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: improve SEO page titles and descriptions](https://github.com/EngineeringKiosk/webpage/pull/1344) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [feat: optimize Astro Image components with webp format and lazy loading](https://github.com/EngineeringKiosk/webpage/pull/1343) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: add schema.org JSON-LD and microformats structured data](https://github.com/EngineeringKiosk/webpage/pull/1342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [fix: add missing images for meetup promote pages](https://github.com/EngineeringKiosk/webpage/pull/1341) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat: add /rhine-ruhr shortcut redirect](https://github.com/EngineeringKiosk/webpage/pull/1339) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: exclude Rhine-Ruhr promote pages from sitemap](https://github.com/EngineeringKiosk/webpage/pull/1338) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [feat: extract promote components and add Rhine-Ruhr promote pages](https://github.com/EngineeringKiosk/webpage/pull/1337) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
