@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (1 week ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1348) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1347) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [feat: add permalink sharing button to meetup talks](https://github.com/EngineeringKiosk/webpage/pull/1346) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [fix: repair broken OpenGraph images on profile pages](https://github.com/EngineeringKiosk/webpage/pull/1345) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [feat: improve SEO page titles and descriptions](https://github.com/EngineeringKiosk/webpage/pull/1344) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [feat: optimize Astro Image components with webp format and lazy loading](https://github.com/EngineeringKiosk/webpage/pull/1343) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [feat: add schema.org JSON-LD and microformats structured data](https://github.com/EngineeringKiosk/webpage/pull/1342) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
