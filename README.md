@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1356) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1355) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1348) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1347) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [feat: add permalink sharing button to meetup talks](https://github.com/EngineeringKiosk/webpage/pull/1346) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [fix: repair broken OpenGraph images on profile pages](https://github.com/EngineeringKiosk/webpage/pull/1345) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [feat: improve SEO page titles and descriptions](https://github.com/EngineeringKiosk/webpage/pull/1344) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 
 ### 📝 My recent blog posts
 
