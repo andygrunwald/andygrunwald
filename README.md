@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1363) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1362) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1358) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1356) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1355) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
+- [refactor: upgrade to Astro strict TypeScript preset](https://github.com/EngineeringKiosk/webpage/pull/1382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: extract shared SocialLinks component](https://github.com/EngineeringKiosk/webpage/pull/1381) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: replace any and object types with proper TypeScript types](https://github.com/EngineeringKiosk/webpage/pull/1380) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [fix: eliminate duplicate getCollection calls in dynamic routes](https://github.com/EngineeringKiosk/webpage/pull/1379) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [cleanup: remove console.log statements from production components](https://github.com/EngineeringKiosk/webpage/pull/1378) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
