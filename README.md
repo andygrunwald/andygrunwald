@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (3 weeks ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-09), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-04-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-04-09), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 3 weeks ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.43.0](https://github.com/palantir/go-githubapp/releases/tag/v0.43.0), 1 month ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 2 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [refactor: upgrade to Astro strict TypeScript preset](https://github.com/EngineeringKiosk/webpage/pull/1382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [refactor: extract shared SocialLinks component](https://github.com/EngineeringKiosk/webpage/pull/1381) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [refactor: replace any and object types with proper TypeScript types](https://github.com/EngineeringKiosk/webpage/pull/1380) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [fix: eliminate duplicate getCollection calls in dynamic routes](https://github.com/EngineeringKiosk/webpage/pull/1379) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [cleanup: remove console.log statements from production components](https://github.com/EngineeringKiosk/webpage/pull/1378) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [refactor: upgrade to Astro strict TypeScript preset](https://github.com/EngineeringKiosk/webpage/pull/1382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [refactor: extract shared SocialLinks component](https://github.com/EngineeringKiosk/webpage/pull/1381) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [refactor: replace any and object types with proper TypeScript types](https://github.com/EngineeringKiosk/webpage/pull/1380) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [fix: eliminate duplicate getCollection calls in dynamic routes](https://github.com/EngineeringKiosk/webpage/pull/1379) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [cleanup: remove console.log statements from production components](https://github.com/EngineeringKiosk/webpage/pull/1378) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
