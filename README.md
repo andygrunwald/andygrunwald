@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [refactor: upgrade to Astro strict TypeScript preset](https://github.com/EngineeringKiosk/webpage/pull/1382) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [refactor: extract shared SocialLinks component](https://github.com/EngineeringKiosk/webpage/pull/1381) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [refactor: replace any and object types with proper TypeScript types](https://github.com/EngineeringKiosk/webpage/pull/1380) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [fix: eliminate duplicate getCollection calls in dynamic routes](https://github.com/EngineeringKiosk/webpage/pull/1379) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [cleanup: remove console.log statements from production components](https://github.com/EngineeringKiosk/webpage/pull/1378) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [test: add vitest and unit tests for JavaScript utilities](https://github.com/EngineeringKiosk/webpage/pull/1387) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [test: add unit tests for checkMissingPlayerURLs](https://github.com/EngineeringKiosk/webpage/pull/1386) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [test: add unit tests for tag finding helpers](https://github.com/EngineeringKiosk/webpage/pull/1385) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [test: add unit tests for RSS sync helpers](https://github.com/EngineeringKiosk/webpage/pull/1384) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [test: add unit tests for utils/html.go](https://github.com/EngineeringKiosk/webpage/pull/1383) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 
 ### 📝 My recent blog posts
 
