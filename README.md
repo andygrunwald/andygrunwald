@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1391) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [ci: add GitHub Actions workflow for JavaScript unit tests via vitest](https://github.com/EngineeringKiosk/webpage/pull/1389) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 - [test: add vitest and unit tests for JavaScript utilities](https://github.com/EngineeringKiosk/webpage/pull/1387) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [test: add unit tests for checkMissingPlayerURLs](https://github.com/EngineeringKiosk/webpage/pull/1386) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 - [test: add unit tests for tag finding helpers](https://github.com/EngineeringKiosk/webpage/pull/1385) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
-- [test: add unit tests for RSS sync helpers](https://github.com/EngineeringKiosk/webpage/pull/1384) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
 
 ### 📝 My recent blog posts
 
