@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Fetch GitHub license for games with a repository and surface it in the README](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/49) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [Default missing YAML &#39;image&#39; to a placeholder with a warning](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/48) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [Fail fast when a non-Steam game has no local image](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/47) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1417) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1416) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1415) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1414) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Fix meetup pages crashing when no upcoming event is scheduled](https://github.com/EngineeringKiosk/webpage/pull/1411) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
 
 ### 📝 My recent blog posts
 
