@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Don&#39;t link tech podcast title/image when no website is set](https://github.com/EngineeringKiosk/webpage/pull/1421) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Accept both .yml and .yaml extensions for game files](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/51) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
+- [Support .yaml suffix for podcast files](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/400) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Display open-source license on game previews](https://github.com/EngineeringKiosk/webpage/pull/1418) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Fetch GitHub license for games with a repository and surface it in the README](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/49) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [Default missing YAML &#39;image&#39; to a placeholder with a warning](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/48) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [Fail fast when a non-Steam game has no local image](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/47) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1417) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
