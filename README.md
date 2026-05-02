@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Bootstrap awesome-software-engineering-movies pipeline](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/5) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Repo cleanup: drop Dependabot, pin setup-go, add golangci config](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/401) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 - [Repo cleanup: rename file, pin setup-go, relax Renovate regex](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/52) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 - [Don&#39;t link tech podcast title/image when no website is set](https://github.com/EngineeringKiosk/webpage/pull/1421) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Accept both .yml and .yaml extensions for game files](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/51) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
-- [Support .yaml suffix for podcast files](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/400) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
 
 ### 📝 My recent blog posts
 
