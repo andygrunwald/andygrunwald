@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Bootstrap awesome-software-engineering-movies pipeline](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/5) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
-- [Repo cleanup: drop Dependabot, pin setup-go, add golangci config](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/401) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 day ago)
-- [Repo cleanup: rename file, pin setup-go, relax Renovate regex](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/52) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (1 day ago)
-- [Don&#39;t link tech podcast title/image when no website is set](https://github.com/EngineeringKiosk/webpage/pull/1421) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Accept both .yml and .yaml extensions for game files](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/51) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (1 day ago)
+- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/sourcectl/webpage/pull/303) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
+- [ci: Make auto-commit steps resilient to concurrent pushes](https://github.com/EngineeringKiosk/webpage/pull/1422) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [ci: Make RSS backup auto-commit resilient to concurrent pushes](https://github.com/EngineeringKiosk/podcast-rss-backup/pull/7) on [EngineeringKiosk/podcast-rss-backup](https://github.com/EngineeringKiosk/podcast-rss-backup) (today)
+- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/402) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
+- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/53) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 
 ### 📝 My recent blog posts
 
