@@ -14,7 +14,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-01), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-02](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-02), today) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.44.0](https://github.com/palantir/go-githubapp/releases/tag/v0.44.0), 2 days ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 1 month ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 3 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
