@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (today)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (today)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (today)
-- [EngineeringKiosk/podcast-rss-backup](https://github.com/EngineeringKiosk/podcast-rss-backup) - A regular backup of the RSS feed from the Engineering Kiosk Podcast (today)
+- [EngineeringKiosk/.github](https://github.com/EngineeringKiosk/.github) - @EngineeringKiosk organization (today)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Drop Channel line from README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/8) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
+- [Render duration as approximate &#34;ca. X min.&#34; in README](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/7) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
+- [Truncate movie descriptions in README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/6) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/sourcectl/webpage/pull/303) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (today)
 - [ci: Make auto-commit steps resilient to concurrent pushes](https://github.com/EngineeringKiosk/webpage/pull/1422) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [ci: Make RSS backup auto-commit resilient to concurrent pushes](https://github.com/EngineeringKiosk/podcast-rss-backup/pull/7) on [EngineeringKiosk/podcast-rss-backup](https://github.com/EngineeringKiosk/podcast-rss-backup) (today)
-- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/402) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (today)
-- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/EngineeringKiosk/awesome-software-engineering-games/pull/53) on [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) (today)
 
 ### 📝 My recent blog posts
 
