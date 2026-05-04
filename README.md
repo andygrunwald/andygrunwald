@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add awesome-software-engineering-movies as third synced data source](https://github.com/EngineeringKiosk/webpage/pull/1423) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Add Half-Life: 25th Anniversary Documentary](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/10) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Add 18 new movie entries](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/9) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Drop Channel line from README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/8) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Render duration as approximate &#34;ca. X min.&#34; in README](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/7) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
-- [Truncate movie descriptions in README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/6) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 
 ### 📝 My recent blog posts
 
