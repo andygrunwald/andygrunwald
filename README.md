@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add IMDb as a second rating source with selective refresh](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/16) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Add YouTube ratings and group views by source in generated JSON](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/15) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Add subtitles field populated from YouTube captions](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/14) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Restore: optional description override in YAML](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/13) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Allow optional description override in YAML](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/12) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
-- [Add four more culture-and-activism documentaries](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/11) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 
 ### 📝 My recent blog posts
 
