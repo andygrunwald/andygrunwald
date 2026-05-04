@@ -5,11 +5,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (today)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
 - [EngineeringKiosk/awesome-software-engineering-games](https://github.com/EngineeringKiosk/awesome-software-engineering-games) - Games for software engineers that have that certain something extra 👾 🎮 (1 day ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 day ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 day ago)
-- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [Add Half-Life: 25th Anniversary Documentary](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/10) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
+- [Add 18 new movie entries](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/9) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Drop Channel line from README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/8) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Render duration as approximate &#34;ca. X min.&#34; in README](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/7) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Truncate movie descriptions in README rendering](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/6) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
-- [ci: Make auto-commit step resilient to concurrent pushes](https://github.com/sourcectl/webpage/pull/303) on [sourcectl/webpage](https://github.com/sourcectl/webpage) (1 day ago)
-- [ci: Make auto-commit steps resilient to concurrent pushes](https://github.com/EngineeringKiosk/webpage/pull/1422) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
