@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1428) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Sitemap improvements: lastmod, image entries, noindex on excluded pages](https://github.com/EngineeringKiosk/webpage/pull/1427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
+- [Group README entries by type into TV Series / Documentaries / Movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/28) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 - [Movies: rework schema for new upstream &#43; add Category/Type filters](https://github.com/EngineeringKiosk/webpage/pull/1425) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Revise CONTRIBUTING acceptance criteria for the current dataset](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/27) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
-- [Add &#34;Projects like us&#34; section to the README](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/26) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
-- [Add category and type to the YAML schema](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/25) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
-- [Link the IMDb rating in the README to the IMDb title page](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/24) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
 
 ### 📝 My recent blog posts
 
