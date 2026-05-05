@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1424) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
 - [Make title / duration / publishedAt YAML-curatable](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/22) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Add youtubeTrailerForThumbnail fallback and bundled placeholder](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/21) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Strip videoID from generated JSON; keep as a runtime-only field](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/20) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 - [Add Netflix, Amazon Prime Video, bpb support; localized descriptions; six new movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/19) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
-- [Add localized per-language overrides to the YAML schema](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/18) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
 
 ### 📝 My recent blog posts
 
