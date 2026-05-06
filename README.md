@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
-- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (today)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (today)
-- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (today)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (today)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 day ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.44.0](https://github.com/palantir/go-githubapp/releases/tag/v0.44.0), 4 days ago) - A simple Go framework for building GitHub Apps
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-04), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.44.0](https://github.com/palantir/go-githubapp/releases/tag/v0.44.0), 5 days ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 1 month ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 3 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.9](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.9), 4 months ago) - Paperless-ngx metrics for Prometheus
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1428) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Sitemap improvements: lastmod, image entries, noindex on excluded pages](https://github.com/EngineeringKiosk/webpage/pull/1427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Group README entries by type into TV Series / Documentaries / Movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/28) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
-- [Movies: rework schema for new upstream &#43; add Category/Type filters](https://github.com/EngineeringKiosk/webpage/pull/1425) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (today)
-- [Revise CONTRIBUTING acceptance criteria for the current dataset](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/27) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (today)
+- [Add AGENTS.md and golangci-lint Make target](https://github.com/EngineeringKiosk/webpage/pull/1429) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1428) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Sitemap improvements: lastmod, image entries, noindex on excluded pages](https://github.com/EngineeringKiosk/webpage/pull/1427) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Group README entries by type into TV Series / Documentaries / Movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/28) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
+- [Movies: rework schema for new upstream &#43; add Category/Type filters](https://github.com/EngineeringKiosk/webpage/pull/1425) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
