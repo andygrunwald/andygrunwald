@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (today)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 day ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (3 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
-- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
+- [EngineeringKiosk/cool-programming-language-features](https://github.com/EngineeringKiosk/cool-programming-language-features) - A collection of cool programming language features (highly subjective) (4 days ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-06), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-05-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-05-07), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.44.0](https://github.com/palantir/go-githubapp/releases/tag/v0.44.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 1 month ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 3 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Pin Vite to ^7 via npm overrides](https://github.com/EngineeringKiosk/webpage/pull/1436) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Add Plunk-backed newsletter signup with double opt-in](https://github.com/EngineeringKiosk/webpage/pull/1435) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Pin Vite to ^7 via npm overrides](https://github.com/EngineeringKiosk/webpage/pull/1434) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Add HBO Max / Apple TV / RTL&#43; to movies, plus localized links](https://github.com/EngineeringKiosk/webpage/pull/1431) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
-- [Reclassify six entries to better-fitting categories](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/39) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (2 days ago)
+- [Add Spring: The Documentary entry](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/41) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (1 day ago)
+- [Meetup: Allow URLs as `slides` in addition to local PDF filenames](https://github.com/EngineeringKiosk/webpage/pull/1440) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Meetup: Show archive link on homepage even without an upcoming meetup](https://github.com/EngineeringKiosk/webpage/pull/1439) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Meetup Stats: Link date column to the matching archive entry](https://github.com/EngineeringKiosk/webpage/pull/1438) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [Meetup Stats: Distinguish missing first-timer data from zero](https://github.com/EngineeringKiosk/webpage/pull/1437) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
 
 ### 📝 My recent blog posts
 
