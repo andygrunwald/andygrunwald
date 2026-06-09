@@ -6,15 +6,15 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 
 
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (3 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
+- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (4 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 week ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-06](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-06), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-07](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-07), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.11.0](https://github.com/useplunk/plunk/releases/tag/v0.11.0), 3 weeks ago) - The Open-Source Email Platform
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.44.0](https://github.com/palantir/go-githubapp/releases/tag/v0.44.0), 1 month ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 2 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Align with modern Astro best practices](https://github.com/andygrunwald/andygrunwald.com/pull/556) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
-- [Update employer to Cloudflare, reframe role, and refresh social links](https://github.com/andygrunwald/andygrunwald.com/pull/555) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
-- [Remove the &#34;Work with me&#34; page](https://github.com/andygrunwald/andygrunwald.com/pull/554) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
-- [Add &#34;The Story of C&#43;&#43;&#34; documentary](https://github.com/EngineeringKiosk/awesome-software-engineering-movies/pull/45) on [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) (3 days ago)
-- [Configure git identity before rebase in auto-commit workflows](https://github.com/EngineeringKiosk/webpage/pull/1474) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 days ago)
+- [Add JSON-LD structured data](https://github.com/andygrunwald/andygrunwald.com/pull/560) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
+- [Optimize images with astro:assets](https://github.com/andygrunwald/andygrunwald.com/pull/559) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 day ago)
+- [Align with modern Astro best practices](https://github.com/andygrunwald/andygrunwald.com/pull/556) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
+- [Update employer to Cloudflare, reframe role, and refresh social links](https://github.com/andygrunwald/andygrunwald.com/pull/555) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
+- [Remove the &#34;Work with me&#34; page](https://github.com/andygrunwald/andygrunwald.com/pull/554) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
 
 ### 📝 My recent blog posts
 
