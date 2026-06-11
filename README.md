@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 days ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
-- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (3 days ago)
+- [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (6 days ago)
 - [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (2 weeks ago)
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.45.0](https://github.com/palantir/go-githubapp/releases/tag/v0.45.0), 1 day ago) - A simple Go framework for building GitHub Apps
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-08](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-08), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-09](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-09), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.45.0](https://github.com/palantir/go-githubapp/releases/tag/v0.45.0), 2 days ago) - A simple Go framework for building GitHub Apps
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.11.0](https://github.com/useplunk/plunk/releases/tag/v0.11.0), 4 weeks ago) - The Open-Source Email Platform
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 2 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 4 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
@@ -23,11 +23,11 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1475) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
-- [Add JSON-LD structured data](https://github.com/andygrunwald/andygrunwald.com/pull/560) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
-- [Optimize images with astro:assets](https://github.com/andygrunwald/andygrunwald.com/pull/559) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (2 days ago)
-- [Align with modern Astro best practices](https://github.com/andygrunwald/andygrunwald.com/pull/556) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
-- [Update employer to Cloudflare, reframe role, and refresh social links](https://github.com/andygrunwald/andygrunwald.com/pull/555) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1476) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 day ago)
+- [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1475) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [Add JSON-LD structured data](https://github.com/andygrunwald/andygrunwald.com/pull/560) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
+- [Optimize images with astro:assets](https://github.com/andygrunwald/andygrunwald.com/pull/559) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 days ago)
+- [Align with modern Astro best practices](https://github.com/andygrunwald/andygrunwald.com/pull/556) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
 
 ### 📝 My recent blog posts
 
