@@ -5,16 +5,16 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 day ago)
-- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (4 days ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 days ago)
-- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (4 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
+- [andygrunwald/FOM-LaTeX-Template](https://github.com/andygrunwald/FOM-LaTeX-Template) - A LaTeX template for term paper, bachelor or master thesis for &#34;FOM University of Applied Sciences&#34; (5 days ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (5 days ago)
+- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (5 days ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-16](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-16), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-17](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-17), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.45.0](https://github.com/palantir/go-githubapp/releases/tag/v0.45.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.11.0](https://github.com/useplunk/plunk/releases/tag/v0.11.0), 1 month ago) - The Open-Source Email Platform
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 3 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
@@ -23,8 +23,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Reorder footer social media links and add Threads](https://github.com/EngineeringKiosk/webpage/pull/1478) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
-- [Widen blog article detail view to max-w-3xl](https://github.com/andygrunwald/andygrunwald.com/pull/561) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (6 days ago)
+- [Reorder footer social media links and add Threads](https://github.com/EngineeringKiosk/webpage/pull/1478) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (6 days ago)
+- [Widen blog article detail view to max-w-3xl](https://github.com/andygrunwald/andygrunwald.com/pull/561) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1476) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [chore: sync podcast metadata to website](https://github.com/EngineeringKiosk/webpage/pull/1475) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Add JSON-LD structured data](https://github.com/andygrunwald/andygrunwald.com/pull/560) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (1 week ago)
