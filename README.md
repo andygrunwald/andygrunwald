@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-26), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 6 days ago) - The Open-Source Email Platform
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-06-27](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-06-27), 1 day ago) - Proxmox VE Helper-Scripts (Community Edition) 
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 1 week ago) - The Open-Source Email Platform
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.45.0](https://github.com/palantir/go-githubapp/releases/tag/v0.45.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 3 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 5 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
