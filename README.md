@@ -5,7 +5,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (5 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (2 weeks ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 weeks ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (2 weeks ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 1 week ago) - The Open-Source Email Platform
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 2 weeks ago) - The Open-Source Email Platform
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.45.0](https://github.com/palantir/go-githubapp/releases/tag/v0.45.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 3 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 5 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
@@ -23,7 +23,7 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1495) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (4 days ago)
+- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1495) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Add weather data scraping support with multiple providers](https://github.com/andygrunwald/oil-price-scraper/pull/24) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (2 weeks ago)
 - [Reorder footer social media links and add Threads](https://github.com/EngineeringKiosk/webpage/pull/1478) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (3 weeks ago)
 - [Widen blog article detail view to max-w-3xl](https://github.com/andygrunwald/andygrunwald.com/pull/561) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (3 weeks ago)
