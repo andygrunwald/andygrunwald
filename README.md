@@ -5,17 +5,17 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (3 weeks ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (3 weeks ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (3 weeks ago)
-- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (4 weeks ago)
+- [andygrunwald/go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian Jira (1 month ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-12](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-12), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 6 days ago) - A simple Go framework for building GitHub Apps
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-13](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-13), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 3 weeks ago) - The Open-Source Email Platform
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 5 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
