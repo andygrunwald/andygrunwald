@@ -5,8 +5,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
-- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (2 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 days ago)
+- [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (5 days ago)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 week ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 week ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 2 weeks ago) - A simple Go framework for building GitHub Apps
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-07-29](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-07-29), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 1 month ago) - The Open-Source Email Platform
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 - [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) ([v1.0.1](https://github.com/andygrunwald/oil-price-scraper/releases/tag/v1.0.1), 6 months ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
@@ -23,9 +23,9 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔨 Latest Pull Requests I published
 
 
-- [Apache Tika: Remove software-properties-common from Apache Tika install](https://github.com/community-scripts/ProxmoxVE/pull/16054) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
-- [Upgrade `github.com/google/go-github` from v64 to v89](https://github.com/dghubble/gologin/pull/372) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 day ago)
-- [Apache Tika: Switch from Debian Bookworm to Debian Trixie and replace manual install of OpenJDK with setup_java](https://github.com/community-scripts/ProxmoxVE/pull/16036) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 day ago)
+- [Apache Tika: Remove software-properties-common from Apache Tika install](https://github.com/community-scripts/ProxmoxVE/pull/16054) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
+- [Upgrade `github.com/google/go-github` from v64 to v89](https://github.com/dghubble/gologin/pull/372) on [dghubble/gologin](https://github.com/dghubble/gologin) (4 days ago)
+- [Apache Tika: Switch from Debian Bookworm to Debian Trixie and replace manual install of OpenJDK with setup_java](https://github.com/community-scripts/ProxmoxVE/pull/16036) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (4 days ago)
 - [Fix the broken build: drop the stale vite ^7 override](https://github.com/EngineeringKiosk/webpage/pull/1510) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (1 week ago)
 - [Keep collecting podcast data when a feed was removed from PodcastIndex](https://github.com/EngineeringKiosk/GermanTechPodcasts/pull/413) on [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) (1 week ago)
 
