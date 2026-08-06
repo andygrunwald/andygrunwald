@@ -5,25 +5,25 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 weeks ago)
 - [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (2 weeks ago)
 - [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-02](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-02), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 1 day ago) - Paperless-ngx metrics for Prometheus
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 3 weeks ago) - A simple Go framework for building GitHub Apps
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-05](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-05), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 4 days ago) - Paperless-ngx metrics for Prometheus
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.46.0](https://github.com/palantir/go-githubapp/releases/tag/v0.46.0), 1 month ago) - A simple Go framework for building GitHub Apps
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.12.0](https://github.com/useplunk/plunk/releases/tag/v0.12.0), 1 month ago) - The Open-Source Email Platform
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 4 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1515) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (2 days ago)
+- [chore: update podcast episodes best-of](https://github.com/EngineeringKiosk/webpage/pull/1515) on [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) (5 days ago)
 - [Apache Tika: Remove software-properties-common from Apache Tika install](https://github.com/community-scripts/ProxmoxVE/pull/16054) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
 - [Upgrade `github.com/google/go-github` from v64 to v89](https://github.com/dghubble/gologin/pull/372) on [dghubble/gologin](https://github.com/dghubble/gologin) (1 week ago)
 - [Apache Tika: Switch from Debian Bookworm to Debian Trixie and replace manual install of OpenJDK with setup_java](https://github.com/community-scripts/ProxmoxVE/pull/16036) on [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) (1 week ago)
