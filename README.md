@@ -5,18 +5,18 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (5 days ago)
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 day ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (1 week ago)
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (1 week ago)
 - [sourcectl/webpage](https://github.com/sourcectl/webpage) -  (1 week ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (3 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-16](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-16), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.47.0](https://github.com/palantir/go-githubapp/releases/tag/v0.47.0), 6 days ago) - A simple Go framework for building GitHub Apps
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.13.0](https://github.com/useplunk/plunk/releases/tag/v0.13.0), 1 week ago) - The Open-Source Email Platform
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-19](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-19), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.14.0](https://github.com/useplunk/plunk/releases/tag/v0.14.0), 3 days ago) - The Open-Source Email Platform
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.47.0](https://github.com/palantir/go-githubapp/releases/tag/v0.47.0), 1 week ago) - A simple Go framework for building GitHub Apps
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 2 weeks ago) - Paperless-ngx metrics for Prometheus
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 5 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
