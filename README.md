@@ -5,29 +5,29 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (4 days ago)
-- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (4 days ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (4 days ago)
+- [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (1 day ago)
+- [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) - andygrunwald.com (1 day ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (1 week ago)
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (1 week ago)
 - [andygrunwald/vdf](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go (1 week ago)
-- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-26](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-26), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.2.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.2.0), 5 days ago) - Go client/library for Gerrit Code Review
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.47.1](https://github.com/palantir/go-githubapp/releases/tag/v0.47.1), 6 days ago) - A simple Go framework for building GitHub Apps
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.14.0](https://github.com/useplunk/plunk/releases/tag/v0.14.0), 1 week ago) - The Open-Source Email Platform
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 3 weeks ago) - Paperless-ngx metrics for Prometheus
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-08-30](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-08-30), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.2.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.2.0), 1 week ago) - Go client/library for Gerrit Code Review
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.14.0](https://github.com/useplunk/plunk/releases/tag/v0.14.0), 2 weeks ago) - The Open-Source Email Platform
+- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 4 weeks ago) - Paperless-ngx metrics for Prometheus
+- [andygrunwald/vdf](https://github.com/andygrunwald/vdf) ([v2.0.0](https://github.com/andygrunwald/vdf/releases/tag/v2.0.0), 5 months ago) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go
 
 ### 🔨 Latest Pull Requests I published
 
 
-- [Delete the write-only class name helpers](https://github.com/andygrunwald/andygrunwald.com/pull/616) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
-- [Match the blog route to the shape of its ids](https://github.com/andygrunwald/andygrunwald.com/pull/615) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
-- [Collapse the one-utility-per-line @apply in blogpost.css](https://github.com/andygrunwald/andygrunwald.com/pull/614) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
-- [Keep the footer TODO out of the shipped HTML](https://github.com/andygrunwald/andygrunwald.com/pull/613) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
-- [Lazy-load the YouTube embeds](https://github.com/andygrunwald/andygrunwald.com/pull/612) on [andygrunwald/andygrunwald.com](https://github.com/andygrunwald/andygrunwald.com) (4 days ago)
+- [Rename the project to heizsaison](https://github.com/andygrunwald/oil-price-scraper/pull/39) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (1 day ago)
+- [Rework README.md and extract reference docs into docs/](https://github.com/andygrunwald/oil-price-scraper/pull/38) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (1 day ago)
+- [Extract oil price types into internal/models/oil.go](https://github.com/andygrunwald/oil-price-scraper/pull/37) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (1 day ago)
+- [Extract oil price operations into internal/database/oil.go](https://github.com/andygrunwald/oil-price-scraper/pull/36) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (1 day ago)
+- [Document how to enable debug logging](https://github.com/andygrunwald/oil-price-scraper/pull/35) on [andygrunwald/oil-price-scraper](https://github.com/andygrunwald/oil-price-scraper) (1 day ago)
 
 ### 📝 My recent blog posts
 
