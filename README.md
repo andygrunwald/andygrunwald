@@ -14,8 +14,8 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-25](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-25), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.17.0](https://github.com/useplunk/plunk/releases/tag/v0.17.0), 5 days ago) - The Open-Source Email Platform
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-10-28](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-10-28), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.17.0](https://github.com/useplunk/plunk/releases/tag/v0.17.0), 1 week ago) - The Open-Source Email Platform
 - [andygrunwald/heizsaison](https://github.com/andygrunwald/heizsaison) ([v2.1.0](https://github.com/andygrunwald/heizsaison/releases/tag/v2.1.0), 2 weeks ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.2.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.2.0), 2 months ago) - Go client/library for Gerrit Code Review
 - [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 2 months ago) - Paperless-ngx metrics for Prometheus
