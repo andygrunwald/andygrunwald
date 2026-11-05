@@ -5,20 +5,20 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 days ago)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (2 weeks ago)
 - [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (2 weeks ago)
-- [andygrunwald/your-connection-deserves-a-name](https://github.com/andygrunwald/your-connection-deserves-a-name) - Examples and code to assign a name to your MongoDB, MySQL, NATS, Oracle, PostgreSQL, RabbitMQ, and redis connection. (2 weeks ago)
-- [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) - Go client/library for Gerrit Code Review (2 weeks ago)
 - [andygrunwald/heizsaison](https://github.com/andygrunwald/heizsaison) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database (2 weeks ago)
+- [EngineeringKiosk/GermanTechPodcasts](https://github.com/EngineeringKiosk/GermanTechPodcasts) - A curated list of German Tech Podcasts 🇩🇪 🇦🇹 🇨🇭 (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-01](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-01), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.18.0](https://github.com/useplunk/plunk/releases/tag/v0.18.0), 1 day ago) - The Open-Source Email Platform
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-04](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-04), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.18.0](https://github.com/useplunk/plunk/releases/tag/v0.18.0), 4 days ago) - The Open-Source Email Platform
+- [grafana/grafana](https://github.com/grafana/grafana) ([v13.2.5](https://github.com/grafana/grafana/releases/tag/v13.2.5), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [andygrunwald/heizsaison](https://github.com/andygrunwald/heizsaison) ([v2.1.0](https://github.com/andygrunwald/heizsaison/releases/tag/v2.1.0), 3 weeks ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 - [andygrunwald/go-gerrit](https://github.com/andygrunwald/go-gerrit) ([v1.2.0](https://github.com/andygrunwald/go-gerrit/releases/tag/v1.2.0), 2 months ago) - Go client/library for Gerrit Code Review
-- [hansmi/prometheus-paperless-exporter](https://github.com/hansmi/prometheus-paperless-exporter) ([v0.0.10](https://github.com/hansmi/prometheus-paperless-exporter/releases/tag/v0.0.10), 3 months ago) - Paperless-ngx metrics for Prometheus
 
 ### 🔨 Latest Pull Requests I published
 
