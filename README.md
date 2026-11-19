@@ -5,18 +5,18 @@ I am a Software Engineer and Engineering Manager from Germany with a focus on **
 ### 👷 Check out what I'm currently working on
 
 
-- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (3 days ago)
-- [palantir/go-baseapp](https://github.com/palantir/go-baseapp) - A lightweight starting point for Go web servers (6 days ago)
+- [EngineeringKiosk/webpage](https://github.com/EngineeringKiosk/webpage) - Landing page hosted on netlify (6 days ago)
+- [palantir/go-baseapp](https://github.com/palantir/go-baseapp) - A lightweight starting point for Go web servers (1 week ago)
 - [palantir/go-githubapp](https://github.com/palantir/go-githubapp) - A simple Go framework for building GitHub Apps (1 week ago)
 - [EngineeringKiosk/awesome-software-engineering-movies](https://github.com/EngineeringKiosk/awesome-software-engineering-movies) - Movies, documentaries and other related material to watch related to Software Engineering, Open Source, Programming languages and culture (1 week ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
 
 ### 🔭 Latest releases I've contributed to
 
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-15](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-15), today) - Proxmox VE Helper-Scripts (Community Edition) 
-- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.50.0](https://github.com/palantir/go-githubapp/releases/tag/v0.50.0), 4 days ago) - A simple Go framework for building GitHub Apps
-- [grafana/grafana](https://github.com/grafana/grafana) ([v13.3.1](https://github.com/grafana/grafana/releases/tag/v13.3.1), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) ([2026-11-18](https://github.com/community-scripts/ProxmoxVE/releases/tag/2026-11-18), today) - Proxmox VE Helper-Scripts (Community Edition) 
+- [palantir/go-githubapp](https://github.com/palantir/go-githubapp) ([v0.50.0](https://github.com/palantir/go-githubapp/releases/tag/v0.50.0), 1 week ago) - A simple Go framework for building GitHub Apps
+- [grafana/grafana](https://github.com/grafana/grafana) ([v13.3.1](https://github.com/grafana/grafana/releases/tag/v13.3.1), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [useplunk/plunk](https://github.com/useplunk/plunk) ([v0.18.0](https://github.com/useplunk/plunk/releases/tag/v0.18.0), 2 weeks ago) - The Open-Source Email Platform
 - [andygrunwald/heizsaison](https://github.com/andygrunwald/heizsaison) ([v2.1.0](https://github.com/andygrunwald/heizsaison/releases/tag/v2.1.0), 1 month ago) - A price scraper for heating oil from multiple providers and stores the results in a PostgreSQL database
 
